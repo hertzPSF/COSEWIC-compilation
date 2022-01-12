@@ -8,7 +8,7 @@ library(broom)
 
 
 
-#### 1 Read in and manipulateddata
+#### 1 Read in and manipulate data
 
 #read in CU level data
 cc_file <- read.csv("data/dataset_1part1.Dec072020_CC.csv", header = T)
@@ -30,3 +30,9 @@ cu_dat$Species[cu_dat$Species=="Lake Sockeye"] <- "Sockeye"
 
 names(cu_dat)[names(cu_dat) == "LGL.counts"] <- "Spawner.Abundance"
 
+write.csv(cu_dat, "Output/CU_Spawner_Abund_20220112.csv", row.names=FALSE)
+
+
+#### read in CU decoder
+cu_decoder <- read.csv("data/All_regions_CU_decoder.csv", header = T)
+unique(cu_decoder$DU_name)
