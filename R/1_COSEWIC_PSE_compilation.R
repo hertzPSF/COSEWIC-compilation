@@ -28,3 +28,5 @@ unique(cu_dat$Species)
 cu_dat$Species[cu_dat$Species=="River Sockeye"] <- "Sockeye"
 cu_dat$Species[cu_dat$Species=="Lake Sockeye"] <- "Sockeye"
 
+names(cu_dat)[names(cu_dat) == "LGL.counts"] <- "Spawner.Abundance"
+
