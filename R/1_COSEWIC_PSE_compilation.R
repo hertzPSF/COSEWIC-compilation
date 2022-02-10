@@ -2,7 +2,7 @@
 # The code was originally written by Eric Hertz at the Pacific Salmon Foundation ehertz@psf.ca 
 
 rm(list = ls(all=TRUE)); #Remove all the objects in the memory
-setwd("~/Dropbox (Salmon Watersheds)/X Drive/1_PROJECTS/1_Active/SARA/Deliverables/COSEWIC-compilation/")
+setwd("~/Dropbox (Salmon Watersheds)/X Drive/1_PROJECTS/1_Active/SARA/Data & Analysis/COSEWIC-compilation/")
 library(tidyverse)
 library(broom)
 
@@ -34,5 +34,14 @@ write.csv(cu_dat, "Output/CU_Spawner_Abund_20220112.csv", row.names=FALSE)
 
 
 #### read in CU decoder
-cu_decoder <- read.csv("data/All_regions_CU_decoder.csv", header = T)
-unique(cu_decoder$DU_name)
+cu_decoder <- read.csv("data/All_regions_CU_decoder_CA_20012022.csv", header = T)
+
+#read in other meta-data type files
+cu_dq <- read.csv("data/AllRegions_CU_data_quality.csv", header = T)
+cu_enh <- read.csv("data/CU_enhancement_levelAug252021.csv", header = T)
+cu_sites <- read.csv("data/NuSEDS_sites.csv", header = T)
+
+# join metadata files to cu_decoder
+cu_2 <- left_join(cu_decoder, cu_dq, by=c("cuid"))
+cu_3 <- left_join(cu_2, cu_enh, by=c("cuid"))
+cu_4 <- left_join(cu_3, cu_sites, by=c("FULL_CU_IN"))
