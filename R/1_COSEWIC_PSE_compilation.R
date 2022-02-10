@@ -34,7 +34,7 @@ write.csv(cu_dat, "Output/CU_Spawner_Abund_20220112.csv", row.names=FALSE)
 
 
 #### read in CU decoder
-cu_decoder <- read.csv("data/All_regions_CU_decoder_CA_20012022.csv", header = T)
+cu_decoder <- read.csv("data/All_regions_CU_decoder_CA.csv", header = T)
 
 #read in other meta-data type files
 cu_dq <- read.csv("data/AllRegions_CU_data_quality.csv", header = T)
@@ -45,3 +45,11 @@ cu_sites <- read.csv("data/NuSEDS_sites.csv", header = T)
 cu_2 <- left_join(cu_decoder, cu_dq, by=c("cuid"))
 cu_3 <- left_join(cu_2, cu_enh, by=c("cuid"))
 cu_4 <- left_join(cu_3, cu_sites, by=c("FULL_CU_IN"))
+
+#select variables of interest
+cu_5 <- select(cu_4,cuid,cuname.x,cu_acronym,du_number,du_acronym,DU_name,FULL_CU_IN,spp,gen_length,COSEWIC_status,survey_quality,survey_coverage,survey_execution,catch_quality,dq_score,cu_enh_rank,Sites)
+
+
+write.csv(cu_5, "Output/CU_Metadata_20220112.csv", row.names=FALSE)
+
+
