@@ -24,11 +24,16 @@ cu_dat <- bind_rows(cc_file,fraser_file,vimi_file,nass_file,skeena_file,hg_file,
 #check species names
 unique(cu_dat$Species)
 
-cu_dat <- cu_dat %>%
-  mutate(Species = ifelse(grepl("Sockeye", Species), "Sockeye", Species)) %>%
-  rename(Spawner.Abundance = LGL.counts)
+#any 0's? in the spawners?
+length(filter(cu_dat, LGL.counts==0)$LGL.counts)
 
-#write.csv(cu_dat, "Output/CU_Spawner_Abund_20220112.csv", row.names=FALSE)
+
+cu_dat <- cu_dat %>%
+  mutate(Species = ifelse(grepl("Sockeye", Species), "Sockeye", Species),
+         Spawner.Abundance = ifelse(LGL.counts==0, NA, LGL.counts)) %>%
+  select(-LGL.counts)
+
+write.csv(cu_dat, "Output/CU_Spawner_Abund_20220112.csv", row.names=FALSE)
 
 rm(cc_file, fraser_file, vimi_file, nass_file, skeena_file, hg_file, columbia_file)
 
