@@ -62,11 +62,9 @@ Ocean/Stream, Summer",NCC Late,CN_41,CK-41,Chinook,5,,NA,y
 211,Lower Skeena-CM,,CM26,Lower Skeena,,CM_27,CM-27,Chum,4,,NA,y
 214,Middle Skeena-CM,,CM27,Middle Skeena,,CM_28,CM-28,Chum,NA,,NA,y
 220,Skeena Estuary-CM,,CM25,Skeena Estuary,,CM_26,CM-26,Chum,NA,,NA,y
-242,Upper Skeena,,,,,NA,NA,Chum,6,,NA,No corresponding DU in provisional info from 2022 DU report
 404,Portland Inlet,,CM28,Portland Canal,,CM_30,CM-30,Chum,4,,NA,y
 405,Lower Nass,,CM29,Lower Nass River,,CM_31,CM-31,Chum,4,,NA,y
 406,Portland Canal-Observatory,,CM30,Portland Canal - Observatory Inlet ,,CM_32,CM-32,Chum,4,,NA,y
-,,,CM31,Upper Nass,,,,Chum,,,NA,No corresponding CU in provisional info from 2022 DU report
 500,Smith Inlet,,CM17,Smith Inlet,,CM_12,CM-12,Chum,4,,NA,y
 501,Rivers Inlet,,CM16,Rivers Inlet,,CM_13,CM-13,Chum,4,,NA,y
 502,Wannock,,CM18,Wannock River,,CM_14,CM-14,Chum,4,,NA,y
@@ -230,7 +228,7 @@ Ocean/Stream, Summer",NCC Late,CN_41,CK-41,Chinook,5,,NA,y
 180,Babine,BABINE,SE158,Babine,BABINE,SX_L-21-02-EW,SEL-21-02-EW,Sockeye-Lake,5,,NA,y
 181,Bulkley,BULKLEY,SE159,Bulkley,BULKLEY,NA,SEL-21-03,Sockeye-Lake,5,,NA,y
 182,Club Lake,,,,,NA,NA,Sockeye-Lake,5,,NA,No reference to corresponding DU in 2015 or 2021 COSEWIC SE DU reports; Skeena region; displayed on PSE as Swan/Club
-183,Gitanyow,,SE160,Kitwancool,KITWANCOOL,SX_L-21-05,SEL-21-05,Sockeye-Lake,5,,NA,"Discrepancy in name - 2021 SE DU report calls ""Kitwancoo""; Cu index matches "
+183,Gitanyow,,SE160,Kitwancool,KITWANCOOL,SX_L-21-05,SEL-21-05,Sockeye-Lake,5,,NA,y
 184,Maxan,MAXAN,SE161,Maxan,MAXAN,NA,NA,Sockeye-Lake,5,,NA,2021 SE DU report has CU index as L-21-6
 185,Morice,MORICE,SE162,Morice,MORICE,SX_L-21-07,SEL-21-07,Sockeye-Lake,6,,NA,y
 186,Nilkitkwa,,,,,SX_L-21-02-LW,SEL-21-02-LW,Sockeye-Lake,5,,NA,No reference to corresponding DU in 2015 or 2021 COSEWIC SE DU reports; Skeena region; Data on PSE 
@@ -455,10 +453,8 @@ Ocean/Stream, Summer",NCC Late,CN_41,CK-41,Chinook,5,,NA,y
 742,Widgeon,,SE023,Widgeon (River-Type) population,,SER-002,SER-02,Sockeye-River,4,Threatened,2017,y
 745,Harrison River,,SE024,Harrison (River-Type) population,,SER-003,SER-03,Sockeye-River,4,Not at risk,2017,y
 816,East Haida Gwaii,,SE034,East Haida Gwaii,EHG,NA,SER-13,Sockeye-River,NA,,NA,y
-817,North Haida Gwaii,,,,,NA,SER-14,Sockeye-River,NA,,NA,"Seems like the names is switched with SER-15, should be West Haida Gwaii? "
-818,West Haida Gwaii,,,,,NA,SER-15,Sockeye-River,NA,,NA,"Seems like the names is switched with SER-14, should be North Haida Gwaii? "
-,,,SE032,West Haida Gwaii,WHG,,,Sockeye-River,,,NA,See comments on corresponding Cus - name issues
-,,,SE033,North Haida Gwaii,NHG,,,Sockeye-River,,,NA,See comments on corresponding Cus - name issues
+817,North Haida Gwaii,,SE033,North Haida Gwaii,NHG,,,Sockeye-River,,,NA,"Seems like the names is switched with SER-15, should be West Haida Gwaii? "
+818,West Haida Gwaii,,SE032,West Haida Gwaii,WHG,,,Sockeye-River,,,NA,"Seems like the names is switched with SER-14, should be North Haida Gwaii? "
 971,Southern Fjords,,SE027,South Coast-Southern Fjords,SC-SFj,SER-009,SER-009,Sockeye-River,5,,NA,y
 971,Southern Fjords,,SE029,Hamothko-Klinaklini-Southern Fjords,HK,SER-009,SER-009,Sockeye-River,5,,NA,y
 972,West Vancouver Island,,SE030,West Vancouver Is,WVI,SER-010,SER-010,Sockeye-River,5,,NA,y
