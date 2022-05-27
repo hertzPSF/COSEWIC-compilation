@@ -56,29 +56,29 @@ cuid,cuname,cu_acronym,du_number,DU_name,du_acronym,trtc_cu,FULL_CU_IN,spp,gen_l
 1012,UNUK RIVER,UNUK,CK51,"Unuk River, Stream Summer",UNUK,,CK-59,Chinook,,,,
 307,CK007-Maria Slough_SU_0.3,Maria,CK6,"Lower Fraser, Ocean, Summer (Maria Slough) population",LFR+GStr/Ocean/Summer,CK-007,CK-7,Chinook,4,Endangered,2020,y
 1010,STIKINE-EARLY TIMING,LSTK-early,CK60,Stikine - early timing Stream Summer,LSTK-E,,CK-60,Chinook,,,,
-1102,Yukon River-Teslin headwaters,Teslin,CK60,Yukon - Teslin Headwaters Stream Summer,YUK-TESLIN,,,Chinook,,,,"from DU report ""CU68 and CU69 could not be separated for ES."
-1200,Upper Yukon River,UpperYR,CK60,Yukon - Teslin Headwaters Stream Summer,YUK-TESLIN,,,Chinook,,,,"from DU report ""CU68 and CU69 could not be separated for ES."
+1102,Yukon River-Teslin headwaters,Teslin,CK60,Yukon - Teslin Headwaters Stream Summer,YUK-TESLIN,,CK-68,Chinook,,,,"from DU report ""CU68 and CU69 could not be separated for ES."
+1200,Upper Yukon River,UpperYR,CK60,Yukon - Teslin Headwaters Stream Summer,YUK-TESLIN,,CK-69,Chinook,,,,"from DU report ""CU68 and CU69 could not be separated for ES."
 1011,STIKINE-LATE TIMING,LSTK-late,CK61,Stikine - late Stream Summer timing,LSTK-L,,CK-61,Chinook,,,,
-1201,Big Salmon,BigSal,CK61,Big Salmon River Stream Summer,BSALR,,,Chinook,,,,
+1201,Big Salmon,BigSal,CK61,Big Salmon River Stream Summer,BSALR,,CK-70,Chinook,,,,
 1009,WHITING RIVER,WHITING,CK62,"Whiting River, Stream Summer",WHITING,,CK-62,Chinook,,,,
-1202,Nordenskiold,Norden,CK62,Nordenskiold Stream Summer,NORDEN,,,Chinook,,,,
+1202,Nordenskiold,Norden,CK62,Nordenskiold Stream Summer,NORDEN,,CK-71,Chinook,,,,
 1006,TAKU-EARLY TIMING,Taku-early,CK63,Taku - early Stream Summer,TAKU-E,,CK-63,Chinook,,,,
-1203,Pelly,Pelly,CK63,Pelly River Stream Summer,PELLY,,,Chinook,,,,
-1204,Middle Yukon River and tributaries,MidYR,CK63,Mid-Yukon River and Trib Stream Summer,MidYR,,,Chinook,,,,
-1205,Stewart,Stew,CK63,Pelly River Stream Summer,PELLY,,,Chinook,,,,As DU grouped with Pelly
+1203,Pelly,Pelly,CK63,Pelly River Stream Summer,PELLY,,CK-72,Chinook,,,,DU group includes Stewart (CK-74)
+1204,Middle Yukon River and tributaries,MidYR,CK63,Mid-Yukon River and Trib Stream Summer,MidYR,,CK-73,Chinook,,,,
+1205,Stewart,Stew,CK63,Pelly River Stream Summer,PELLY,,CK-74,Chinook,,,,As DU grouped with Pelly (CK-72)
 1007,TAKU-MID TIMING,Taku-mid,CK64,Taku - mid Stream Summer,TAKU-M,,CK-64,Chinook,,,,
 1008,TAKU-LATE TIMING,Taku-late,CK65,Taku - late Stream Summer,TAKU-L,,CK-65,Chinook,,,,
-1206,White and tributaries,White,CK65,White River and Trib Stream Summer,WHITE,,,Chinook,,,,
+1206,White and tributaries,White,CK65,White River and Trib Stream Summer,WHITE,,CK-75,Chinook,,,,
 1005,LYNN CANAL,LYNN,CK66,Chilkat Stream Spring,LYNN,,CK-66,Chinook,,,,
-1207,Northern Yukon River and tributaries,NYR,CK66,N Yukon River and Trib Stream Summer,NYR,,,Chinook,,,,
+1207,Northern Yukon River and tributaries,NYR,CK66,N Yukon River and Trib Stream Summer,NYR,,CK-76,Chinook,,,,
 1004,ALSEK,ALSEK,CK67,Alsek Stream Summer,ALSEK,,CK-67,Chinook,,,,
-1209,Porcupine,Porcu,CK67,Porcupine River Stream Summer,PORCR,,,Chinook,,,,
-1210,Old Crow,OldC,CK68,Old Crow River Stream Summer,OCROW,,,Chinook,,,,
+1209,Porcupine,Porcu,CK67,Porcupine River Stream Summer,PORCR,,CK-78,Chinook,,,,
+1210,Old Crow,OldC,CK68,Old Crow River Stream Summer,OCROW,,CK-79,Chinook,,,,
 301,Okanagan,OK,CK69,"Okanagan River, Ocean, Fall",OK+ORWA/Ocean/Fall,CK-001,CK-1,Chinook,,Endangered,2017,y
 308,CK008-Middle Fraser-Fraser Canyon_SP_1.3,NAHAT,CK7,"Middle Fraser, Stream, Spring (FR Canyon) population",FRCanyGStr/Stream/Spring,CK-008,CK-8,Chinook,5,Endangered,2018,y
 309,CK009-Middle Fraser River-Portage_FA_1.3,Portage,CK8,"Middle Fraser, Stream, Fall (Portage) population",MFR+GStr/Stream/Fall,CK-009,CK-9,Chinook,5,Endangered,2018,y
 310,CK010-Middle Fraser River_SP_1.3,MFR-spring,CK9,"Middle Fraser, Stream, Spring (MFR+GStr) population",MFR+GStr/Stream/Spring,CK-010,CK-10,Chinook,5,Threatened,2018,y
-1208,Salmon Fork,SFork,,,,,,Chinook,,,,No DU specified could potentially be grouped with Porcupine
+1208,Salmon Fork,SFork,,,,,CK-77,Chinook,,,,No DU specified could potentially be grouped with Porcupine (CK-78)
 701,Lower Fraser,,CM01,Lower Fraser,,CM-002,CM-2,Chum,4,,NA,y
 904,Georgia Strait,,CM02,Georgia Strait Mainland,,CM-004,CM-4,Chum,4,,NA,y
 905,Howe Sound-Burrand Inlet,,CM03,Howe Sound-Burrand Inlet,,CM-003,CM-3,Chum,4,,NA,y
