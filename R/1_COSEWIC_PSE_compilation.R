@@ -38,7 +38,7 @@ write.csv(cu_dat, "Output/CU_Spawner_Abund_20220112.csv", row.names=FALSE)
 rm(cc_file, fraser_file, vimi_file, nass_file, skeena_file, hg_file, columbia_file)
 
 #### read in CU decoder
-cu_decoder <- read.csv("data/All_regions_CU_decoder_CA.csv", header = T)
+cu_decoder <- read.csv("data/all_regions_cu_du_smu_decoder.csv", header = T)
 
 #read in other meta-data type files
 cu_dq <- read.csv("data/AllRegions_CU_data_quality.csv", header = T)
