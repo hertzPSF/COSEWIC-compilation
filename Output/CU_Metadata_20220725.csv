@@ -1,8 +1,8 @@
 "cuid","cuname.x","cu_acronym","du_number","du_acronym","DU_name","FULL_CU_IN","spp","gen_length","COSEWIC_status","survey_quality","survey_coverage","survey_execution","catch_quality","dq_score","cu_enh_rank","Sites"
-1205,"Stewart","Stew","CK63","PELLY","Pelly River Stream Summer","CK-74","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,5
-1203,"Pelly","Pelly","CK63","PELLY","Pelly River Stream Summer","CK-72","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,17
-1102,"Yukon River-Teslin headwaters","Teslin","CK60","YUK-TESLIN","Yukon - Teslin Headwaters Stream Summer","CK-68","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,8
-1200,"Upper Yukon River","UpperYR","CK60","YUK-TESLIN","Yukon - Teslin Headwaters Stream Summer","CK-69","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,8
+1205,"Stewart","Stew","CK63","PELLY","Pelly River Stream Summer","CK-74","Chinook",6,NA,NA,NA,NA,NA,NA,NA,5
+1203,"Pelly","Pelly","CK63","PELLY","Pelly River Stream Summer","CK-72","Chinook",6,NA,NA,NA,NA,NA,NA,NA,17
+1102,"Yukon River-Teslin headwaters","Teslin","CK60","YUK-TESLIN","Yukon - Teslin Headwaters Stream Summer","CK-68","Chinook",6,NA,NA,NA,NA,NA,NA,NA,8
+1200,"Upper Yukon River","UpperYR","CK60","YUK-TESLIN","Yukon - Teslin Headwaters Stream Summer","CK-69","Chinook",6,NA,NA,NA,NA,NA,NA,NA,8
 205,"Ecstall",NA,"CK41","ECST","Ecstall, Ocean, Summer","CK-46","Chinook",6,NA,0,0,0,0,0,"None",4
 206,"Kalum-early timing",NA,"CK43","KALUM-E","Kalum ? Early Timing, Stream, Spring","CK-49","Chinook",6,NA,0,0,0,0,0,"Low",2
 207,"Kalum-late timing",NA,"CK44","KALUM-L","Kalum ? Late Timing, Stream, Summer","CK-50","Chinook",6,NA,1,5,4,5,15,"High",7
@@ -15,26 +15,26 @@
 227,"Lakelse-CK",NA,"CK42","LSK","Lower Skeena, Stream, Summer","CK-51","Chinook",6,NA,0,0,0,0,0,"Low",5
 229,"Zymoetz",NA,"CK42","LSK","Lower Skeena, Stream, Summer","CK-80","Chinook",6,NA,0,0,0,0,0,"None",6
 241,"Sicintine",NA,"CK48",NA,"Upper Skeena River, Stream, Spring","CK-81","Chinook",6,NA,0,0,0,0,0,"None",1
-1004,"ALSEK","ALSEK","CK67","ALSEK","Alsek Stream Summer","CK-67","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,5
-1006,"TAKU-EARLY TIMING","Taku-early","CK63","TAKU-E","Taku - early Stream Summer","CK-63","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,4
-1007,"TAKU-MID TIMING","Taku-mid","CK64","TAKU-M","Taku - mid Stream Summer","CK-64","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,1
-1008,"TAKU-LATE TIMING","Taku-late","CK65","TAKU-L","Taku - late Stream Summer","CK-65","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,4
-1010,"STIKINE-EARLY TIMING","LSTK-early","CK60","LSTK-E","Stikine - early timing Stream Summer","CK-60","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,4
-1011,"STIKINE-LATE TIMING","LSTK-late","CK61","LSTK-L","Stikine - late Stream Summer timing","CK-61","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,3
-1201,"Big Salmon","BigSal","CK61","BSALR","Big Salmon River Stream Summer","CK-70","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1202,"Nordenskiold","Norden","CK62","NORDEN","Nordenskiold Stream Summer","CK-71","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,1
-1204,"Middle Yukon River and tributaries","MidYR","CK63","MidYR","Mid-Yukon River and Trib Stream Summer","CK-73","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,3
-1206,"White and tributaries","White","CK65","WHITE","White River and Trib Stream Summer","CK-75","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,2
-1207,"Northern Yukon River and tributaries","NYR","CK66","NYR","N Yukon River and Trib Stream Summer","CK-76","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,4
-1209,"Porcupine","Porcu","CK67","PORCR","Porcupine River Stream Summer","CK-78","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,1
-1210,"Old Crow","OldC","CK68","OCROW","Old Crow River Stream Summer","CK-79","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1005,"LYNN CANAL","LYNN","CK66","LYNN","Chilkat Stream Spring","CK-66","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1009,"WHITING RIVER","WHITING","CK62","WHITING","Whiting River, Stream Summer","CK-62","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1012,"UNUK RIVER","UNUK","CK51","UNUK","Unuk River, Stream Summer","CK-59","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,NA
+1004,"ALSEK","ALSEK","CK67","ALSEK","Alsek Stream Summer","CK-67","Chinook",6,NA,NA,NA,NA,NA,NA,NA,5
+1006,"TAKU-EARLY TIMING","Taku-early","CK63","TAKU-E","Taku - early Stream Summer","CK-63","Chinook",6,NA,NA,NA,NA,NA,NA,NA,4
+1007,"TAKU-MID TIMING","Taku-mid","CK64","TAKU-M","Taku - mid Stream Summer","CK-64","Chinook",6,NA,NA,NA,NA,NA,NA,NA,1
+1008,"TAKU-LATE TIMING","Taku-late","CK65","TAKU-L","Taku - late Stream Summer","CK-65","Chinook",6,NA,NA,NA,NA,NA,NA,NA,4
+1010,"STIKINE-EARLY TIMING","LSTK-early","CK60","LSTK-E","Stikine - early timing Stream Summer","CK-60","Chinook",6,NA,NA,NA,NA,NA,NA,NA,4
+1011,"STIKINE-LATE TIMING","LSTK-late","CK61","LSTK-L","Stikine - late Stream Summer timing","CK-61","Chinook",6,NA,NA,NA,NA,NA,NA,NA,3
+1201,"Big Salmon","BigSal","CK61","BSALR","Big Salmon River Stream Summer","CK-70","Chinook",6,NA,NA,NA,NA,NA,NA,NA,NA
+1202,"Nordenskiold","Norden","CK62","NORDEN","Nordenskiold Stream Summer","CK-71","Chinook",6,NA,NA,NA,NA,NA,NA,NA,1
+1204,"Middle Yukon River and tributaries","MidYR","CK63","MidYR","Mid-Yukon River and Trib Stream Summer","CK-73","Chinook",6,NA,NA,NA,NA,NA,NA,NA,3
+1206,"White and tributaries","White","CK65","WHITE","White River and Trib Stream Summer","CK-75","Chinook",6,NA,NA,NA,NA,NA,NA,NA,2
+1207,"Northern Yukon River and tributaries","NYR","CK66","NYR","N Yukon River and Trib Stream Summer","CK-76","Chinook",6,NA,NA,NA,NA,NA,NA,NA,4
+1209,"Porcupine","Porcu","CK67","PORCR","Porcupine River Stream Summer","CK-78","Chinook",6,NA,NA,NA,NA,NA,NA,NA,1
+1210,"Old Crow","OldC","CK68","OCROW","Old Crow River Stream Summer","CK-79","Chinook",6,NA,NA,NA,NA,NA,NA,NA,NA
+1005,"LYNN CANAL","LYNN","CK66","LYNN","Chilkat Stream Spring","CK-66","Chinook",6,NA,NA,NA,NA,NA,NA,NA,NA
+1009,"WHITING RIVER","WHITING","CK62","WHITING","Whiting River, Stream Summer","CK-62","Chinook",6,NA,NA,NA,NA,NA,NA,NA,NA
+1012,"UNUK RIVER","UNUK","CK51","UNUK","Unuk River, Stream Summer","CK-59","Chinook",6,NA,NA,NA,NA,NA,NA,NA,NA
 NA,"(P)Hatchery Exclusion-Lower Fraser River",NA,NA,NA,NA,NA,"Chinook",NA,NA,NA,NA,NA,NA,NA,NA,NA
 NA,"includes production from major hatchery facilities at Conuma, Stamp, and Nitinat rivers",NA,NA,NA,NA,NA,"Chinook",NA,NA,NA,NA,NA,NA,NA,NA,NA
-1208,"Salmon Fork","SFork",NA,NA,NA,"CK-77","Chinook",NA,NA,NA,NA,NA,NA,NA,NA,NA
-301,"Okanagan","OK","CK69","OK+ORWA/Ocean/Fall","Okanagan River, Ocean, Fall","CK-1","Chinook",NA,"Endangered",NA,NA,NA,NA,NA,"None",1
+1208,"Salmon Fork","SFork",NA,NA,NA,"CK-77","Chinook",6,NA,NA,NA,NA,NA,NA,NA,NA
+301,"Okanagan","OK","CK69","OK+ORWA/Ocean/Fall","Okanagan River, Ocean, Fall","CK-1","Chinook",4,"Endangered",NA,NA,NA,NA,NA,"None",1
 303,"Lower Fraser River_FA_0.3","LFR-fall","CK2","LFR+GStr/Ocean/Fall","Lower Fraser, Ocean, Fall population (Harrison)","CK-3","Chinook",4,"Threatened",4,5,5,0,14,"Moderate",1
 304,"Lower Fraser River_SP_1.3","LFR-spring","CK3","LFR+GStr/Stream/Spring","Lower Fraser, Stream, Spring population (Birkenhead)","CK-4","Chinook",5,"Special Concern",2,1,5,0,8,"Low",2
 305,"Lower Fraser River-Upper Pitt_SU_1.3","LFR-UPITT","CK4","LFR+GStr/Stream/Summer(Upper Pitt)","Lower Fraser, Stream, Summer (Upper Pitt) population","CK-5","Chinook",5,"Endangered",0,0,0,0,0,"Low",1
