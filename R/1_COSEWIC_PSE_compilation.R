@@ -15,10 +15,18 @@ vimi_file <- read.csv("data/dataset_1part1.Jul282021_VIMI.csv", header = T)
 nass_file <- read.csv("data/dataset_1part1.Dec092020_Nass.csv", header = T)
 skeena_file <- read.csv("data/dataset_1part1.May262022_Skeena.csv", header = T)
 hg_file <- read.csv("data/dataset_1part1.Oct252021_HG.csv", header = T)
+<<<<<<< HEAD
 columbia_file <- read.csv("data/dataset_1part1.NOV272019_Columbia.csv", header = T)
 yukon_file <- read.csv("data/yukon_chinook_rr_escape.09May2022.csv", header = T)
   
   
+=======
+columbia_file <- read.csv("data/dataset_1part1.NOV272019_Columbia.csv", header = T) %>%
+  #commas in these counts were messing things up
+  mutate(LGL.counts = as.integer(gsub(",", "", LGL.counts)), 
+         NuSEDS.counts.by.CU = as.integer(gsub(",", "", NuSEDS.counts.by.CU))) 
+yukon_file <- read.csv("data/yukon_chinook_rr_escape.09May2022.csv", header = T)
+>>>>>>> 6bdc41c89fe5d7c5650f32545a2337b941951758
 
 # combine files from each region, switched this to bind_rows to keep the functions in 
   #tidyverse-land. bind_rows has useful warnings.  
@@ -37,12 +45,17 @@ cu_dat <- cu_dat %>%
          Spawner.Abundance = ifelse(LGL.counts==0, NA, LGL.counts)) %>%
   select(-LGL.counts)
 
+<<<<<<< HEAD
 write.csv(cu_dat, "Output/CU_Spawner_Abund_20220802.csv", row.names=FALSE)
+=======
+write.csv(cu_dat, "Output/CU_Spawner_Abund_20220725.csv", row.names=FALSE)
+>>>>>>> 6bdc41c89fe5d7c5650f32545a2337b941951758
 
-rm(cc_file, fraser_file, vimi_file, nass_file, skeena_file, hg_file, columbia_file)
+rm(cc_file, fraser_file, vimi_file, nass_file, skeena_file, hg_file, columbia_file, yukon_file)
 
 #### read in CU decoder
-cu_decoder <- read.csv("data/all_regions_cu_du_smu_decoder.csv", header = T)
+cu_decoder <- read.csv("data/all_regions_cu_du_smu_decoder.csv", header = T)%>%
+  rename(cuid = ï..cuid) #fix weird special char in colname
 
 #read in other meta-data type files
 cu_dq <- read.csv("data/AllRegions_CU_data_quality.csv", header = T)
@@ -58,4 +71,8 @@ cu_metadata <- left_join(cu_decoder, cu_dq, by="cuid") %>%
          gen_length, COSEWIC_status, survey_quality, survey_coverage, survey_execution,
          catch_quality, dq_score, cu_enh_rank, Sites)
 
+<<<<<<< HEAD
 write.csv(cu_metadata, "Output/CU_Metadata_20220802.csv", row.names=FALSE)
+=======
+write.csv(cu_metadata, "Output/CU_Metadata_20220725.csv", row.names=FALSE)
+>>>>>>> 6bdc41c89fe5d7c5650f32545a2337b941951758
