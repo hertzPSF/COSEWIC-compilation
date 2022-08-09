@@ -43,7 +43,7 @@ cu_dat <- cu_dat %>%
   select(-LGL.counts)
 
 
-write.csv(cu_dat, "Output/CU_Spawner_Abund_20220804.csv", row.names=FALSE)
+write.csv(cu_dat, "Output/CU_Spawner_Abund_20220809.csv", row.names=FALSE)
 
 
 
@@ -55,9 +55,11 @@ cu_decoder <- read.csv("data/all_regions_cu_du_smu_decoder.csv", header = T)
 
 #read in other meta-data type files
 cu_dq <- read.csv("data/AllRegions_CU_data_quality.csv", header = T)
-cu_enh <- read.csv("data/CU_enhancement_levelAug252021.csv", header = T) 
+cu_enh <- read.csv("data/CU_enhancement_levelAug252021.csv", header = T) %>%
+  rename(cuid = ï..cuid) #fix weird special char in colname
   
-cu_sites <- read.csv("data/NuSEDS_sites.csv", header = T) 
+cu_sites <- read.csv("data/NuSEDS_sites.csv", header = T) %>%
+  rename(FULL_CU_IN = ï..FULL_CU_IN) #fix weird special char in colname
 
 # join metadata files to cu_decoder
 cu_metadata <- left_join(cu_decoder, cu_dq, by="cuid") %>%
@@ -65,8 +67,8 @@ cu_metadata <- left_join(cu_decoder, cu_dq, by="cuid") %>%
   left_join(., cu_sites, by = "FULL_CU_IN") %>%
   select(cuid, cuname.x, cu_acronym, du_number, du_acronym, DU_name, FULL_CU_IN, spp,
          gen_length, COSEWIC_status, survey_quality, survey_coverage, survey_execution,
-         catch_quality, dq_score, cu_enh_rank, Sites)
+         catch_quality, dq_score, cu_enh_rank, Sites,RegionAbbr) %>%
+  rename(Region = RegionAbbr)
 
-
-write.csv(cu_metadata, "Output/CU_Metadata_20220804.csv", row.names=FALSE)
+write.csv(cu_metadata, "Output/CU_Metadata_20220809.csv", row.names=FALSE)
 
