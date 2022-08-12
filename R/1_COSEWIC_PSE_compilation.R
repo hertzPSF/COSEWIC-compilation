@@ -43,7 +43,7 @@ cu_dat <- cu_dat %>%
   select(-LGL.counts)
 
 
-write.csv(cu_dat, "Output/CU_Spawner_Abund_20220809.csv", row.names=FALSE)
+write.csv(cu_dat, "Output/CU_Spawner_Abund_20220812.csv", row.names=FALSE)
 
 
 
@@ -70,5 +70,5 @@ cu_metadata <- left_join(cu_decoder, cu_dq, by="cuid") %>%
          catch_quality, dq_score, cu_enh_rank, Sites,RegionAbbr) %>%
   rename(Region = RegionAbbr)
 
-write.csv(cu_metadata, "Output/CU_Metadata_20220809.csv", row.names=FALSE)
+write.csv(cu_metadata, "Output/CU_Metadata_20220812.csv", row.names=FALSE)
 
