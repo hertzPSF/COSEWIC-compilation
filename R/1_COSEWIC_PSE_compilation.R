@@ -65,7 +65,7 @@ cu_sites <- read.csv("data/NuSEDS_sites.csv", header = T) %>%
 cu_metadata <- left_join(cu_decoder, cu_dq, by="cuid") %>%
   left_join(., cu_enh, by = "cuid") %>%
   left_join(., cu_sites, by = "FULL_CU_IN") %>%
-  select(cuid, cuname.x, cu_acronym, du_number, du_acronym, DU_name, FULL_CU_IN, spp,
+  select(cuid, cuname.x, cu_acronym, du_number, du_acronym, DU_name, DU_name_short, FULL_CU_IN, spp,
          gen_length, COSEWIC_status, survey_quality, survey_coverage, survey_execution,
          catch_quality, dq_score, cu_enh_rank, Sites,RegionAbbr) %>%
   rename(Region = RegionAbbr)
