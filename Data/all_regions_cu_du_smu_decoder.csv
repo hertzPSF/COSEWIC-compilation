@@ -38,43 +38,43 @@ NA,Port San Juan,PSJ,328,CK24,"West Vancouver Island, Ocean, Fall (South) popula
 515,NCC-early timing,NA,515,CK38,"North & Central Coast Early, Ocean, Spring",NCC early,CN_42,CK-42,Chinook,5,NA,NA,y,NORTH COAST,Chinook,47,Coastal Areas 3 to 6,CK::North and Central Coast-early timing,CENTRAL COAST CHINOOK SALMON
 NA,NA,NA,NA,CK39,"HecLow, Ocean/Stream, Summer",HecLow,NA,NA,Chinook,NA,NA,NA,y,NA,NA,NA,NA,NA,NA
 305,Lower Fraser River-Upper Pitt_SU_1.3,LFR-UPITT,305,CK4,"Lower Fraser, Stream, Summer (Upper Pitt) population",LFR+GStr/Stream/Summer(Upper Pitt),CK-005,CK-5,Chinook,5,Endangered,2018,y,FRASER,Chinook,97,Fraser River Spring Run 52,CK::Lower Fraser River-Upper Pitt,FRASER SPRING RUN 52 CHINOOK SALMON
-224,Skeena Estuary-CK,NA,224,CK40,"Skeena Estuary, Stream, Summer",SKEst,NA,CK-45,Chinook,6,NA,NA,y,NORTH COAST,Chinook,47,Coastal Areas 3 to 6,CK::Skeena Estuary,CENTRAL COAST CHINOOK SALMON
-205,Ecstall,NA,205,CK41,"Ecstall, Ocean, Summer",ECST,CN_46,CK-46,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Ecstall,SKEENA CHINOOK SALMON
-210,Lower Skeena-CK,NA,100,CK42,"Lower Skeena, Stream, Summer",LSK,CN_48,CK-48,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Lower Skeena,SKEENA CHINOOK SALMON
-227,Lakelse-CK,NA,100,CK42,"Lower Skeena, Stream, Summer",LSK,NA,CK-51,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Lakelse,SKEENA CHINOOK SALMON
-229,Zymoetz,NA,100,CK42,"Lower Skeena, Stream, Summer",LSK,NA,CK-80,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Zymoetz,SKEENA CHINOOK SALMON
-206,Kalum-early timing,NA,206,CK43,"Kalum ? Early Timing, Stream, Spring",KALUM-E,CN_49,CK-49,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Kalum-early timing,SKEENA CHINOOK SALMON
-207,Kalum-late timing,NA,207,CK44,"Kalum ? Late Timing, Stream, Summer",KALUM-L,CN_50,CK-50,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Kalum-late timing,SKEENA CHINOOK SALMON
-221,Upper Bulkley River,NA,221,CK45,"Bulkley River, Stream, Spring",NA,CN_55,CK-55,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Upper Bulkley River,SKEENA CHINOOK SALMON
-222,Middle Skeena-large lakes,NA,222,CK46,"Middle Skeena ? Lakes, Stream, Summer",MSK-LKS,CN_53,CK-53,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Middle Skeena-large lakes,SKEENA CHINOOK SALMON
-217,Middle Skeena-mainstem tributaries,NA,217,CK47,"Middle Skeena-M/S Tributary, Stream, Summer",MSK-M/S,CN_54,CK-54,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Middle Skeena-mainstem tributaries,SKEENA CHINOOK SALMON
-212,Upper Skeena-CK,NA,103,CK48,"Upper Skeena River, Stream, Spring",USK,NA,CK-56,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Upper Skeena,SKEENA CHINOOK SALMON
-241,Sicintine,NA,103,CK48,"Upper Skeena River, Stream, Spring",NA,NA,CK-81,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Sicintine,SKEENA CHINOOK SALMON
-401,Portland Sound-Observatory Inlet-Lower Nass,NA,401,CK49,"Lower Nass River, Stream, Summer",LNR-P,CN_57,CK-57,Chinook,5,NA,NA,y,NORTH COAST,Chinook,47,Coastal Areas 3 to 6,CK::Portland Sound-Observatory Inlet-Lower Nass,CENTRAL COAST CHINOOK SALMON
+224,Skeena Estuary-CK,NA,224,CK40,Skeena Estuary,SKEst,NA,CK-45,Chinook,6,NA,NA,y,NORTH COAST,Chinook,47,Coastal Areas 3 to 6,CK::Skeena Estuary,CENTRAL COAST CHINOOK SALMON
+205,Ecstall,NA,205,CK41,Ecstall Ocean Summer,ECST,CN_46,CK-46,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Ecstall,SKEENA CHINOOK SALMON
+210,Lower Skeena-CK,NA,100,CK42,Lower Skeena Stream Summer,LSK,CN_48,CK-48,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Lower Skeena,SKEENA CHINOOK SALMON
+227,Lakelse-CK,NA,100,CK42,Lower Skeena Stream Summer,LSK,NA,CK-51,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Lakelse,SKEENA CHINOOK SALMON
+229,Zymoetz,NA,100,CK42,Lower Skeena Stream Summer,LSK,NA,CK-80,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Zymoetz,SKEENA CHINOOK SALMON
+206,Kalum-early timing,NA,206,CK43,Kalum - Early Timing Stream Spring,KALUM-E,CN_49,CK-49,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Kalum-early timing,SKEENA CHINOOK SALMON
+207,Kalum-late timing,NA,207,CK44,Kalum - Late Timing Stream Summer,KALUM-L,CN_50,CK-50,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Kalum-late timing,SKEENA CHINOOK SALMON
+221,Upper Bulkley River,NA,221,CK45,Bulkley River Stream Spring,NA,CN_55,CK-55,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Upper Bulkley River,SKEENA CHINOOK SALMON
+222,Middle Skeena-large lakes,NA,222,CK46,Middle Skeena - Lakes Stream Summer,MSK-LKS,CN_53,CK-53,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Middle Skeena-large lakes,SKEENA CHINOOK SALMON
+217,Middle Skeena-mainstem tributaries,NA,217,CK47,Middle Skeena - M/S Tributary Stream Summer,MSK-M/S,CN_54,CK-54,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Middle Skeena-mainstem tributaries,SKEENA CHINOOK SALMON
+212,Upper Skeena-CK,NA,103,CK48,Upper Skeena River Stream Spring,USK,NA,CK-56,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Upper Skeena,SKEENA CHINOOK SALMON
+241,Sicintine,NA,103,CK48,Upper Skeena River Stream Spring,NA,NA,CK-81,Chinook,6,NA,NA,y,NORTH COAST,Chinook,50,Skeena,CK::Sicintine,SKEENA CHINOOK SALMON
+401,Portland Sound-Observatory Inlet-Lower Nass,NA,401,CK49,Lower Nass River Stream Summer,LNR-P,CN_57,CK-57,Chinook,5,NA,NA,y,NORTH COAST,Chinook,47,Coastal Areas 3 to 6,CK::Portland Sound-Observatory Inlet-Lower Nass,CENTRAL COAST CHINOOK SALMON
 306,Lower Fraser River_SU_1.3,LFR-summer,306,CK5,"Lower Fraser, Stream, Summer (Lillooet) population",LFR+GStr/Stream/Summer,CK-006,CK-6,Chinook,5,Threatened,2018,y,FRASER,Chinook,98,Fraser River Summer Run 52,CK::Lower Fraser River-summer timing,FRASER SUMMER RUN 52 CHINOOK SALMON
-402,Upper Nass,NA,402,CK50,"Upper Nass River, Stream, Summer",UNR,CN_58,CK-58,Chinook,5,NA,NA,y,NORTH COAST,Chinook,48,Nass,CK::Upper Nass,NASS CHINOOK SALMON
-1012,UNUK RIVER,UNUK,1012,CK51,"Unuk River, Stream Summer",UNUK,NA,CK-59,Chinook,NA,NA,NA,y,NA,NA,NA,NA,NA,NA
-1010,STIKINE-EARLY TIMING,LSTK-early,1010,CK52,Stikine - early timing Stream Summer,LSTK-E,NA,CK-60,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,52,Stikine,CK::Stikine-early timing,STIKINE CHINOOK SALMON
-1011,STIKINE-LATE TIMING,LSTK-late,1011,CK53,Stikine - late Stream Summer timing,LSTK-L,NA,CK-61,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,52,Stikine,CK::Stikine-late timing,STIKINE CHINOOK SALMON
-1009,WHITING RIVER,WHITING,1009,CK54,"Whiting River, Stream Summer",WHITING,NA,CK-62,Chinook,NA,NA,NA,y,NA,NA,NA,NA,NA,NA
-1006,TAKU-EARLY TIMING,Taku-early,1006,CK55,Taku - early Stream Summer,TAKU-E,NA,CK-63,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,53,Taku,CK::Taku-early timing,TAKU CHINOOK SALMON
-1007,TAKU-MID TIMING,Taku-mid,1007,CK56,Taku - mid Stream Summer,TAKU-M,NA,CK-64,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,53,Taku,CK::Taku-mid timing,TAKU CHINOOK SALMON
-1008,TAKU-LATE TIMING,Taku-late,1008,CK57,Taku - late Stream Summer,TAKU-L,NA,CK-65,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,53,Taku,CK::Taku-late timing,TAKU CHINOOK SALMON
-1005,LYNN CANAL,LYNN,1005,CK58,Chilkat Stream Spring,LYNN,NA,CK-66,Chinook,NA,NA,NA,y,NA,NA,NA,NA,NA,NA
-1004,ALSEK,ALSEK,1004,CK59,Alsek Stream Summer,ALSEK,NA,CK-67,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,51,Alsek,CK::Alsek,ALSEK CHINOOK SALMON
+402,Upper Nass,NA,402,CK50,Upper Nass River Stream Summer,UNR,CN_58,CK-58,Chinook,5,NA,NA,y,NORTH COAST,Chinook,48,Nass,CK::Upper Nass,NASS CHINOOK SALMON
+1012,UNUK RIVER,UNUK,1012,CK51,"Unuk River, Stream Summer",UNUK,NA,CK-59,Chinook,NA,NA,NA,y,TRANS,NA,NA,NA,NA,NA
+1010,STIKINE-EARLY TIMING,LSTK-early,1010,CK52,Stikine - early timing Stream Summer,LSTK-E,NA,CK-60,Chinook,NA,NA,NA,y,TRANS,Chinook,52,Stikine,CK::Stikine-early timing,STIKINE CHINOOK SALMON
+1011,STIKINE-LATE TIMING,LSTK-late,1011,CK53,Stikine - late Stream Summer timing,LSTK-L,NA,CK-61,Chinook,NA,NA,NA,y,TRANS,Chinook,52,Stikine,CK::Stikine-late timing,STIKINE CHINOOK SALMON
+1009,WHITING RIVER,WHITING,1009,CK54,"Whiting River, Stream Summer",WHITING,NA,CK-62,Chinook,NA,NA,NA,y,TRANS,NA,NA,NA,NA,NA
+1006,TAKU-EARLY TIMING,Taku-early,1006,CK55,Taku - early Stream Summer,TAKU-E,NA,CK-63,Chinook,NA,NA,NA,y,TRANS,Chinook,53,Taku,CK::Taku-early timing,TAKU CHINOOK SALMON
+1007,TAKU-MID TIMING,Taku-mid,1007,CK56,Taku - mid Stream Summer,TAKU-M,NA,CK-64,Chinook,NA,NA,NA,y,TRANS,Chinook,53,Taku,CK::Taku-mid timing,TAKU CHINOOK SALMON
+1008,TAKU-LATE TIMING,Taku-late,1008,CK57,Taku - late Stream Summer,TAKU-L,NA,CK-65,Chinook,NA,NA,NA,y,TRANS,Chinook,53,Taku,CK::Taku-late timing,TAKU CHINOOK SALMON
+1005,LYNN CANAL,LYNN,1005,CK58,Chilkat Stream Spring,LYNN,NA,CK-66,Chinook,NA,NA,NA,y,TRANS,NA,NA,NA,NA,NA
+1004,ALSEK,ALSEK,1004,CK59,Alsek Stream Summer,ALSEK,NA,CK-67,Chinook,NA,NA,NA,y,TRANS,Chinook,51,Alsek,CK::Alsek,ALSEK CHINOOK SALMON
 307,Maria Slough_SU_0.3,Maria,307,CK6,"Lower Fraser, Ocean, Summer (Maria Slough) population",LFR+GStr/Ocean/Summer,CK-007,CK-7,Chinook,4,Endangered,2020,y,FRASER,Chinook,99,Fraser River Summer Run 41,CK::Maria Slough,FRASER SUMMER RUN 41 CHINOOK SALMON
-1212,Yukon River-Teslin headwaters,Teslin,1221,CK60,Yukon - Teslin Headwaters Stream Summer,YUK-TESLIN,NA,CK-68,Chinook,NA,NA,NA,"from DU report ""CU68 and CU69 could not be separated for ES.",YUKON / TRANS,Chinook,54,Yukon,CK::Yukon River-Teslin headwaters,YUKON CHINOOK SALMON
-1211,Upper Yukon River,UpperYR,1221,CK60,Yukon - Teslin Headwaters Stream Summer,YUK-TESLIN,NA,CK-69,Chinook,NA,NA,NA,"from DU report ""CU68 and CU69 could not be separated for ES.",YUKON / TRANS,Chinook,54,Yukon,CK::Upper Yukon River,YUKON CHINOOK SALMON
-1201,Big Salmon,BigSal,1201,CK61,Big Salmon River Stream Summer,BSALR,NA,CK-70,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::Big Salmon,YUKON CHINOOK SALMON
-1202,Nordenskiold,Norden,1202,CK62,Nordenskiold Stream Summer,NORDEN,NA,CK-71,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::Nordenskiold,YUKON CHINOOK SALMON
-1204,Middle Yukon River and tributaries,MidYR,1204,CK63,Mid-Yukon River and Trib Stream Summer,MidYR,NA,CK-73,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::Middle Yukon River and tributaries,YUKON CHINOOK SALMON
-1205,Stewart,Stew,1223,CK64,Pelly River Stream Summer,PELLY,NA,CK-74,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::Stewart,YUKON CHINOOK SALMON
-1203,Pelly,Pelly,1223,CK64,Pelly River Stream Summer,PELLY,NA,CK-72,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::Pelly,YUKON CHINOOK SALMON
-1206,White and tributaries,White,1206,CK65,White River and Trib Stream Summer,WHITE,NA,CK-75,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::White and tributaries,YUKON CHINOOK SALMON
-1207,Northern Yukon River and tributaries,NYR,1207,CK66,N Yukon River and Trib Stream Summer,NYR,NA,CK-76,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::Northern Yukon River and tributaries,YUKON CHINOOK SALMON
-1209,Porcupine,Porcu,1209,CK67,Porcupine River Stream Summer,PORCR,NA,CK-78,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::Porcupine,YUKON CHINOOK SALMON
-1210,Old Crow,OldC,1210,CK68,Old Crow River Stream Summer,OCROW,NA,CK-79,Chinook,NA,NA,NA,y,YUKON / TRANS,Chinook,54,Yukon,CK::Old Crow,YUKON CHINOOK SALMON
-301,Okanagan,OK,301,CK69,"Okanagan River, Ocean, Fall",OK+ORWA/Ocean/Fall,CK-001,CK-1,Chinook,NA,Endangered,2017,y,FRASER,Chinook,101,Okanagan,CK::Okanagan,OKANAGAN CHINOOK SALMON
+1212,Yukon River-Teslin headwaters,Teslin,1221,CK60,Yukon - Teslin Headwaters Stream Summer,YUK-TESLIN,NA,CK-68,Chinook,NA,NA,NA,"from DU report ""CU68 and CU69 could not be separated for ES.",YUKON,Chinook,54,Yukon,CK::Yukon River-Teslin headwaters,YUKON CHINOOK SALMON
+1211,Upper Yukon River,UpperYR,1221,CK60,Yukon - Teslin Headwaters Stream Summer,YUK-TESLIN,NA,CK-69,Chinook,NA,NA,NA,"from DU report ""CU68 and CU69 could not be separated for ES.",YUKON,Chinook,54,Yukon,CK::Upper Yukon River,YUKON CHINOOK SALMON
+1201,Big Salmon,BigSal,1201,CK61,Big Salmon River Stream Summer,BSALR,NA,CK-70,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::Big Salmon,YUKON CHINOOK SALMON
+1202,Nordenskiold,Norden,1202,CK62,Nordenskiold Stream Summer,NORDEN,NA,CK-71,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::Nordenskiold,YUKON CHINOOK SALMON
+1204,Middle Yukon River and tributaries,MidYR,1204,CK63,Mid-Yukon River and Trib Stream Summer,MidYR,NA,CK-73,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::Middle Yukon River and tributaries,YUKON CHINOOK SALMON
+1205,Stewart,Stew,1223,CK64,Pelly River Stream Summer,PELLY,NA,CK-74,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::Stewart,YUKON CHINOOK SALMON
+1203,Pelly,Pelly,1223,CK64,Pelly River Stream Summer,PELLY,NA,CK-72,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::Pelly,YUKON CHINOOK SALMON
+1206,White and tributaries,White,1206,CK65,White River and Trib Stream Summer,WHITE,NA,CK-75,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::White and tributaries,YUKON CHINOOK SALMON
+1207,Northern Yukon River and tributaries,NYR,1207,CK66,N Yukon River and Trib Stream Summer,NYR,NA,CK-76,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::Northern Yukon River and tributaries,YUKON CHINOOK SALMON
+1209,Porcupine,Porcu,1209,CK67,Porcupine River Stream Summer,PORCR,NA,CK-78,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::Porcupine,YUKON CHINOOK SALMON
+1210,Old Crow,OldC,1210,CK68,Old Crow River Stream Summer,OCROW,NA,CK-79,Chinook,NA,NA,NA,y,YUKON,Chinook,54,Yukon,CK::Old Crow,YUKON CHINOOK SALMON
+301,Okanagan,OK,301,CK69,"Okanagan River, Ocean, Fall",OK+ORWA/Ocean/Fall,CK-001,CK-1,Chinook,NA,Endangered,2017,y,COLUMBIA,Chinook,101,Okanagan,CK::Okanagan,OKANAGAN CHINOOK SALMON
 308,Middle Fraser-Fraser Canyon_SP_1.3,NAHAT,308,CK7,"Middle Fraser, Stream, Spring (FR Canyon) population",FRCanyGStr/Stream/Spring,CK-008,CK-8,Chinook,5,Endangered,2018,y,FRASER,Chinook,97,Fraser River Spring Run 52,CK::Fraser Canyon-Nahatlatch,FRASER SPRING RUN 52 CHINOOK SALMON
 309,Middle Fraser River-Portage_FA_1.3,Portage,309,CK8,"Middle Fraser, Stream, Fall (Portage) population",MFR+GStr/Stream/Fall,CK-009,CK-9,Chinook,5,Endangered,2018,y,FRASER,Chinook,98,Fraser River Summer Run 52,CK::Middle Fraser River-Portage,FRASER SUMMER RUN 52 CHINOOK SALMON
 310,Middle Fraser River_SP_1.3,MFR-spring,310,CK9,"Middle Fraser, Stream, Spring (MFR+GStr) population",MFR+GStr/Stream/Spring,CK-010,CK-10,Chinook,5,Threatened,2018,y,FRASER,Chinook,97,Fraser River Spring Run 52,CK::Middle Fraser River-spring timing,FRASER SPRING RUN 52 CHINOOK SALMON
@@ -111,21 +111,21 @@ NA,NA,NA,NA,CK39,"HecLow, Ocean/Stream, Summer",HecLow,NA,NA,Chinook,NA,NA,NA,y,
 404,Portland Inlet,NA,404,CM28,Portland Canal,NA,CM_30,CM-30,Chum,4,NA,NA,y,NA,NA,NA,NA,NA,NA
 405,Lower Nass,NA,405,CM29,Lower Nass River,NA,CM_31,CM-31,Chum,4,NA,NA,y,NORTH COAST,Chum,89,Skeena ? Nass,CM::Lower Nass,SKEENA-NASS CHUM SALMON
 406,Portland Canal-Observatory,NA,406,CM30,Portland Canal - Observatory Inlet,NA,CM_32,CM-32,Chum,4,NA,NA,y,NA,NA,NA,NA,NA,NA
-1003,UNUK RIVER,UNUK,1003,CM32,Unuk,UNUK,CM-033,CM-33,Chum,NA,NA,NA,y,NA,NA,NA,NA,NA,NA
-1032,LOWER STIKINE,LStk,1032,CM33,Lower Stikine,LOWER STIKINE,CM-034,CM-34,Chum,NA,NA,NA,y,NA,NA,NA,NA,NA,NA
-1002,WHITING RIVER,WHTNG,1002,CM34,Whiting,WHITING,CM-035,CM-35,Chum,NA,NA,NA,y,NA,NA,NA,NA,NA,NA
-1001,TAKU,TAKU,1001,CM35,Taku,TAKU,CM-036,CM-36,Chum,NA,NA,NA,y,YUKON / TRANS,Chum,93,Taku,CM::Taku,TRANSBOUNDARY CHUM SALMON
-1000,LYNN CANAL,LYNN,1000,CM36,Chilkat,CHILKAT,CM-037,CM-37,Chum,NA,NA,NA,y,NA,NA,NA,NA,NA,NA
+1003,UNUK RIVER,UNUK,1003,CM32,Unuk,UNUK,CM-033,CM-33,Chum,NA,NA,NA,y,TRANS,NA,NA,NA,NA,NA
+1032,LOWER STIKINE,LStk,1032,CM33,Lower Stikine,LOWER STIKINE,CM-034,CM-34,Chum,NA,NA,NA,y,TRANS,NA,NA,NA,NA,TRANSBOUNDARY CHUM SALMON
+1002,WHITING RIVER,WHTNG,1002,CM34,Whiting,WHITING,CM-035,CM-35,Chum,NA,NA,NA,y,TRANS,NA,NA,NA,NA,NA
+1001,TAKU,TAKU,1001,CM35,Taku,TAKU,CM-036,CM-36,Chum,NA,NA,NA,y,TRANS,Chum,93,Taku,CM::Taku,TRANSBOUNDARY CHUM SALMON
+1000,LYNN CANAL,LYNN,1000,CM36,Chilkat,CHILKAT,CM-037,CM-37,Chum,NA,NA,NA,y,TRANS,NA,NA,NA,NA,NA
 NA,NA,NA,NA,CM37,Alsek,ALSEK,NA,NA,Chum,NA,NA,NA,No corresponding CU in provisional info from 2022 DU report,NA,NA,NA,NA,NA,NA
-1219,Teslin,TESLIN,1219,CM38,Yukon - Teslin Headwaters,NA,CM-038,CM-38,Chum,NA,NA,NA,y,YUKON / TRANS,Chum,91,Yukon (mainstem),CM::Teslin,YUKON CHUM SALMON
-1213,Middle Yukon,MYR,1213,CM39,Mid-Yukon River and Tributaries,NA,CM-042,CM-42,Chum,NA,NA,NA,y,YUKON / TRANS,Chum,91,Yukon (mainstem),CM::Middle Yukon River,YUKON CHUM SALMON
-1218,Stewart,STEW,1218,CM40,Pelly - Stewart,NA,CM-048,CM-48,Chum,NA,NA,NA,y (VM: these may be revised in latest CU update),YUKON / TRANS,Chum,91,Yukon (mainstem),CM::Stewart,YUKON CHUM SALMON
-1216,Donjek Kluane,Donjek,1225,CM41,White River and Tributaries,NA,CM-045,CM-45,Chum,NA,NA,NA,y (VM: these may be revised in latest CU update),YUKON / TRANS,Chum,91,Yukon (mainstem),CM::Donjek-Kluane,YUKON CHUM SALMON
-1215,White,White,1225,CM41,White River and Tributaries,NA,CM-044,CM-44,Chum,NA,NA,NA,y (VM: these may be revised in latest CU update),YUKON / TRANS,Chum,91,Yukon (mainstem),CM::White River,YUKON CHUM SALMON
-1214,N Yukon River,NYR,1214,CM42,N Yukon River and Tributaries,NA,CM-043,CM-43,Chum,NA,NA,NA,y,YUKON / TRANS,Chum,91,Yukon (mainstem),CM::North Yukon River,YUKON CHUM SALMON
-1217,Porcupine River,Porcu,1217,CM43,Porcupine,NA,CM-046,CM-46,Chum,NA,NA,NA,y,YUKON / TRANS,Chum,92,Yukon (Porcupine),CM::Porcupine River,PORCUPINE CHUM SALMON
-1102,Peel River,PEEL,1102,CM44,Peel River,NA,CM-040,CM-40,Chum,NA,NA,NA,y (VM: PSE Region will be Mackenzie),NA,NA,NA,NA,NA,NA
-1101,Lower Liard,LIARD,1101,CM45,Lower Liard,NA,CM-039,CM-39,Chum,NA,NA,NA,y (VM: PSE Region will be Mackenzie),NA,NA,NA,NA,NA,NA
+1219,Teslin,TESLIN,1219,CM38,Yukon - Teslin Headwaters,NA,CM-038,CM-38,Chum,NA,NA,NA,y,YUKON,Chum,91,Yukon (mainstem),CM::Teslin,YUKON CHUM SALMON
+1213,Middle Yukon,MYR,1213,CM39,Mid-Yukon River and Tributaries,NA,CM-042,CM-42,Chum,NA,NA,NA,y,YUKON,Chum,91,Yukon (mainstem),CM::Middle Yukon River,YUKON CHUM SALMON
+1218,Stewart,STEW,1218,CM40,Pelly - Stewart,NA,CM-048,CM-48,Chum,NA,NA,NA,y (VM: these may be revised in latest CU update),YUKON,Chum,91,Yukon (mainstem),CM::Stewart,YUKON CHUM SALMON
+1216,Donjek Kluane,Donjek,1225,CM41,White River and Tributaries,NA,CM-045,CM-45,Chum,NA,NA,NA,y (VM: these may be revised in latest CU update),YUKON,Chum,91,Yukon (mainstem),CM::Donjek-Kluane,YUKON CHUM SALMON
+1215,White,White,1225,CM41,White River and Tributaries,NA,CM-044,CM-44,Chum,NA,NA,NA,y (VM: these may be revised in latest CU update),YUKON,Chum,91,Yukon (mainstem),CM::White River,YUKON CHUM SALMON
+1214,N Yukon River,NYR,1214,CM42,N Yukon River and Tributaries,NA,CM-043,CM-43,Chum,NA,NA,NA,y,YUKON,Chum,91,Yukon (mainstem),CM::North Yukon River,YUKON CHUM SALMON
+1217,Porcupine River,Porcu,1217,CM43,Porcupine,NA,CM-046,CM-46,Chum,NA,NA,NA,y,YUKON,Chum,92,Yukon (Porcupine),CM::Porcupine River,PORCUPINE CHUM SALMON
+1102,Peel River,PEEL,1102,CM44,Peel River,NA,CM-040,CM-40,Chum,NA,NA,NA,y (VM: PSE Region could be Mackenzie),NA,NA,NA,NA,NA,NA
+1101,Lower Liard,LIARD,1101,CM45,Lower Liard,NA,CM-039,CM-39,Chum,NA,NA,NA,y (VM: PSE Region could be Mackenzie),NA,NA,NA,NA,NA,NA
 906,Boundary Bay,BB,906,CO01,Boundary Bay,BB,CO-001,CO-1,Coho,3,NA,NA,y,FRASER / SOUTH COAST,Coho,61,Georgia Strait,CO::Boundary Bay,STRAIT OF GEORGIA COHO SALMON
 750,Lower Fraser,LFR,750,CO02,Lower Fraser,LFR,CO-047,CO-47,Coho,3,NA,NA,y,FRASER,Coho,57,Lower Fraser,CO::Lower Fraser,LOWER FRASER COHO SALMON
 704,Lillooet,LILL,704,CO03,Lillooet,LILL,CO-004,CO-4,Coho,3,NA,NA,y,FRASER,Coho,57,Lower Fraser,CO::Lillooet,LOWER FRASER COHO SALMON
@@ -162,18 +162,18 @@ NA,NA,NA,NA,CM37,Alsek,ALSEK,NA,NA,Chum,NA,NA,NA,No corresponding CU in provisio
 408,Lower Nass,LNASS,400,CO29,Lower Nass - Portland Canal,LNR-P,CO_35,CO-35,Coho,3,NA,NA,y,NORTH COAST,Coho,64,Area 3,CO::Lower Nass,NASS COHO SALMON
 410,Portland Sound-Observatory Inlet-Portland Canal,PORT,400,CO29,Lower Nass - Portland Canal,LNR-P,CO_37,CO-37,Coho,3,NA,NA,y,NORTH COAST,Coho,64,Area 4,CO::Portland Sound-Observatory Inlet-Portland Canal,NASS COHO SALMON
 409,Upper Nass,UNASS,409,CO30,Upper Nass,UNR,CO_36,CO-36,Coho,3,NA,NA,y,NORTH COAST,Coho,64,Area 6,CO::Upper Nass,NASS COHO SALMON
-1018,UNUK RIVER,UNUK,1018,CO31,Unuk,Unuk,CO_38,CO-38,Coho,3,NA,NA,y,,,,,,
-1017,LOWER STIKINE,LStk,1017,CO32,Lower Stikine,LStk,CO_39,CO-39,Coho,3,NA,NA,y,YUKON / TRANS,Coho,71,Stikine,CO::Lower Stikine,STIKINE COHO SALMON
-1016,WHITING RIVER,Whiting,1016,CO33,Whiting River,Whiting,CO_40,CO-40,Coho,3,NA,NA,y,,,,,,
-1034,TAKU-EARLY TIMING,Taku,1040,CO34,Taku,Taku,CO_41,CO-41,Coho,3,NA,NA,y (VM: early mid and late timing added),YUKON / TRANS,Coho,72,Taku,CO::Taku-early timing,TAKU COHO SALMON
-1015,TAKU-LATE TIMING,Taku,1040,CO34,Taku,Taku,CO_42,CO-42,Coho,3,NA,NA,y (VM: early mid and late timing added),YUKON / TRANS,Coho,72,Taku,CO::Taku-late timing,TAKU COHO SALMON
-1035,TAKU-MID TIMING,Taku,1040,CO34,Taku,Taku,CO_43,CO-43,Coho,3,NA,NA,y (VM: early mid and late timing added),YUKON / TRANS,Coho,72,Taku,CO::Taku-mid timing,TAKU COHO SALMON
-1014,LYNN CANAL,LYNN,1014,CO35,Chilkat,LYNN,CO_44,CO-44,Coho,3,NA,NA,y,,,,,,
-1013,ALSEK RIVER,Alsek,1013,CO36,Alsek,Alsek,CO_45,CO-45,Coho,3,NA,NA,y,YUKON / TRANS,Coho,70,Alsek,CO::Alsek River,ALSEK COHO SALMON
-1120,Porcupine River,PORC,1220,CO37,Porcupine,Yukon,CO_46,CO-46,Coho,3,NA,NA,y,YUKON / TRANS,Coho,73,Yukon,CO::Porcupine,PORCUPINE COHO SALMON
+1018,UNUK RIVER,UNUK,1018,CO31,Unuk,Unuk,CO_38,CO-38,Coho,3,NA,NA,y,TRANS,,,,,
+1017,LOWER STIKINE,LStk,1017,CO32,Lower Stikine,LStk,CO_39,CO-39,Coho,3,NA,NA,y,TRANS,Coho,71,Stikine,CO::Lower Stikine,STIKINE COHO SALMON
+1016,WHITING RIVER,Whiting,1016,CO33,Whiting River,Whiting,CO_40,CO-40,Coho,3,NA,NA,y,TRANS,,,,,
+1034,TAKU-EARLY TIMING,Taku,1040,CO34,Taku,Taku,CO_41,CO-41,Coho,3,NA,NA,y (VM: early mid and late timing added),TRANS,Coho,72,Taku,CO::Taku-early timing,TAKU COHO SALMON
+1015,TAKU-LATE TIMING,Taku,1040,CO34,Taku,Taku,CO_42,CO-42,Coho,3,NA,NA,y (VM: early mid and late timing added),TRANS,Coho,72,Taku,CO::Taku-late timing,TAKU COHO SALMON
+1035,TAKU-MID TIMING,Taku,1040,CO34,Taku,Taku,CO_43,CO-43,Coho,3,NA,NA,y (VM: early mid and late timing added),TRANS,Coho,72,Taku,CO::Taku-mid timing,TAKU COHO SALMON
+1014,LYNN CANAL,LYNN,1014,CO35,Chilkat,LYNN,CO_44,CO-44,Coho,3,NA,NA,y,TRANS,,,,,
+1013,ALSEK RIVER,Alsek,1013,CO36,Alsek,Alsek,CO_45,CO-45,Coho,3,NA,NA,y,TRANS,Coho,70,Alsek,CO::Alsek River,ALSEK COHO SALMON
+1220,Porcupine River,PORC,1220,CO37,Porcupine,Yukon,CO_46,CO-46,Coho,3,NA,NA,y,YUKON,Coho,73,Yukon,CO::Porcupine,PORCUPINE COHO SALMON
 NA,(P)Hatchery Exclusion-Lower Fraser River,NA,NA,NA,NA,NA,NA,NA,Chinook,NA,NA,NA,only found in SMU look-up file ,FRASER,Chinook,100,Fraser River Fall Run 41,(P)Hatchery Exclusion-Lower Fraser River,FRASER FALL RUN 42 CHINOOK SALMON
 NA,"includes production from major hatchery facilities at Conuma, Stamp, and Nitinat rivers",NA,NA,NA,NA,NA,NA,NA,Chinook,NA,NA,NA,only found in SMU look-up file ,SOUTH COAST,Chinook,39,WCVI ? Hatchery,"includes production from major hatchery facilities at Conuma, Stamp, and Nitinat rivers",WCVI CHINOOK SALMON
-1208,Salmon Fork,SFork,NA,NA,NA,NA,NA,CK-77,Chinook,NA,NA,NA,No DU specified could potentially be grouped with Porcupine (CK-78),YUKON / TRANS,Chinook,54,Yukon,CK::Salmon Fork,YUKON CHINOOK SALMON
+1208,Salmon Fork,SFork,NA,NA,NA,NA,NA,CK-77,Chinook,NA,NA,NA,No DU specified could potentially be grouped with Porcupine (CK-78),YUKON,Chinook,54,Yukon,CK::Salmon Fork,YUKON CHINOOK SALMON
 NA,not yet defined; includes some seapen releases,NA,NA,NA,NA,NA,NA,NA,Pink,NA,NA,NA,only found in SMU look-up file ,SOUTH COAST,Pink,78,Georgia Strait ? West ? Odd & Even,ECVI/MAINLAND PINK SALMON,
 921,East Howe Sound-Burrard Inlet,NA,NA,NA,NA,NA,PKO-002,PKO-2,Pink,2,NA,NA,No corresponding DU in provisional info from 2022 DU report,FRASER,Pink,75,Squamish ? Odd only,ECVI/MAINLAND PINK SALMON,
 751,Adams and Momich Lakes_Early Summer,NA,761,NA,Adams ES,NA,SEL-09-912,SEL-09-xx,Sockeye-Lake,4,Extinct,2021,Assessed as extinct 2021; Removed from numbering in 2021 COSEWIC SE DU Report because populations are thought to be eliminated; DU numbers repurposed,,,,,,
@@ -227,12 +227,12 @@ NA,Tuwartz,NA,NA,NA,NA,NA,NA,NA,Sockeye-Lake,NA,NA,NA,only found in SMU look-up 
 218,Middle-Upper Skeena (even),NA,108,PE18,Upper Skeena,NA,PKe_8,PKE-08,Pink,2,NA,NA,y,NORTH COAST,Pink,81,North Coast Areas 3 to 6 ? Odd & Even,SKEENA/NASS PINK SALMON,
 219,Nass-Skeena Estuary (even),NA,109,PE19,Lower Nass - Portland Canal,NA,PKe_7,PKE-07,Pink,2,NA,NA,y,NORTH COAST,Pink,81,North Coast Areas 3 to 6 ? Odd & Even,SKEENA/NASS PINK SALMON,
 415,Upper Nass,NA,415,PE20,Upper Nass,NA,Pke_12,PKE-12,Pink,NA,NA,NA,"Check? No CU index but name matches ""Upper Nass"" odd and even pink Dus",NORTH COAST,Pink,81,North Coast Areas 3 to 6 ? Odd & Even,SKEENA/NASS PINK SALMON,
-1019,TRANSBOUNDARY FJORDS,TBFj,1043,PE21,Unuk,UNUK,PKE-013,PKE-13,Pink,NA,NA,NA,y,,,,,,
-1019,TRANSBOUNDARY FJORDS,TBFj,1044,PE22,Lower Stikine,LSTK,PKE-013,PKE-13,Pink,NA,NA,NA,y,,,,,,
-1019,TRANSBOUNDARY FJORDS,TBFj,1045,PE23,Whiting,WHITING,PKE-013,PKE-13,Pink,NA,NA,NA,y,,,,,,
-1019,TRANSBOUNDARY FJORDS,TBFj,1046,PE24,Taku,TAKU,PKE-013,PKE-13,Pink,NA,NA,NA,y,,,,,,
-1019,TRANSBOUNDARY FJORDS,TBFj,1047,PE25,Chilkat,CHILKAT,PKE-013,PKE-13,Pink,NA,NA,NA,y,,,,,,
-NA,NA,NA,NA,PE26,Alsek,ALSEK,NA,NA,Pink,NA,NA,NA,No corresponding CU in provisional info from 2022 DU report,,,,,,
+1019,TRANSBOUNDARY FJORDS,TBFj,1043,PE21,Unuk,UNUK,PKE-013,PKE-13,Pink,NA,NA,NA,y,TRANS,,,,,
+1019,TRANSBOUNDARY FJORDS,TBFj,1044,PE22,Lower Stikine,LSTK,PKE-013,PKE-13,Pink,NA,NA,NA,y,TRANS,,,,,
+1019,TRANSBOUNDARY FJORDS,TBFj,1045,PE23,Whiting,WHITING,PKE-013,PKE-13,Pink,NA,NA,NA,y,TRANS,,,,,
+1019,TRANSBOUNDARY FJORDS,TBFj,1046,PE24,Taku,TAKU,PKE-013,PKE-13,Pink,NA,NA,NA,y,TRANS,,,,,
+1019,TRANSBOUNDARY FJORDS,TBFj,1047,PE25,Chilkat,CHILKAT,PKE-013,PKE-13,Pink,NA,NA,NA,y,TRANS,,,,,
+NA,NA,NA,NA,PE26,Alsek,ALSEK,NA,NA,Pink,NA,NA,NA,No corresponding CU in provisional info from 2022 DU report,TRANS,,,,,
 710,Fraser River,NA,753,PO01,Lower Fraser,NA,PKO-001,PKO-1,Pink,2,NA,NA,y,FRASER,Pink,74,Fraser ? Odd only,FRASER PINK SALMON - ODD,
 710,Fraser River,NA,754,PO02,Lillooet,NA,PKO-001,PKO-1,Pink,2,NA,NA,y,FRASER,Pink,74,Fraser ? Odd only,FRASER PINK SALMON - ODD,
 710,Fraser River,NA,755,PO03,Fraser Canyon,NA,PKO-001,PKO-1,Pink,2,NA,NA,y,FRASER,Pink,74,Fraser ? Odd only,FRASER PINK SALMON - ODD,
@@ -270,12 +270,12 @@ NA,NA,NA,NA,PO13,E Vancouver Is - Johnstone Strait - Southern Fjords,NA,NA,NA,Pi
 213,Middle & Upper Skeena (odd),NA,111,PO26,Upper Skeena,NA,PKo_16,PKO-16,Pink,2,NA,NA,y,NORTH COAST,Pink,81,North Coast Areas 3 to 6 ? Odd & Even,SKEENA/NASS PINK SALMON,
 414,Nass-Portland-Observatory,NA,414,PO27,Lower Nass - Portland Canal,NA,PKo_17,PKO-17,Pink,2,NA,NA,y,NORTH COAST,Pink,81,North Coast Areas 3 to 6 ? Odd & Even,SKEENA/NASS PINK SALMON,
 412,Upper Nass,NA,412,PO28,Upper Nass,NA,Pko_18,PKO-18,Pink,NA,NA,NA,"Check? No CU index but name matches ""Upper Nass"" odd and even pink Dus",NORTH COAST,Pink,81,North Coast Areas 3 to 6 ? Odd & Even,SKEENA/NASS PINK SALMON,
-1020,TRANSBOUNDARY FJORDS,TBFj,1048,PO29,Unuk,UNUK,PKO-019,PKO-19,Pink,NA,NA,NA,y,,,,,,
-1020,TRANSBOUNDARY FJORDS,TBFj,1049,PO30,Lower Stikine,LSTK,PKO-019,PKO-19,Pink,NA,NA,NA,y,,,,,,
-1020,TRANSBOUNDARY FJORDS,TBFj,1050,PO31,Whitiing,WHITING,PKO-019,PKO-19,Pink,NA,NA,NA,y,,,,,,
-1020,TRANSBOUNDARY FJORDS,TBFj,1051,PO32,Taku,TAKU,PKO-019,PKO-19,Pink,NA,NA,NA,y,,,,,,
-1020,TRANSBOUNDARY FJORDS,TBFj,1052,PO33,Chilkat,CHILKAT,PKO-019,PKO-19,Pink,NA,NA,NA,y,,,,,,
-NA,NA,NA,NA,PO34,Alsek,ALSEK,NA,NA,Pink,NA,NA,NA,No corresponding CU in provisional info from 2022 DU report,,,,,,
+1020,TRANSBOUNDARY FJORDS,TBFj,1048,PO29,Unuk,UNUK,PKO-019,PKO-19,Pink,NA,NA,NA,y,TRANS,,,,,
+1020,TRANSBOUNDARY FJORDS,TBFj,1049,PO30,Lower Stikine,LSTK,PKO-019,PKO-19,Pink,NA,NA,NA,y,TRANS,,,,,
+1020,TRANSBOUNDARY FJORDS,TBFj,1050,PO31,Whitiing,WHITING,PKO-019,PKO-19,Pink,NA,NA,NA,y,TRANS,,,,,
+1020,TRANSBOUNDARY FJORDS,TBFj,1051,PO32,Taku,TAKU,PKO-019,PKO-19,Pink,NA,NA,NA,y,TRANS,,,,,
+1020,TRANSBOUNDARY FJORDS,TBFj,1052,PO33,Chilkat,CHILKAT,PKO-019,PKO-19,Pink,NA,NA,NA,y,TRANS,,,,,
+NA,NA,NA,NA,PO34,Alsek,ALSEK,NA,NA,Pink,NA,NA,NA,No corresponding CU in provisional info from 2022 DU report,TRANS,,,,,
 719,Anderson/Seton_Early Summer,NA,719,SE001,Anderson-Seton-ES population,NA,SEL-06-001,SEL-06-01,Sockeye-Lake,4,Not at risk,2021,y,FRASER,Sockeye,5,Early Summer ? Mid and Upper Fraser,SEL::Anderson/Seton-Early Summer timing,FRASER SOCKEYE SALMON - EARLY SUMMER
 735,Bowron_Early Summer,NA,735,SE002,Bowron-ES population,NA,SEL-07-001,SEL-07-01,Sockeye-Lake,4,Endangered,2017,y,FRASER,Sockeye,5,Early Summer ? Mid and Upper Fraser,SEL::Bowron-Early Summer timing,FRASER SOCKEYE SALMON - EARLY SUMMER
 720,Chilko_Early Summer,NA,720,SE003,Chilko-ES population / Chilko-S population,NA,SEL-06-002,SEL-06-02,Sockeye-Lake,4,Not at risk,2017,y,FRASER,Sockeye,5,Early Summer ? Mid and Upper Fraser,SEL::Chilko-Early Summer timing,FRASER SOCKEYE SALMON - EARLY SUMMER
@@ -319,12 +319,12 @@ NA,NA,NA,NA,PO34,Alsek,ALSEK,NA,NA,Pink,NA,NA,NA,No corresponding CU in provisio
 216,Skeena River-high interior,NA,216,SE041,Upper Skeena River,USK,SX_R19,SER-19,Sockeye-River,5,NA,NA,no match in SMU lookup file ,,,,,,
 426,Lower Nass-Portland,NA,426,SE042,Lower Nass-Portland,LNR-P,SX_R20,SER-20,Sockeye-River,4,NA,NA,no match in SMU lookup file ,,,,,,
 427,Upper Nass River,NA,427,SE043,Upper Nass River,UNR,SX_R21,SER-21,Sockeye-River,4,NA,NA,no match in SMU lookup file ,,,,,,
-1023,Northern Transboundary Fjords,TBFj,1053,SE044,Stikine River,LStk,SER-022,SER-022,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,,,,,,
-1023,Northern Transboundary Fjords,TBFj,1054,SE045,Taku River,TAKU,SER-022,SER-022,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,,,,,,
-1023,Northern Transboundary Fjords,TBFj,1055,SE046,Whiting River,Whiting,SER-022,SER-022,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,,,,,,
-1023,Northern Transboundary Fjords,TBFj,1056,SE047,Unuk River,UNUK,SER-022,SER-022,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,,,,,,
-1022,Chilkat River,CHILKAR,1022,SE048,Chilkat River,CHILKAT,SER-023,SER-023,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,,,,,,
-1021,Alsek River,ALSEK,1021,SE049,Alsek River,ALSEK,SER-024,SER-024,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,,,,,,
+1023,Northern Transboundary Fjords,TBFj,1053,SE044,Stikine River,LStk,SER-022,SER-022,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,TRANS,,,,,
+1023,Northern Transboundary Fjords,TBFj,1054,SE045,Taku River,TAKU,SER-022,SER-022,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,TRANS,,,,,
+1023,Northern Transboundary Fjords,TBFj,1055,SE046,Whiting River,Whiting,SER-022,SER-022,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,TRANS,,,,,
+1023,Northern Transboundary Fjords,TBFj,1056,SE047,Unuk River,UNUK,SER-022,SER-022,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,TRANS,,,,,
+1022,Chilkat River,CHILKAR,1022,SE048,Chilkat River,CHILKAT,SER-023,SER-023,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,TRANS,,,,,
+1021,Alsek River,ALSEK,1021,SE049,Alsek River,ALSEK,SER-024,SER-024,Sockeye-River,NA,NA,NA,no match in SMU lookup file ,TRANS,,,,,ALSEK SOCKEYE SALMON
 933,Sakinaw,SAKINAW,933,SE051,Sakinaw,SAKINAW,SEL-11-007,SEL-11-07,Sockeye-Lake,5,Endangered,2016,y,SOUTH COAST,Sockeye,20,Sakinaw,SEL::Sakinaw,ECVI/MAINLAND SOCKEYE SALMON
 935,Tzoonie,TZOONIE,935,SE052,Tzoonie,TZOONIE,SEL-11-009,SEL-11-09,Sockeye-Lake,5,NA,NA,y,SOUTH COAST,Sockeye,19,Areas 11 to 13,SEL::Tzoonie,ECVI/MAINLAND SOCKEYE SALMON
 927,Fulmore,FULMORE,927,SE053,Fulmore,FULMORE,SEL-11-001,SEL-11-01,Sockeye-Lake,5,NA,NA,y,SOUTH COAST,Sockeye,19,Areas 11 to 13,SEL::Fulmore,ECVI/MAINLAND SOCKEYE SALMON
@@ -459,18 +459,18 @@ NA,NA,NA,NA,PO34,Alsek,ALSEK,NA,NA,Pink,NA,NA,NA,No corresponding CU in provisio
 423,Kwinageese,KWINAGEESE,423,SE181,Kwinageese,KWINAGEESE,NA,NA,Sockeye-Lake,NA,NA,NA,2021 SE DU report has CU index = L-24-4,NORTH COAST,Sockeye,25,Nass,SEL::Kwinageese,NASS SOCKEYE SALMON
 424,Meziadin,MEZIADIN,424,SE182,Meziadin,MEZIADIN,SX_L-24-05,SEL-24-05,Sockeye-Lake,5,NA,NA,y,NORTH COAST,Sockeye,25,Nass,SEL::Meziadin,NASS SOCKEYE SALMON
 425,Oweegee,OWEEGEE,425,SE183,Oweegee,OWEEGEE,NA,NA,Sockeye-Lake,NA,NA,NA,2021 SE DU report has CU index = L-24-6,NORTH COAST,Sockeye,25,Nass,SEL::Oweegee,NASS SOCKEYE SALMON
-1024,Border,BORDER,1024,SE184,Border,BORDER,NA,SEL-25-01,Sockeye-Lake,NA,NA,NA,Transboundary,,,,,,
-1025,Christina,CHRISTINA,1025,SE185,Christina,CHRISTINA,NA,SEL-26-01,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,28,Stikine ? Wild,SEL::Christina,STIKINE SOCKEYE SALMON
-1026,Tahltan,TAHLTAN,1026,SE186,Tahltan,TAHLTAN,NA,SEL-26-02,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,28,Stikine ? Wild,SEL::Tahltan,STIKINE SOCKEYE SALMON
-1036,Chutine,CHUTINE,1036,SE187,Chutine,CHUTINE,NA,SEL-26-03,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,28,Stikine ? Wild,SEL::Chutine,STIKINE SOCKEYE SALMON
-1037,Whiting,WHITING,1037,SE188,Whiting,WHITING,NA,SEL-27-01,Sockeye-Lake,NA,NA,NA,Transboundary,,,,,,
-1027,Kuthai,KUTHAI,1027,SE189,Kuthai,KUTHAI,NA,SEL-28-01,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,29,Taku ? Wild,SEL::Kuthai,TAKU SOCKEYE SALMON
-1028,Little Trapper,LTRAPPER,1028,SE190,Little Trapper,LTRAPPER,NA,SEL-28-02,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,29,Taku ? Wild,SEL::Little Trapper,TAKU SOCKEYE SALMON
-1029,Tatsamenie,TATSAMENIE,1029,SE191,Tatsamenie,TATSAMENIE,NA,SEL-28-03,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,29,Taku ? Wild,SEL::Tatsamenie,TAKU SOCKEYE SALMON
-1033,King Salmon,KING SALMON,1033,SE192,King Salmon,KING SALMON,NA,SEL-28-05,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,29,Taku ? Wild,SEL::King Salmon,TAKU SOCKEYE SALMON
-1031,Blanchard-BC,BLANCHARD,1031,SE193,Blanchard-BC,BLANCHARD,NA,SEL-30-01,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,27,Alsek,SEL::Blanchard,ALSEK SOCKEYE SALMON
-1038,Klukshu,KLUKSHU,1038,SE194,Klukshu-Yukon,KLUKSHU,NA,SEL-30-02,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,27,Alsek,SEL::Klukshu,ALSEK SOCKEYE SALMON
-1039,Nesketahin-Yukon,NESKETAHIN,1039,SE195,Nesketahin-Yukon,NESKETAHIN,NA,SEL-30-03,Sockeye-Lake,NA,NA,NA,Transboundary,YUKON / TRANS,Sockeye,27,Alsek,SEL::Neskatahin,ALSEK SOCKEYE SALMON
+1024,Border,BORDER,1024,SE184,Border,BORDER,NA,SEL-25-01,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,,,,,
+1025,Christina,CHRISTINA,1025,SE185,Christina,CHRISTINA,NA,SEL-26-01,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,28,,SEL::Christina,STIKINE SOCKEYE SALMON
+1026,Tahltan,TAHLTAN,1026,SE186,Tahltan,TAHLTAN,NA,SEL-26-02,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,28,,SEL::Tahltan,STIKINE SOCKEYE SALMON
+1036,Chutine,CHUTINE,1036,SE187,Chutine,CHUTINE,NA,SEL-26-03,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,28,,SEL::Chutine,STIKINE SOCKEYE SALMON
+1037,Whiting,WHITING,1037,SE188,Whiting,WHITING,NA,SEL-27-01,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,,,,,
+1027,Kuthai,KUTHAI,1027,SE189,Kuthai,KUTHAI,NA,SEL-28-01,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,29,Taku ? Wild,SEL::Kuthai,TAKU SOCKEYE SALMON
+1028,Little Trapper,LTRAPPER,1028,SE190,Little Trapper,LTRAPPER,NA,SEL-28-02,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,29,Taku ? Wild,SEL::Little Trapper,TAKU SOCKEYE SALMON
+1029,Tatsamenie,TATSAMENIE,1029,SE191,Tatsamenie,TATSAMENIE,NA,SEL-28-03,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,29,Taku ? Wild,SEL::Tatsamenie,TAKU SOCKEYE SALMON
+1033,King Salmon,KING SALMON,1033,SE192,King Salmon,KING SALMON,NA,SEL-28-05,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,29,Taku ? Wild,SEL::King Salmon,TAKU SOCKEYE SALMON
+1031,Blanchard-BC,BLANCHARD,1031,SE193,Blanchard-BC,BLANCHARD,NA,SEL-30-01,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,27,Alsek,SEL::Blanchard,ALSEK SOCKEYE SALMON
+1038,Klukshu,KLUKSHU,1038,SE194,Klukshu-Yukon,KLUKSHU,NA,SEL-30-02,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,27,Alsek,SEL::Klukshu,ALSEK SOCKEYE SALMON
+1039,Nesketahin-Yukon,NESKETAHIN,1039,SE195,Nesketahin-Yukon,NESKETAHIN,NA,SEL-30-03,Sockeye-Lake,NA,NA,NA,Transboundary,TRANS,Sockeye,27,Alsek,SEL::Neskatahin,ALSEK SOCKEYE SALMON
 936,Village Bay,VILLAGE,936,T01,Village Bay,VILLAGE,SEL-11-010,SEL-11-10,Sockeye-Lake,5,NA,NA,Marked as Tentative in 2021 COSEWIC SE DU report,SOUTH COAST,Sockeye,19,Areas 11 to 13,SEL::Village Bay,ECVI/MAINLAND SOCKEYE SALMON
 NA,Pack,PACK,NA,T02,Pack,PACK,NA,SEL-11-11,Sockeye-Lake,NA,NA,NA,"Marked as Tentative in 2021 COSEWIC SE DU report; NOT PREVIOUSLY IN SHEET, NO PSE CU ID; GEN LENGTH",SOUTH COAST,Sockeye,19,Areas 11 to 13,SEL::Pack,ECVI/MAINLAND SOCKEYE SALMON
 NA,Glendale,GLENDALE,NA,T03,Glendale,GLENDALE,NA,SEL-11-12,Sockeye-Lake,NA,NA,NA,"Marked as Tentative in 2021 COSEWIC SE DU report; NOT PREVIOUSLY IN SHEET, NO PSE CU ID; GEN LENGTH",,,,,,
