@@ -16,7 +16,7 @@ nass_file <- read.csv("data/dataset_1part1.Dec092020_Nass.csv", header = T)
 skeena_file <- read.csv("data/dataset_1part1.May262022_Skeena.csv", header = T)
 hg_file <- read.csv("data/dataset_1part1.Jun82023_HG.csv", header = T)
 columbia_file <- read.csv("data/dataset_1part1.NOV272019_Columbia.csv", header = T)
-yukon_file <- read.csv("data/yukon_chinook_rr_escape.28Aug2023.csv", header = T)
+yukon_file <- read.csv("data/yukon_chinook_rr_escape.15Sep2023.csv", header = T)
 
 columbia_file <- read.csv("data/dataset_1part1.NOV272019_Columbia.csv", header = T) %>%
   #commas in these counts were messing things up
@@ -41,7 +41,7 @@ cu_dat <- cu_dat %>%
   select(-LGL.counts)
 
 
-write.csv(cu_dat, "Output/CU_Spawner_Abund_20230828.csv", row.names=FALSE)
+write.csv(cu_dat, "Output/CU_Spawner_Abund_20230915.csv", row.names=FALSE)
 
 
 rm(cc_file, fraser_file, vimi_file, nass_file, skeena_file, hg_file, columbia_file, yukon_file)
