@@ -1,0 +1,1607 @@
+,CUID,Species,Year,LGL counts,Total run,Region
+1,401,Chinook,1950,NA,NA,Nass
+2,402,Chinook,1950,NA,NA,Nass
+3,405,Chum,1950,NA,NA,Nass
+4,406,Chum,1950,NA,NA,Nass
+5,404,Chum,1950,NA,NA,Nass
+6,408,Coho,1950,NA,NA,Nass
+7,410,Coho,1950,NA,NA,Nass
+8,409,Coho,1950,NA,NA,Nass
+9,414,Pink (Odd),1950,NA,NA,Nass
+10,219,Pink (Even),1950,NA,NA,Nass
+11,412,Pink (Even),1950,NA,NA,Nass
+12,415,Pink (Odd),1950,NA,NA,Nass
+13,420,Lake Sockeye,1950,NA,NA,Nass
+14,418,Lake Sockeye,1950,NA,NA,Nass
+15,421,Lake Sockeye,1950,NA,NA,Nass
+16,422,Lake Sockeye,1950,NA,NA,Nass
+17,423,Lake Sockeye,1950,NA,NA,Nass
+18,419,Lake Sockeye,1950,NA,NA,Nass
+19,424,Lake Sockeye,1950,NA,NA,Nass
+20,425,Lake Sockeye,1950,NA,NA,Nass
+21,426,River Sockeye,1950,NA,NA,Nass
+22,427,River Sockeye,1950,NA,NA,Nass
+23,401,Chinook,1951,NA,NA,Nass
+24,402,Chinook,1951,NA,NA,Nass
+25,405,Chum,1951,NA,NA,Nass
+26,406,Chum,1951,NA,NA,Nass
+27,404,Chum,1951,NA,NA,Nass
+28,408,Coho,1951,NA,NA,Nass
+29,410,Coho,1951,NA,NA,Nass
+30,409,Coho,1951,NA,NA,Nass
+31,414,Pink (Odd),1951,NA,NA,Nass
+32,219,Pink (Even),1951,NA,NA,Nass
+33,412,Pink (Even),1951,NA,NA,Nass
+34,415,Pink (Odd),1951,NA,NA,Nass
+35,420,Lake Sockeye,1951,NA,NA,Nass
+36,418,Lake Sockeye,1951,NA,NA,Nass
+37,421,Lake Sockeye,1951,NA,NA,Nass
+38,422,Lake Sockeye,1951,NA,NA,Nass
+39,423,Lake Sockeye,1951,NA,NA,Nass
+40,419,Lake Sockeye,1951,NA,NA,Nass
+41,424,Lake Sockeye,1951,NA,NA,Nass
+42,425,Lake Sockeye,1951,NA,NA,Nass
+43,426,River Sockeye,1951,NA,NA,Nass
+44,427,River Sockeye,1951,NA,NA,Nass
+45,401,Chinook,1952,NA,NA,Nass
+46,402,Chinook,1952,NA,NA,Nass
+47,405,Chum,1952,NA,NA,Nass
+48,406,Chum,1952,NA,NA,Nass
+49,404,Chum,1952,NA,NA,Nass
+50,408,Coho,1952,NA,NA,Nass
+51,410,Coho,1952,NA,NA,Nass
+52,409,Coho,1952,NA,NA,Nass
+53,414,Pink (Odd),1952,NA,NA,Nass
+54,219,Pink (Even),1952,NA,NA,Nass
+55,412,Pink (Even),1952,NA,NA,Nass
+56,415,Pink (Odd),1952,NA,NA,Nass
+57,420,Lake Sockeye,1952,NA,NA,Nass
+58,418,Lake Sockeye,1952,NA,NA,Nass
+59,421,Lake Sockeye,1952,NA,NA,Nass
+60,422,Lake Sockeye,1952,NA,NA,Nass
+61,423,Lake Sockeye,1952,NA,NA,Nass
+62,419,Lake Sockeye,1952,NA,NA,Nass
+63,424,Lake Sockeye,1952,NA,NA,Nass
+64,425,Lake Sockeye,1952,NA,NA,Nass
+65,426,River Sockeye,1952,NA,NA,Nass
+66,427,River Sockeye,1952,NA,NA,Nass
+67,401,Chinook,1953,NA,NA,Nass
+68,402,Chinook,1953,NA,NA,Nass
+69,405,Chum,1953,NA,NA,Nass
+70,406,Chum,1953,NA,NA,Nass
+71,404,Chum,1953,NA,NA,Nass
+72,408,Coho,1953,NA,NA,Nass
+73,410,Coho,1953,NA,NA,Nass
+74,409,Coho,1953,NA,NA,Nass
+75,414,Pink (Odd),1953,NA,NA,Nass
+76,219,Pink (Even),1953,NA,NA,Nass
+77,412,Pink (Even),1953,NA,NA,Nass
+78,415,Pink (Odd),1953,NA,NA,Nass
+79,420,Lake Sockeye,1953,NA,NA,Nass
+80,418,Lake Sockeye,1953,NA,NA,Nass
+81,421,Lake Sockeye,1953,NA,NA,Nass
+82,422,Lake Sockeye,1953,NA,NA,Nass
+83,423,Lake Sockeye,1953,NA,NA,Nass
+84,419,Lake Sockeye,1953,NA,NA,Nass
+85,424,Lake Sockeye,1953,NA,NA,Nass
+86,425,Lake Sockeye,1953,NA,NA,Nass
+87,426,River Sockeye,1953,NA,NA,Nass
+88,427,River Sockeye,1953,NA,NA,Nass
+89,401,Chinook,1954,NA,NA,Nass
+90,402,Chinook,1954,NA,NA,Nass
+91,405,Chum,1954,NA,NA,Nass
+92,406,Chum,1954,15177,27407,Nass
+93,404,Chum,1954,21170,38229,Nass
+94,408,Coho,1954,NA,NA,Nass
+95,410,Coho,1954,NA,NA,Nass
+96,409,Coho,1954,NA,NA,Nass
+97,414,Pink (Odd),1954,NA,NA,Nass
+98,219,Pink (Even),1954,843146,1522547,Nass
+99,412,Pink (Even),1954,NA,NA,Nass
+100,415,Pink (Odd),1954,NA,NA,Nass
+101,420,Lake Sockeye,1954,NA,NA,Nass
+102,418,Lake Sockeye,1954,NA,NA,Nass
+103,421,Lake Sockeye,1954,NA,NA,Nass
+104,422,Lake Sockeye,1954,NA,NA,Nass
+105,423,Lake Sockeye,1954,NA,NA,Nass
+106,419,Lake Sockeye,1954,NA,NA,Nass
+107,424,Lake Sockeye,1954,NA,NA,Nass
+108,425,Lake Sockeye,1954,NA,NA,Nass
+109,426,River Sockeye,1954,NA,NA,Nass
+110,427,River Sockeye,1954,NA,NA,Nass
+111,401,Chinook,1955,NA,NA,Nass
+112,402,Chinook,1955,NA,NA,Nass
+113,405,Chum,1955,NA,NA,Nass
+114,406,Chum,1955,7630,13610,Nass
+115,404,Chum,1955,4218,7523,Nass
+116,408,Coho,1955,NA,NA,Nass
+117,410,Coho,1955,NA,NA,Nass
+118,409,Coho,1955,NA,NA,Nass
+119,414,Pink (Odd),1955,61559,109804,Nass
+120,219,Pink (Even),1955,NA,NA,Nass
+121,412,Pink (Even),1955,NA,NA,Nass
+122,415,Pink (Odd),1955,NA,NA,Nass
+123,420,Lake Sockeye,1955,NA,NA,Nass
+124,418,Lake Sockeye,1955,NA,NA,Nass
+125,421,Lake Sockeye,1955,NA,NA,Nass
+126,422,Lake Sockeye,1955,NA,NA,Nass
+127,423,Lake Sockeye,1955,NA,NA,Nass
+128,419,Lake Sockeye,1955,NA,NA,Nass
+129,424,Lake Sockeye,1955,NA,NA,Nass
+130,425,Lake Sockeye,1955,NA,NA,Nass
+131,426,River Sockeye,1955,NA,NA,Nass
+132,427,River Sockeye,1955,NA,NA,Nass
+133,401,Chinook,1956,NA,NA,Nass
+134,402,Chinook,1956,NA,NA,Nass
+135,405,Chum,1956,NA,NA,Nass
+136,406,Chum,1956,37119,93851,Nass
+137,404,Chum,1956,17807,45024,Nass
+138,408,Coho,1956,NA,NA,Nass
+139,410,Coho,1956,NA,NA,Nass
+140,409,Coho,1956,NA,NA,Nass
+141,414,Pink (Odd),1956,NA,NA,Nass
+142,219,Pink (Even),1956,493389,1247491,Nass
+143,412,Pink (Even),1956,NA,NA,Nass
+144,415,Pink (Odd),1956,NA,NA,Nass
+145,420,Lake Sockeye,1956,NA,NA,Nass
+146,418,Lake Sockeye,1956,NA,NA,Nass
+147,421,Lake Sockeye,1956,NA,NA,Nass
+148,422,Lake Sockeye,1956,NA,NA,Nass
+149,423,Lake Sockeye,1956,NA,NA,Nass
+150,419,Lake Sockeye,1956,NA,NA,Nass
+151,424,Lake Sockeye,1956,NA,NA,Nass
+152,425,Lake Sockeye,1956,NA,NA,Nass
+153,426,River Sockeye,1956,NA,NA,Nass
+154,427,River Sockeye,1956,NA,NA,Nass
+155,401,Chinook,1957,NA,NA,Nass
+156,402,Chinook,1957,NA,NA,Nass
+157,405,Chum,1957,NA,NA,Nass
+158,406,Chum,1957,56252,118652,Nass
+159,404,Chum,1957,32417,68376,Nass
+160,408,Coho,1957,NA,NA,Nass
+161,410,Coho,1957,NA,NA,Nass
+162,409,Coho,1957,NA,NA,Nass
+163,414,Pink (Odd),1957,44822,94541,Nass
+164,219,Pink (Even),1957,NA,NA,Nass
+165,412,Pink (Even),1957,NA,NA,Nass
+166,415,Pink (Odd),1957,NA,NA,Nass
+167,420,Lake Sockeye,1957,NA,NA,Nass
+168,418,Lake Sockeye,1957,NA,NA,Nass
+169,421,Lake Sockeye,1957,NA,NA,Nass
+170,422,Lake Sockeye,1957,NA,NA,Nass
+171,423,Lake Sockeye,1957,NA,NA,Nass
+172,419,Lake Sockeye,1957,NA,NA,Nass
+173,424,Lake Sockeye,1957,NA,NA,Nass
+174,425,Lake Sockeye,1957,NA,NA,Nass
+175,426,River Sockeye,1957,NA,NA,Nass
+176,427,River Sockeye,1957,NA,NA,Nass
+177,401,Chinook,1958,NA,NA,Nass
+178,402,Chinook,1958,NA,NA,Nass
+179,405,Chum,1958,67749,127522,Nass
+180,406,Chum,1958,61534,115824,Nass
+181,404,Chum,1958,22328,42027,Nass
+182,408,Coho,1958,NA,NA,Nass
+183,410,Coho,1958,NA,NA,Nass
+184,409,Coho,1958,NA,NA,Nass
+185,414,Pink (Odd),1958,NA,NA,Nass
+186,219,Pink (Even),1958,530174,997927,Nass
+187,412,Pink (Even),1958,NA,NA,Nass
+188,415,Pink (Odd),1958,NA,NA,Nass
+189,420,Lake Sockeye,1958,NA,NA,Nass
+190,418,Lake Sockeye,1958,NA,NA,Nass
+191,421,Lake Sockeye,1958,NA,NA,Nass
+192,422,Lake Sockeye,1958,NA,NA,Nass
+193,423,Lake Sockeye,1958,NA,NA,Nass
+194,419,Lake Sockeye,1958,NA,NA,Nass
+195,424,Lake Sockeye,1958,NA,NA,Nass
+196,425,Lake Sockeye,1958,NA,NA,Nass
+197,426,River Sockeye,1958,NA,NA,Nass
+198,427,River Sockeye,1958,NA,NA,Nass
+199,401,Chinook,1959,NA,NA,Nass
+200,402,Chinook,1959,NA,NA,Nass
+201,405,Chum,1959,149049,261939,Nass
+202,406,Chum,1959,191176,335973,Nass
+203,404,Chum,1959,15014,26386,Nass
+204,408,Coho,1959,NA,NA,Nass
+205,410,Coho,1959,NA,NA,Nass
+206,409,Coho,1959,NA,NA,Nass
+207,414,Pink (Odd),1959,284809,500526,Nass
+208,219,Pink (Even),1959,NA,NA,Nass
+209,412,Pink (Even),1959,NA,NA,Nass
+210,415,Pink (Odd),1959,NA,NA,Nass
+211,420,Lake Sockeye,1959,NA,NA,Nass
+212,418,Lake Sockeye,1959,NA,NA,Nass
+213,421,Lake Sockeye,1959,NA,NA,Nass
+214,422,Lake Sockeye,1959,NA,NA,Nass
+215,423,Lake Sockeye,1959,NA,NA,Nass
+216,419,Lake Sockeye,1959,NA,NA,Nass
+217,424,Lake Sockeye,1959,NA,NA,Nass
+218,425,Lake Sockeye,1959,NA,NA,Nass
+219,426,River Sockeye,1959,NA,NA,Nass
+220,427,River Sockeye,1959,NA,NA,Nass
+221,401,Chinook,1960,NA,NA,Nass
+222,402,Chinook,1960,NA,NA,Nass
+223,405,Chum,1960,94849,159979,Nass
+224,406,Chum,1960,57023,96180,Nass
+225,404,Chum,1960,16567,27943,Nass
+226,408,Coho,1960,NA,NA,Nass
+227,410,Coho,1960,NA,NA,Nass
+228,409,Coho,1960,NA,NA,Nass
+229,414,Pink (Odd),1960,NA,NA,Nass
+230,219,Pink (Even),1960,380814,642308,Nass
+231,412,Pink (Even),1960,NA,NA,Nass
+232,415,Pink (Odd),1960,NA,NA,Nass
+233,420,Lake Sockeye,1960,NA,NA,Nass
+234,418,Lake Sockeye,1960,NA,NA,Nass
+235,421,Lake Sockeye,1960,NA,NA,Nass
+236,422,Lake Sockeye,1960,NA,NA,Nass
+237,423,Lake Sockeye,1960,NA,NA,Nass
+238,419,Lake Sockeye,1960,NA,NA,Nass
+239,424,Lake Sockeye,1960,NA,NA,Nass
+240,425,Lake Sockeye,1960,NA,NA,Nass
+241,426,River Sockeye,1960,NA,NA,Nass
+242,427,River Sockeye,1960,NA,NA,Nass
+243,401,Chinook,1961,NA,NA,Nass
+244,402,Chinook,1961,NA,NA,Nass
+245,405,Chum,1961,203248,340284,Nass
+246,406,Chum,1961,92384,154672,Nass
+247,404,Chum,1961,21161,35429,Nass
+248,408,Coho,1961,NA,NA,Nass
+249,410,Coho,1961,NA,NA,Nass
+250,409,Coho,1961,NA,NA,Nass
+251,414,Pink (Odd),1961,397838,666072,Nass
+252,219,Pink (Even),1961,NA,NA,Nass
+253,412,Pink (Even),1961,NA,NA,Nass
+254,415,Pink (Odd),1961,NA,NA,Nass
+255,420,Lake Sockeye,1961,NA,NA,Nass
+256,418,Lake Sockeye,1961,NA,NA,Nass
+257,421,Lake Sockeye,1961,NA,NA,Nass
+258,422,Lake Sockeye,1961,NA,NA,Nass
+259,423,Lake Sockeye,1961,NA,NA,Nass
+260,419,Lake Sockeye,1961,NA,NA,Nass
+261,424,Lake Sockeye,1961,NA,NA,Nass
+262,425,Lake Sockeye,1961,NA,NA,Nass
+263,426,River Sockeye,1961,NA,NA,Nass
+264,427,River Sockeye,1961,NA,NA,Nass
+265,401,Chinook,1962,NA,NA,Nass
+266,402,Chinook,1962,NA,NA,Nass
+267,405,Chum,1962,NA,NA,Nass
+268,406,Chum,1962,6537,9402,Nass
+269,404,Chum,1962,61409,88326,Nass
+270,408,Coho,1962,NA,NA,Nass
+271,410,Coho,1962,NA,NA,Nass
+272,409,Coho,1962,NA,NA,Nass
+273,414,Pink (Odd),1962,NA,NA,Nass
+274,219,Pink (Even),1962,1892597,2722172,Nass
+275,412,Pink (Even),1962,NA,NA,Nass
+276,415,Pink (Odd),1962,NA,NA,Nass
+277,420,Lake Sockeye,1962,NA,NA,Nass
+278,418,Lake Sockeye,1962,NA,NA,Nass
+279,421,Lake Sockeye,1962,NA,NA,Nass
+280,422,Lake Sockeye,1962,NA,NA,Nass
+281,423,Lake Sockeye,1962,NA,NA,Nass
+282,419,Lake Sockeye,1962,NA,NA,Nass
+283,424,Lake Sockeye,1962,NA,NA,Nass
+284,425,Lake Sockeye,1962,NA,NA,Nass
+285,426,River Sockeye,1962,NA,NA,Nass
+286,427,River Sockeye,1962,NA,NA,Nass
+287,401,Chinook,1963,NA,NA,Nass
+288,402,Chinook,1963,NA,NA,Nass
+289,405,Chum,1963,54200,69722,Nass
+290,406,Chum,1963,51635,66422,Nass
+291,404,Chum,1963,40165,51668,Nass
+292,408,Coho,1963,NA,NA,Nass
+293,410,Coho,1963,NA,NA,Nass
+294,409,Coho,1963,NA,NA,Nass
+295,414,Pink (Odd),1963,323136,415679,Nass
+296,219,Pink (Even),1963,NA,NA,Nass
+297,412,Pink (Even),1963,NA,NA,Nass
+298,415,Pink (Odd),1963,NA,NA,Nass
+299,420,Lake Sockeye,1963,NA,NA,Nass
+300,418,Lake Sockeye,1963,NA,NA,Nass
+301,421,Lake Sockeye,1963,NA,NA,Nass
+302,422,Lake Sockeye,1963,NA,NA,Nass
+303,423,Lake Sockeye,1963,NA,NA,Nass
+304,419,Lake Sockeye,1963,NA,NA,Nass
+305,424,Lake Sockeye,1963,NA,NA,Nass
+306,425,Lake Sockeye,1963,NA,NA,Nass
+307,426,River Sockeye,1963,NA,NA,Nass
+308,427,River Sockeye,1963,NA,NA,Nass
+309,401,Chinook,1964,NA,NA,Nass
+310,402,Chinook,1964,NA,NA,Nass
+311,405,Chum,1964,406496,611433,Nass
+312,406,Chum,1964,50879,76530,Nass
+313,404,Chum,1964,75517,113589,Nass
+314,408,Coho,1964,NA,NA,Nass
+315,410,Coho,1964,NA,NA,Nass
+316,409,Coho,1964,NA,NA,Nass
+317,414,Pink (Odd),1964,NA,NA,Nass
+318,219,Pink (Even),1964,3132561,4711853,Nass
+319,412,Pink (Even),1964,NA,NA,Nass
+320,415,Pink (Odd),1964,NA,NA,Nass
+321,420,Lake Sockeye,1964,NA,NA,Nass
+322,418,Lake Sockeye,1964,NA,NA,Nass
+323,421,Lake Sockeye,1964,NA,NA,Nass
+324,422,Lake Sockeye,1964,NA,NA,Nass
+325,423,Lake Sockeye,1964,NA,NA,Nass
+326,419,Lake Sockeye,1964,NA,NA,Nass
+327,424,Lake Sockeye,1964,NA,NA,Nass
+328,425,Lake Sockeye,1964,NA,NA,Nass
+329,426,River Sockeye,1964,NA,NA,Nass
+330,427,River Sockeye,1964,NA,NA,Nass
+331,401,Chinook,1965,NA,NA,Nass
+332,402,Chinook,1965,NA,NA,Nass
+333,405,Chum,1965,54200,97860,Nass
+334,406,Chum,1965,21776,39318,Nass
+335,404,Chum,1965,22310,40282,Nass
+336,408,Coho,1965,NA,NA,Nass
+337,410,Coho,1965,NA,NA,Nass
+338,409,Coho,1965,NA,NA,Nass
+339,414,Pink (Odd),1965,411951,743798,Nass
+340,219,Pink (Even),1965,NA,NA,Nass
+341,412,Pink (Even),1965,NA,NA,Nass
+342,415,Pink (Odd),1965,NA,NA,Nass
+343,420,Lake Sockeye,1965,NA,NA,Nass
+344,418,Lake Sockeye,1965,NA,NA,Nass
+345,421,Lake Sockeye,1965,NA,NA,Nass
+346,422,Lake Sockeye,1965,NA,NA,Nass
+347,423,Lake Sockeye,1965,NA,NA,Nass
+348,419,Lake Sockeye,1965,NA,NA,Nass
+349,424,Lake Sockeye,1965,NA,NA,Nass
+350,425,Lake Sockeye,1965,NA,NA,Nass
+351,426,River Sockeye,1965,NA,NA,Nass
+352,427,River Sockeye,1965,NA,NA,Nass
+353,401,Chinook,1966,NA,NA,Nass
+354,402,Chinook,1966,NA,NA,Nass
+355,405,Chum,1966,203248,320647,Nass
+356,406,Chum,1966,14847,23424,Nass
+357,404,Chum,1966,33194,52367,Nass
+358,408,Coho,1966,NA,NA,Nass
+359,410,Coho,1966,NA,NA,Nass
+360,409,Coho,1966,NA,NA,Nass
+361,414,Pink (Odd),1966,NA,NA,Nass
+362,219,Pink (Even),1966,1577170,2488165,Nass
+363,412,Pink (Even),1966,NA,NA,Nass
+364,415,Pink (Odd),1966,NA,NA,Nass
+365,420,Lake Sockeye,1966,NA,NA,Nass
+366,418,Lake Sockeye,1966,NA,NA,Nass
+367,421,Lake Sockeye,1966,NA,NA,Nass
+368,422,Lake Sockeye,1966,NA,NA,Nass
+369,423,Lake Sockeye,1966,NA,NA,Nass
+370,419,Lake Sockeye,1966,NA,NA,Nass
+371,424,Lake Sockeye,1966,NA,NA,Nass
+372,425,Lake Sockeye,1966,NA,NA,Nass
+373,426,River Sockeye,1966,NA,NA,Nass
+374,427,River Sockeye,1966,NA,NA,Nass
+375,401,Chinook,1967,NA,NA,Nass
+376,402,Chinook,1967,NA,NA,Nass
+377,405,Chum,1967,203248,464743,Nass
+378,406,Chum,1967,13717,31364,Nass
+379,404,Chum,1967,23134,52898,Nass
+380,408,Coho,1967,NA,NA,Nass
+381,410,Coho,1967,NA,NA,Nass
+382,409,Coho,1967,NA,NA,Nass
+383,414,Pink (Odd),1967,88377,202081,Nass
+384,219,Pink (Even),1967,NA,NA,Nass
+385,412,Pink (Even),1967,NA,NA,Nass
+386,415,Pink (Odd),1967,NA,NA,Nass
+387,420,Lake Sockeye,1967,NA,NA,Nass
+388,418,Lake Sockeye,1967,NA,NA,Nass
+389,421,Lake Sockeye,1967,NA,NA,Nass
+390,422,Lake Sockeye,1967,NA,NA,Nass
+391,423,Lake Sockeye,1967,NA,NA,Nass
+392,419,Lake Sockeye,1967,NA,NA,Nass
+393,424,Lake Sockeye,1967,NA,NA,Nass
+394,425,Lake Sockeye,1967,NA,NA,Nass
+395,426,River Sockeye,1967,NA,NA,Nass
+396,427,River Sockeye,1967,NA,NA,Nass
+397,401,Chinook,1968,NA,NA,Nass
+398,402,Chinook,1968,NA,NA,Nass
+399,405,Chum,1968,6775,12000,Nass
+400,406,Chum,1968,24348,43126,Nass
+401,404,Chum,1968,44180,78252,Nass
+402,408,Coho,1968,NA,NA,Nass
+403,410,Coho,1968,NA,NA,Nass
+404,409,Coho,1968,NA,NA,Nass
+405,414,Pink (Odd),1968,NA,NA,Nass
+406,219,Pink (Even),1968,2807509,4972719,Nass
+407,412,Pink (Even),1968,NA,NA,Nass
+408,415,Pink (Odd),1968,NA,NA,Nass
+409,420,Lake Sockeye,1968,NA,NA,Nass
+410,418,Lake Sockeye,1968,NA,NA,Nass
+411,421,Lake Sockeye,1968,NA,NA,Nass
+412,422,Lake Sockeye,1968,NA,NA,Nass
+413,423,Lake Sockeye,1968,NA,NA,Nass
+414,419,Lake Sockeye,1968,NA,NA,Nass
+415,424,Lake Sockeye,1968,NA,NA,Nass
+416,425,Lake Sockeye,1968,NA,NA,Nass
+417,426,River Sockeye,1968,NA,NA,Nass
+418,427,River Sockeye,1968,NA,NA,Nass
+419,401,Chinook,1969,NA,NA,Nass
+420,402,Chinook,1969,NA,NA,Nass
+421,405,Chum,1969,NA,NA,Nass
+422,406,Chum,1969,9898,16994,Nass
+423,404,Chum,1969,26555,45592,Nass
+424,408,Coho,1969,NA,NA,Nass
+425,410,Coho,1969,NA,NA,Nass
+426,409,Coho,1969,NA,NA,Nass
+427,414,Pink (Odd),1969,76708,131699,Nass
+428,219,Pink (Even),1969,NA,NA,Nass
+429,412,Pink (Even),1969,NA,NA,Nass
+430,415,Pink (Odd),1969,NA,NA,Nass
+431,420,Lake Sockeye,1969,NA,NA,Nass
+432,418,Lake Sockeye,1969,NA,NA,Nass
+433,421,Lake Sockeye,1969,NA,NA,Nass
+434,422,Lake Sockeye,1969,NA,NA,Nass
+435,423,Lake Sockeye,1969,NA,NA,Nass
+436,419,Lake Sockeye,1969,NA,NA,Nass
+437,424,Lake Sockeye,1969,NA,NA,Nass
+438,425,Lake Sockeye,1969,NA,NA,Nass
+439,426,River Sockeye,1969,NA,NA,Nass
+440,427,River Sockeye,1969,NA,NA,Nass
+441,401,Chinook,1970,NA,NA,Nass
+442,402,Chinook,1970,NA,NA,Nass
+443,405,Chum,1970,20325,32108,Nass
+444,406,Chum,1970,14353,22674,Nass
+445,404,Chum,1970,34742,54885,Nass
+446,408,Coho,1970,NA,NA,Nass
+447,410,Coho,1970,NA,NA,Nass
+448,409,Coho,1970,NA,NA,Nass
+449,414,Pink (Odd),1970,NA,NA,Nass
+450,219,Pink (Even),1970,1521990,2404378,Nass
+451,412,Pink (Even),1970,NA,NA,Nass
+452,415,Pink (Odd),1970,NA,NA,Nass
+453,420,Lake Sockeye,1970,NA,NA,Nass
+454,418,Lake Sockeye,1970,NA,NA,Nass
+455,421,Lake Sockeye,1970,NA,NA,Nass
+456,422,Lake Sockeye,1970,NA,NA,Nass
+457,423,Lake Sockeye,1970,NA,NA,Nass
+458,419,Lake Sockeye,1970,NA,NA,Nass
+459,424,Lake Sockeye,1970,NA,NA,Nass
+460,425,Lake Sockeye,1970,NA,NA,Nass
+461,426,River Sockeye,1970,NA,NA,Nass
+462,427,River Sockeye,1970,NA,NA,Nass
+463,401,Chinook,1971,NA,NA,Nass
+464,402,Chinook,1971,NA,NA,Nass
+465,405,Chum,1971,NA,NA,Nass
+466,406,Chum,1971,16992,26185,Nass
+467,404,Chum,1971,21402,32981,Nass
+468,408,Coho,1971,NA,NA,Nass
+469,410,Coho,1971,NA,NA,Nass
+470,409,Coho,1971,NA,NA,Nass
+471,414,Pink (Odd),1971,238572,367647,Nass
+472,219,Pink (Even),1971,NA,NA,Nass
+473,412,Pink (Even),1971,NA,NA,Nass
+474,415,Pink (Odd),1971,NA,NA,Nass
+475,420,Lake Sockeye,1971,NA,NA,Nass
+476,418,Lake Sockeye,1971,NA,NA,Nass
+477,421,Lake Sockeye,1971,NA,NA,Nass
+478,422,Lake Sockeye,1971,NA,NA,Nass
+479,423,Lake Sockeye,1971,NA,NA,Nass
+480,419,Lake Sockeye,1971,NA,NA,Nass
+481,424,Lake Sockeye,1971,NA,NA,Nass
+482,425,Lake Sockeye,1971,NA,NA,Nass
+483,426,River Sockeye,1971,NA,NA,Nass
+484,427,River Sockeye,1971,NA,NA,Nass
+485,401,Chinook,1972,NA,NA,Nass
+486,402,Chinook,1972,NA,NA,Nass
+487,405,Chum,1972,NA,NA,Nass
+488,406,Chum,1972,47017,74133,Nass
+489,404,Chum,1972,63021,99367,Nass
+490,408,Coho,1972,NA,NA,Nass
+491,410,Coho,1972,NA,NA,Nass
+492,409,Coho,1972,NA,NA,Nass
+493,414,Pink (Odd),1972,NA,NA,Nass
+494,219,Pink (Even),1972,2527505,3985183,Nass
+495,412,Pink (Even),1972,NA,NA,Nass
+496,415,Pink (Odd),1972,NA,NA,Nass
+497,420,Lake Sockeye,1972,NA,NA,Nass
+498,418,Lake Sockeye,1972,NA,NA,Nass
+499,421,Lake Sockeye,1972,NA,NA,Nass
+500,422,Lake Sockeye,1972,NA,NA,Nass
+501,423,Lake Sockeye,1972,NA,NA,Nass
+502,419,Lake Sockeye,1972,NA,NA,Nass
+503,424,Lake Sockeye,1972,NA,NA,Nass
+504,425,Lake Sockeye,1972,NA,NA,Nass
+505,426,River Sockeye,1972,NA,NA,Nass
+506,427,River Sockeye,1972,NA,NA,Nass
+507,401,Chinook,1973,NA,NA,Nass
+508,402,Chinook,1973,NA,NA,Nass
+509,405,Chum,1973,NA,NA,Nass
+510,406,Chum,1973,50375,72691,Nass
+511,404,Chum,1973,45246,65290,Nass
+512,408,Coho,1973,NA,NA,Nass
+513,410,Coho,1973,NA,NA,Nass
+514,409,Coho,1973,NA,NA,Nass
+515,414,Pink (Odd),1973,124760,180029,Nass
+516,219,Pink (Even),1973,NA,NA,Nass
+517,412,Pink (Even),1973,NA,NA,Nass
+518,415,Pink (Odd),1973,NA,NA,Nass
+519,420,Lake Sockeye,1973,NA,NA,Nass
+520,418,Lake Sockeye,1973,NA,NA,Nass
+521,421,Lake Sockeye,1973,NA,NA,Nass
+522,422,Lake Sockeye,1973,NA,NA,Nass
+523,423,Lake Sockeye,1973,NA,NA,Nass
+524,419,Lake Sockeye,1973,NA,NA,Nass
+525,424,Lake Sockeye,1973,NA,NA,Nass
+526,425,Lake Sockeye,1973,NA,NA,Nass
+527,426,River Sockeye,1973,NA,NA,Nass
+528,427,River Sockeye,1973,NA,NA,Nass
+529,401,Chinook,1974,NA,NA,Nass
+530,402,Chinook,1974,NA,NA,Nass
+531,405,Chum,1974,2710,4625,Nass
+532,406,Chum,1974,136927,233698,Nass
+533,404,Chum,1974,51441,87797,Nass
+534,408,Coho,1974,NA,NA,Nass
+535,410,Coho,1974,NA,NA,Nass
+536,409,Coho,1974,NA,NA,Nass
+537,414,Pink (Odd),1974,NA,NA,Nass
+538,219,Pink (Even),1974,766905,1308909,Nass
+539,412,Pink (Even),1974,NA,NA,Nass
+540,415,Pink (Odd),1974,NA,NA,Nass
+541,420,Lake Sockeye,1974,NA,NA,Nass
+542,418,Lake Sockeye,1974,NA,NA,Nass
+543,421,Lake Sockeye,1974,NA,NA,Nass
+544,422,Lake Sockeye,1974,NA,NA,Nass
+545,423,Lake Sockeye,1974,NA,NA,Nass
+546,419,Lake Sockeye,1974,NA,NA,Nass
+547,424,Lake Sockeye,1974,NA,NA,Nass
+548,425,Lake Sockeye,1974,NA,NA,Nass
+549,426,River Sockeye,1974,NA,NA,Nass
+550,427,River Sockeye,1974,NA,NA,Nass
+551,401,Chinook,1975,NA,NA,Nass
+552,402,Chinook,1975,NA,NA,Nass
+553,405,Chum,1975,NA,NA,Nass
+554,406,Chum,1975,27706,38744,Nass
+555,404,Chum,1975,20638,28859,Nass
+556,408,Coho,1975,NA,NA,Nass
+557,410,Coho,1975,NA,NA,Nass
+558,409,Coho,1975,NA,NA,Nass
+559,414,Pink (Odd),1975,256227,358306,Nass
+560,219,Pink (Even),1975,NA,NA,Nass
+561,412,Pink (Even),1975,NA,NA,Nass
+562,415,Pink (Odd),1975,NA,NA,Nass
+563,420,Lake Sockeye,1975,NA,NA,Nass
+564,418,Lake Sockeye,1975,NA,NA,Nass
+565,421,Lake Sockeye,1975,NA,NA,Nass
+566,422,Lake Sockeye,1975,NA,NA,Nass
+567,423,Lake Sockeye,1975,NA,NA,Nass
+568,419,Lake Sockeye,1975,NA,NA,Nass
+569,424,Lake Sockeye,1975,NA,NA,Nass
+570,425,Lake Sockeye,1975,NA,NA,Nass
+571,426,River Sockeye,1975,NA,NA,Nass
+572,427,River Sockeye,1975,NA,NA,Nass
+573,401,Chinook,1976,NA,NA,Nass
+574,402,Chinook,1976,NA,NA,Nass
+575,405,Chum,1976,13550,18266,Nass
+576,406,Chum,1976,70351,94837,Nass
+577,404,Chum,1976,22623,30497,Nass
+578,408,Coho,1976,NA,NA,Nass
+579,410,Coho,1976,NA,NA,Nass
+580,409,Coho,1976,NA,NA,Nass
+581,414,Pink (Odd),1976,NA,NA,Nass
+582,219,Pink (Even),1976,992919,1338511,Nass
+583,412,Pink (Even),1976,NA,NA,Nass
+584,415,Pink (Odd),1976,NA,NA,Nass
+585,420,Lake Sockeye,1976,NA,NA,Nass
+586,418,Lake Sockeye,1976,NA,NA,Nass
+587,421,Lake Sockeye,1976,NA,NA,Nass
+588,422,Lake Sockeye,1976,NA,NA,Nass
+589,423,Lake Sockeye,1976,NA,NA,Nass
+590,419,Lake Sockeye,1976,NA,NA,Nass
+591,424,Lake Sockeye,1976,NA,NA,Nass
+592,425,Lake Sockeye,1976,NA,NA,Nass
+593,426,River Sockeye,1976,NA,NA,Nass
+594,427,River Sockeye,1976,NA,NA,Nass
+595,401,Chinook,1977,NA,NA,Nass
+596,402,Chinook,1977,NA,NA,Nass
+597,405,Chum,1977,NA,NA,Nass
+598,406,Chum,1977,52443,119753,Nass
+599,404,Chum,1977,40072,91505,Nass
+600,408,Coho,1977,NA,NA,Nass
+601,410,Coho,1977,NA,NA,Nass
+602,409,Coho,1977,NA,NA,Nass
+603,414,Pink (Odd),1977,317145,724195,Nass
+604,219,Pink (Even),1977,NA,NA,Nass
+605,412,Pink (Even),1977,NA,NA,Nass
+606,415,Pink (Odd),1977,NA,NA,Nass
+607,420,Lake Sockeye,1977,NA,NA,Nass
+608,418,Lake Sockeye,1977,NA,NA,Nass
+609,421,Lake Sockeye,1977,NA,NA,Nass
+610,422,Lake Sockeye,1977,NA,NA,Nass
+611,423,Lake Sockeye,1977,NA,NA,Nass
+612,419,Lake Sockeye,1977,NA,NA,Nass
+613,424,Lake Sockeye,1977,NA,NA,Nass
+614,425,Lake Sockeye,1977,NA,NA,Nass
+615,426,River Sockeye,1977,NA,NA,Nass
+616,427,River Sockeye,1977,NA,NA,Nass
+617,401,Chinook,1978,NA,NA,Nass
+618,402,Chinook,1978,NA,NA,Nass
+619,405,Chum,1978,NA,NA,Nass
+620,406,Chum,1978,58359,108848,Nass
+621,404,Chum,1978,35712,66608,Nass
+622,408,Coho,1978,NA,NA,Nass
+623,410,Coho,1978,NA,NA,Nass
+624,409,Coho,1978,NA,NA,Nass
+625,414,Pink (Odd),1978,NA,NA,Nass
+626,219,Pink (Even),1978,1145818,2137121,Nass
+627,412,Pink (Even),1978,NA,NA,Nass
+628,415,Pink (Odd),1978,NA,NA,Nass
+629,420,Lake Sockeye,1978,NA,NA,Nass
+630,418,Lake Sockeye,1978,NA,NA,Nass
+631,421,Lake Sockeye,1978,NA,NA,Nass
+632,422,Lake Sockeye,1978,NA,NA,Nass
+633,423,Lake Sockeye,1978,NA,NA,Nass
+634,419,Lake Sockeye,1978,NA,NA,Nass
+635,424,Lake Sockeye,1978,NA,NA,Nass
+636,425,Lake Sockeye,1978,NA,NA,Nass
+637,426,River Sockeye,1978,NA,NA,Nass
+638,427,River Sockeye,1978,NA,NA,Nass
+639,401,Chinook,1979,NA,NA,Nass
+640,402,Chinook,1979,NA,NA,Nass
+641,405,Chum,1979,NA,NA,Nass
+642,406,Chum,1979,50937,84645,Nass
+643,404,Chum,1979,11150,18528,Nass
+644,408,Coho,1979,NA,NA,Nass
+645,410,Coho,1979,NA,NA,Nass
+646,409,Coho,1979,NA,NA,Nass
+647,414,Pink (Odd),1979,82801,137594,Nass
+648,219,Pink (Even),1979,NA,NA,Nass
+649,412,Pink (Even),1979,NA,NA,Nass
+650,415,Pink (Odd),1979,NA,NA,Nass
+651,420,Lake Sockeye,1979,NA,NA,Nass
+652,418,Lake Sockeye,1979,NA,NA,Nass
+653,421,Lake Sockeye,1979,NA,NA,Nass
+654,422,Lake Sockeye,1979,NA,NA,Nass
+655,423,Lake Sockeye,1979,NA,NA,Nass
+656,419,Lake Sockeye,1979,NA,NA,Nass
+657,424,Lake Sockeye,1979,NA,NA,Nass
+658,425,Lake Sockeye,1979,NA,NA,Nass
+659,426,River Sockeye,1979,NA,NA,Nass
+660,427,River Sockeye,1979,NA,NA,Nass
+661,401,Chinook,1980,NA,NA,Nass
+662,402,Chinook,1980,NA,NA,Nass
+663,405,Chum,1980,NA,NA,Nass
+664,406,Chum,1980,53767,96278,Nass
+665,404,Chum,1980,20811,37265,Nass
+666,408,Coho,1980,NA,NA,Nass
+667,410,Coho,1980,NA,NA,Nass
+668,409,Coho,1980,NA,NA,Nass
+669,414,Pink (Odd),1980,NA,NA,Nass
+670,219,Pink (Even),1980,1018335,1823475,Nass
+671,412,Pink (Even),1980,NA,NA,Nass
+672,415,Pink (Odd),1980,NA,NA,Nass
+673,420,Lake Sockeye,1980,NA,NA,Nass
+674,418,Lake Sockeye,1980,NA,NA,Nass
+675,421,Lake Sockeye,1980,NA,NA,Nass
+676,422,Lake Sockeye,1980,NA,NA,Nass
+677,423,Lake Sockeye,1980,NA,NA,Nass
+678,419,Lake Sockeye,1980,NA,NA,Nass
+679,424,Lake Sockeye,1980,NA,NA,Nass
+680,425,Lake Sockeye,1980,NA,NA,Nass
+681,426,River Sockeye,1980,NA,NA,Nass
+682,427,River Sockeye,1980,NA,NA,Nass
+683,401,Chinook,1981,NA,NA,Nass
+684,402,Chinook,1981,NA,NA,Nass
+685,405,Chum,1981,2710,4873,Nass
+686,406,Chum,1981,15721,28269,Nass
+687,404,Chum,1981,7039,12657,Nass
+688,408,Coho,1981,NA,NA,Nass
+689,410,Coho,1981,NA,NA,Nass
+690,409,Coho,1981,NA,NA,Nass
+691,414,Pink (Odd),1981,327083,588130,Nass
+692,219,Pink (Even),1981,NA,NA,Nass
+693,412,Pink (Even),1981,NA,NA,Nass
+694,415,Pink (Odd),1981,NA,NA,Nass
+695,420,Lake Sockeye,1981,NA,NA,Nass
+696,418,Lake Sockeye,1981,NA,NA,Nass
+697,421,Lake Sockeye,1981,NA,NA,Nass
+698,422,Lake Sockeye,1981,NA,NA,Nass
+699,423,Lake Sockeye,1981,NA,NA,Nass
+700,419,Lake Sockeye,1981,NA,NA,Nass
+701,424,Lake Sockeye,1981,NA,NA,Nass
+702,425,Lake Sockeye,1981,NA,NA,Nass
+703,426,River Sockeye,1981,NA,NA,Nass
+704,427,River Sockeye,1981,NA,NA,Nass
+705,401,Chinook,1982,NA,NA,Nass
+706,402,Chinook,1982,NA,NA,Nass
+707,405,Chum,1982,6775,11755,Nass
+708,406,Chum,1982,18622,32311,Nass
+709,404,Chum,1982,11783,20444,Nass
+710,408,Coho,1982,NA,NA,Nass
+711,410,Coho,1982,NA,NA,Nass
+712,409,Coho,1982,NA,NA,Nass
+713,414,Pink (Odd),1982,NA,NA,Nass
+714,219,Pink (Even),1982,1238837,2224594,Nass
+715,412,Pink (Even),1982,NA,NA,Nass
+716,415,Pink (Odd),1982,NA,NA,Nass
+717,420,Lake Sockeye,1982,NA,NA,Nass
+718,418,Lake Sockeye,1982,NA,NA,Nass
+719,421,Lake Sockeye,1982,5000,15030,Nass
+720,422,Lake Sockeye,1982,20000,57664,Nass
+721,423,Lake Sockeye,1982,NA,NA,Nass
+722,419,Lake Sockeye,1982,NA,NA,Nass
+723,424,Lake Sockeye,1982,250000,640853,Nass
+724,425,Lake Sockeye,1982,NA,NA,Nass
+725,426,River Sockeye,1982,2701,6079,Nass
+726,427,River Sockeye,1982,NA,NA,Nass
+727,401,Chinook,1983,NA,NA,Nass
+728,402,Chinook,1983,NA,NA,Nass
+729,405,Chum,1983,5420,12560,Nass
+730,406,Chum,1983,47754,110659,Nass
+731,404,Chum,1983,16067,37232,Nass
+732,408,Coho,1983,NA,NA,Nass
+733,410,Coho,1983,NA,NA,Nass
+734,409,Coho,1983,NA,NA,Nass
+735,414,Pink (Odd),1983,939366,3110666,Nass
+736,219,Pink (Even),1983,NA,NA,Nass
+737,412,Pink (Even),1983,NA,NA,Nass
+738,415,Pink (Odd),1983,NA,NA,Nass
+739,420,Lake Sockeye,1983,NA,NA,Nass
+740,418,Lake Sockeye,1983,NA,NA,Nass
+741,421,Lake Sockeye,1983,500,2266,Nass
+742,422,Lake Sockeye,1983,2000,6587,Nass
+743,423,Lake Sockeye,1983,NA,NA,Nass
+744,419,Lake Sockeye,1983,NA,NA,Nass
+745,424,Lake Sockeye,1983,170000,487256,Nass
+746,425,Lake Sockeye,1983,NA,NA,Nass
+747,426,River Sockeye,1983,5402,8236,Nass
+748,427,River Sockeye,1983,392,1906,Nass
+749,401,Chinook,1984,NA,NA,Nass
+750,402,Chinook,1984,NA,NA,Nass
+751,405,Chum,1984,NA,NA,Nass
+752,406,Chum,1984,56126,137897,Nass
+753,404,Chum,1984,32134,78951,Nass
+754,408,Coho,1984,NA,NA,Nass
+755,410,Coho,1984,NA,NA,Nass
+756,409,Coho,1984,NA,NA,Nass
+757,414,Pink (Odd),1984,NA,NA,Nass
+758,219,Pink (Even),1984,2468996,5497689,Nass
+759,412,Pink (Even),1984,NA,NA,Nass
+760,415,Pink (Odd),1984,NA,NA,Nass
+761,420,Lake Sockeye,1984,NA,NA,Nass
+762,418,Lake Sockeye,1984,NA,NA,Nass
+763,421,Lake Sockeye,1984,1000,3737,Nass
+764,422,Lake Sockeye,1984,6000,15957,Nass
+765,423,Lake Sockeye,1984,NA,NA,Nass
+766,419,Lake Sockeye,1984,NA,NA,Nass
+767,424,Lake Sockeye,1984,140000,361606,Nass
+768,425,Lake Sockeye,1984,NA,NA,Nass
+769,426,River Sockeye,1984,15665,26343,Nass
+770,427,River Sockeye,1984,229,921,Nass
+771,401,Chinook,1985,NA,NA,Nass
+772,402,Chinook,1985,NA,NA,Nass
+773,405,Chum,1985,NA,NA,Nass
+774,406,Chum,1985,38912,66385,Nass
+775,404,Chum,1985,33707,57504,Nass
+776,408,Coho,1985,NA,NA,Nass
+777,410,Coho,1985,NA,NA,Nass
+778,409,Coho,1985,NA,NA,Nass
+779,414,Pink (Odd),1985,807670,1656933,Nass
+780,219,Pink (Even),1985,NA,NA,Nass
+781,412,Pink (Even),1985,NA,NA,Nass
+782,415,Pink (Odd),1985,NA,NA,Nass
+783,420,Lake Sockeye,1985,NA,NA,Nass
+784,418,Lake Sockeye,1985,NA,NA,Nass
+785,421,Lake Sockeye,1985,15000,40304,Nass
+786,422,Lake Sockeye,1985,15000,32187,Nass
+787,423,Lake Sockeye,1985,NA,NA,Nass
+788,419,Lake Sockeye,1985,NA,NA,Nass
+789,424,Lake Sockeye,1985,288663,572681,Nass
+790,425,Lake Sockeye,1985,NA,NA,Nass
+791,426,River Sockeye,1985,16205,23768,Nass
+792,427,River Sockeye,1985,392,1106,Nass
+793,401,Chinook,1986,2138,2709,Nass
+794,402,Chinook,1986,36523,48017,Nass
+795,405,Chum,1986,NA,NA,Nass
+796,406,Chum,1986,42254,84086,Nass
+797,404,Chum,1986,5891,11724,Nass
+798,408,Coho,1986,NA,NA,Nass
+799,410,Coho,1986,NA,NA,Nass
+800,409,Coho,1986,NA,NA,Nass
+801,414,Pink (Odd),1986,NA,NA,Nass
+802,219,Pink (Even),1986,2943006,6670315,Nass
+803,412,Pink (Even),1986,NA,NA,Nass
+804,415,Pink (Odd),1986,NA,NA,Nass
+805,420,Lake Sockeye,1986,NA,NA,Nass
+806,418,Lake Sockeye,1986,NA,NA,Nass
+807,421,Lake Sockeye,1986,10000,43837,Nass
+808,422,Lake Sockeye,1986,25000,78895,Nass
+809,423,Lake Sockeye,1986,NA,NA,Nass
+810,419,Lake Sockeye,1986,NA,NA,Nass
+811,424,Lake Sockeye,1986,115543,316542,Nass
+812,425,Lake Sockeye,1986,NA,NA,Nass
+813,426,River Sockeye,1986,2701,4527,Nass
+814,427,River Sockeye,1986,NA,NA,Nass
+815,401,Chinook,1987,1930,2448,Nass
+816,402,Chinook,1987,19540,25699,Nass
+817,405,Chum,1987,6775,12191,Nass
+818,406,Chum,1987,35574,64012,Nass
+819,404,Chum,1987,11553,20789,Nass
+820,408,Coho,1987,NA,NA,Nass
+821,410,Coho,1987,NA,NA,Nass
+822,409,Coho,1987,NA,NA,Nass
+823,414,Pink (Odd),1987,555485,1245983,Nass
+824,219,Pink (Even),1987,NA,NA,Nass
+825,412,Pink (Even),1987,NA,NA,Nass
+826,415,Pink (Odd),1987,NA,NA,Nass
+827,420,Lake Sockeye,1987,NA,NA,Nass
+828,418,Lake Sockeye,1987,NA,NA,Nass
+829,421,Lake Sockeye,1987,2000,7745,Nass
+830,422,Lake Sockeye,1987,7500,20874,Nass
+831,423,Lake Sockeye,1987,NA,NA,Nass
+832,419,Lake Sockeye,1987,NA,NA,Nass
+833,424,Lake Sockeye,1987,143989,355053,Nass
+834,425,Lake Sockeye,1987,NA,NA,Nass
+835,426,River Sockeye,1987,2701,4245,Nass
+836,427,River Sockeye,1987,NA,NA,Nass
+837,401,Chinook,1988,1503,1906,Nass
+838,402,Chinook,1988,15345,20182,Nass
+839,405,Chum,1988,27100,39104,Nass
+840,406,Chum,1988,28564,41217,Nass
+841,404,Chum,1988,42233,60941,Nass
+842,408,Coho,1988,NA,NA,Nass
+843,410,Coho,1988,NA,NA,Nass
+844,409,Coho,1988,NA,NA,Nass
+845,414,Pink (Odd),1988,NA,NA,Nass
+846,219,Pink (Even),1988,1442672,3057099,Nass
+847,412,Pink (Even),1988,NA,NA,Nass
+848,415,Pink (Odd),1988,NA,NA,Nass
+849,420,Lake Sockeye,1988,NA,NA,Nass
+850,418,Lake Sockeye,1988,NA,NA,Nass
+851,421,Lake Sockeye,1988,2000,6771,Nass
+852,422,Lake Sockeye,1988,2500,7293,Nass
+853,423,Lake Sockeye,1988,NA,NA,Nass
+854,419,Lake Sockeye,1988,NA,NA,Nass
+855,424,Lake Sockeye,1988,116984,289467,Nass
+856,425,Lake Sockeye,1988,NA,NA,Nass
+857,426,River Sockeye,1988,2701,4984,Nass
+858,427,River Sockeye,1988,NA,NA,Nass
+859,401,Chinook,1989,1068,1354,Nass
+860,402,Chinook,1989,28133,36997,Nass
+861,405,Chum,1989,5420,11485,Nass
+862,406,Chum,1989,40028,84818,Nass
+863,404,Chum,1989,12755,27027,Nass
+864,408,Coho,1989,NA,NA,Nass
+865,410,Coho,1989,NA,NA,Nass
+866,409,Coho,1989,NA,NA,Nass
+867,414,Pink (Odd),1989,1023199,2448618,Nass
+868,219,Pink (Even),1989,NA,NA,Nass
+869,412,Pink (Even),1989,NA,NA,Nass
+870,415,Pink (Odd),1989,NA,NA,Nass
+871,420,Lake Sockeye,1989,NA,NA,Nass
+872,418,Lake Sockeye,1989,NA,NA,Nass
+873,421,Lake Sockeye,1989,5000,32650,Nass
+874,422,Lake Sockeye,1989,15000,65621,Nass
+875,423,Lake Sockeye,1989,NA,NA,Nass
+876,419,Lake Sockeye,1989,NA,NA,Nass
+877,424,Lake Sockeye,1989,50000,179075,Nass
+878,425,Lake Sockeye,1989,NA,NA,Nass
+879,426,River Sockeye,1989,3511,7276,Nass
+880,427,River Sockeye,1989,NA,NA,Nass
+881,401,Chinook,1990,2460,3117,Nass
+882,402,Chinook,1990,24051,31608,Nass
+883,405,Chum,1990,5420,9847,Nass
+884,406,Chum,1990,41016,74519,Nass
+885,404,Chum,1990,7108,12915,Nass
+886,408,Coho,1990,NA,NA,Nass
+887,410,Coho,1990,NA,NA,Nass
+888,409,Coho,1990,NA,NA,Nass
+889,414,Pink (Odd),1990,NA,NA,Nass
+890,219,Pink (Even),1990,3431780,6149956,Nass
+891,412,Pink (Even),1990,NA,NA,Nass
+892,415,Pink (Odd),1990,NA,NA,Nass
+893,420,Lake Sockeye,1990,NA,NA,Nass
+894,418,Lake Sockeye,1990,NA,NA,Nass
+895,421,Lake Sockeye,1990,4000,14431,Nass
+896,422,Lake Sockeye,1990,14000,39516,Nass
+897,423,Lake Sockeye,1990,NA,NA,Nass
+898,419,Lake Sockeye,1990,NA,NA,Nass
+899,424,Lake Sockeye,1990,120954,293766,Nass
+900,425,Lake Sockeye,1990,NA,NA,Nass
+901,426,River Sockeye,1990,1431,2428,Nass
+902,427,River Sockeye,1990,NA,NA,Nass
+903,401,Chinook,1991,1019,1523,Nass
+904,402,Chinook,1991,6907,11149,Nass
+905,405,Chum,1991,5420,12700,Nass
+906,406,Chum,1991,26710,62589,Nass
+907,404,Chum,1991,19013,44552,Nass
+908,408,Coho,1991,NA,NA,Nass
+909,410,Coho,1991,NA,NA,Nass
+910,409,Coho,1991,NA,NA,Nass
+911,414,Pink (Odd),1991,637448,3309418,Nass
+912,219,Pink (Even),1991,NA,NA,Nass
+913,412,Pink (Even),1991,NA,NA,Nass
+914,415,Pink (Odd),1991,NA,NA,Nass
+915,420,Lake Sockeye,1991,NA,NA,Nass
+916,418,Lake Sockeye,1991,NA,NA,Nass
+917,421,Lake Sockeye,1991,3000,13719,Nass
+918,422,Lake Sockeye,1991,2000,6769,Nass
+919,423,Lake Sockeye,1991,NA,NA,Nass
+920,419,Lake Sockeye,1991,NA,NA,Nass
+921,424,Lake Sockeye,1991,250000,753898,Nass
+922,425,Lake Sockeye,1991,NA,NA,Nass
+923,426,River Sockeye,1991,1431,2688,Nass
+924,427,River Sockeye,1991,NA,NA,Nass
+925,401,Chinook,1992,908,1609,Nass
+926,402,Chinook,1992,16808,35292,Nass
+927,405,Chum,1992,NA,NA,Nass
+928,406,Chum,1992,28063,63106,Nass
+929,404,Chum,1992,11055,24860,Nass
+930,408,Coho,1992,18527,51651,Nass
+931,410,Coho,1992,27248,74026,Nass
+932,409,Coho,1992,63409,177225,Nass
+933,414,Pink (Odd),1992,NA,NA,Nass
+934,219,Pink (Even),1992,597072,1126338,Nass
+935,412,Pink (Even),1992,NA,NA,Nass
+936,415,Pink (Odd),1992,NA,NA,Nass
+937,420,Lake Sockeye,1992,NA,NA,Nass
+938,418,Lake Sockeye,1992,NA,NA,Nass
+939,421,Lake Sockeye,1992,4500,18235,Nass
+940,422,Lake Sockeye,1992,5000,16213,Nass
+941,423,Lake Sockeye,1992,NA,NA,Nass
+942,419,Lake Sockeye,1992,NA,NA,Nass
+943,424,Lake Sockeye,1992,592118,1682020,Nass
+944,425,Lake Sockeye,1992,NA,NA,Nass
+945,426,River Sockeye,1992,810,1553,Nass
+946,427,River Sockeye,1992,NA,NA,Nass
+947,401,Chinook,1993,1039,1711,Nass
+948,402,Chinook,1993,24814,45797,Nass
+949,405,Chum,1993,NA,NA,Nass
+950,406,Chum,1993,98281,322911,Nass
+951,404,Chum,1993,27208,89393,Nass
+952,408,Coho,1993,12438,34091,Nass
+953,410,Coho,1993,11954,32388,Nass
+954,409,Coho,1993,18947,52028,Nass
+955,414,Pink (Odd),1993,583393,1885997,Nass
+956,219,Pink (Even),1993,NA,NA,Nass
+957,412,Pink (Even),1993,NA,NA,Nass
+958,415,Pink (Odd),1993,NA,NA,Nass
+959,420,Lake Sockeye,1993,NA,NA,Nass
+960,418,Lake Sockeye,1993,NA,NA,Nass
+961,421,Lake Sockeye,1993,8150,45815,Nass
+962,422,Lake Sockeye,1993,12000,60103,Nass
+963,423,Lake Sockeye,1993,NA,NA,Nass
+964,419,Lake Sockeye,1993,NA,NA,Nass
+965,424,Lake Sockeye,1993,4.00E+05,1542703,Nass
+966,425,Lake Sockeye,1993,NA,NA,Nass
+967,426,River Sockeye,1993,1080,2840,Nass
+968,427,River Sockeye,1993,NA,NA,Nass
+969,401,Chinook,1994,3703,5952,Nass
+970,402,Chinook,1994,21169,38284,Nass
+971,405,Chum,1994,NA,NA,Nass
+972,406,Chum,1994,73816,123937,Nass
+973,404,Chum,1994,16680,28006,Nass
+974,408,Coho,1994,30099,110061,Nass
+975,410,Coho,1994,33719,122087,Nass
+976,409,Coho,1994,143026,524528,Nass
+977,414,Pink (Odd),1994,NA,NA,Nass
+978,219,Pink (Even),1994,419130,636786,Nass
+979,412,Pink (Even),1994,NA,NA,Nass
+980,415,Pink (Odd),1994,NA,NA,Nass
+981,420,Lake Sockeye,1994,NA,NA,Nass
+982,418,Lake Sockeye,1994,NA,NA,Nass
+983,421,Lake Sockeye,1994,3875,12114,Nass
+984,422,Lake Sockeye,1994,2375,7473,Nass
+985,423,Lake Sockeye,1994,NA,NA,Nass
+986,419,Lake Sockeye,1994,NA,NA,Nass
+987,424,Lake Sockeye,1994,158010,420525,Nass
+988,425,Lake Sockeye,1994,NA,NA,Nass
+989,426,River Sockeye,1994,7097,15944,Nass
+990,427,River Sockeye,1994,NA,NA,Nass
+991,401,Chinook,1995,973,1948,Nass
+992,402,Chinook,1995,7844,20292,Nass
+993,405,Chum,1995,NA,NA,Nass
+994,406,Chum,1995,49051,98234,Nass
+995,404,Chum,1995,13401,26838,Nass
+996,408,Coho,1995,10930,34855,Nass
+997,410,Coho,1995,13949,43362,Nass
+998,409,Coho,1995,22219,71008,Nass
+999,414,Pink (Odd),1995,639807,1601791,Nass
+1000,219,Pink (Even),1995,NA,NA,Nass
+1001,412,Pink (Even),1995,NA,NA,Nass
+1002,415,Pink (Odd),1995,NA,NA,Nass
+1003,420,Lake Sockeye,1995,NA,NA,Nass
+1004,418,Lake Sockeye,1995,NA,NA,Nass
+1005,421,Lake Sockeye,1995,1035,6830,Nass
+1006,422,Lake Sockeye,1995,1125,7532,Nass
+1007,423,Lake Sockeye,1995,NA,NA,Nass
+1008,419,Lake Sockeye,1995,NA,NA,Nass
+1009,424,Lake Sockeye,1995,205853,849654,Nass
+1010,425,Lake Sockeye,1995,NA,NA,Nass
+1011,426,River Sockeye,1995,4862,12613,Nass
+1012,427,River Sockeye,1995,NA,NA,Nass
+1013,401,Chinook,1996,1108,1910,Nass
+1014,402,Chinook,1996,21842,41544,Nass
+1015,405,Chum,1996,NA,NA,Nass
+1016,406,Chum,1996,25500,49019,Nass
+1017,404,Chum,1996,9681,18610,Nass
+1018,408,Coho,1996,12553,32752,Nass
+1019,410,Coho,1996,23205,59274,Nass
+1020,409,Coho,1996,43642,114124,Nass
+1021,414,Pink (Odd),1996,NA,NA,Nass
+1022,219,Pink (Even),1996,2797784,5388525,Nass
+1023,412,Pink (Even),1996,NA,NA,Nass
+1024,415,Pink (Odd),1996,NA,NA,Nass
+1025,420,Lake Sockeye,1996,NA,NA,Nass
+1026,418,Lake Sockeye,1996,NA,NA,Nass
+1027,421,Lake Sockeye,1996,1543,10210,Nass
+1028,422,Lake Sockeye,1996,1000,5374,Nass
+1029,423,Lake Sockeye,1996,NA,NA,Nass
+1030,419,Lake Sockeye,1996,NA,NA,Nass
+1031,424,Lake Sockeye,1996,182082,827197,Nass
+1032,425,Lake Sockeye,1996,NA,NA,Nass
+1033,426,River Sockeye,1996,3700,10987,Nass
+1034,427,River Sockeye,1996,NA,NA,Nass
+1035,401,Chinook,1997,1635,2772,Nass
+1036,402,Chinook,1997,18702,35014,Nass
+1037,405,Chum,1997,NA,NA,Nass
+1038,406,Chum,1997,22454,32347,Nass
+1039,404,Chum,1997,12576,18116,Nass
+1040,408,Coho,1997,5714,12612,Nass
+1041,410,Coho,1997,9342,20420,Nass
+1042,409,Coho,1997,12420,27472,Nass
+1043,414,Pink (Odd),1997,409907,708645,Nass
+1044,219,Pink (Even),1997,NA,NA,Nass
+1045,412,Pink (Even),1997,NA,NA,Nass
+1046,415,Pink (Odd),1997,NA,NA,Nass
+1047,420,Lake Sockeye,1997,NA,NA,Nass
+1048,418,Lake Sockeye,1997,NA,NA,Nass
+1049,421,Lake Sockeye,1997,3000,13697,Nass
+1050,422,Lake Sockeye,1997,9000,46960,Nass
+1051,423,Lake Sockeye,1997,NA,NA,Nass
+1052,419,Lake Sockeye,1997,NA,NA,Nass
+1053,424,Lake Sockeye,1997,158687,573265,Nass
+1054,425,Lake Sockeye,1997,NA,NA,Nass
+1055,426,River Sockeye,1997,15480,47091,Nass
+1056,427,River Sockeye,1997,NA,NA,Nass
+1057,401,Chinook,1998,1462,2617,Nass
+1058,402,Chinook,1998,23213,45149,Nass
+1059,405,Chum,1998,NA,NA,Nass
+1060,406,Chum,1998,153858,214020,Nass
+1061,404,Chum,1998,63836,88797,Nass
+1062,408,Coho,1998,11717,22340,Nass
+1063,410,Coho,1998,20833,38579,Nass
+1064,409,Coho,1998,37565,71819,Nass
+1065,414,Pink (Odd),1998,NA,NA,Nass
+1066,219,Pink (Even),1998,522623,732549,Nass
+1067,412,Pink (Even),1998,NA,NA,Nass
+1068,415,Pink (Odd),1998,NA,NA,Nass
+1069,420,Lake Sockeye,1998,NA,NA,Nass
+1070,418,Lake Sockeye,1998,NA,NA,Nass
+1071,421,Lake Sockeye,1998,8190,24322,Nass
+1072,422,Lake Sockeye,1998,3500,7922,Nass
+1073,423,Lake Sockeye,1998,NA,NA,Nass
+1074,419,Lake Sockeye,1998,NA,NA,Nass
+1075,424,Lake Sockeye,1998,163925,438410,Nass
+1076,425,Lake Sockeye,1998,NA,NA,Nass
+1077,426,River Sockeye,1998,10448,24180,Nass
+1078,427,River Sockeye,1998,NA,NA,Nass
+1079,401,Chinook,1999,982,2076,Nass
+1080,402,Chinook,1999,11544,28070,Nass
+1081,405,Chum,1999,NA,NA,Nass
+1082,406,Chum,1999,35179,75346,Nass
+1083,404,Chum,1999,18074,38710,Nass
+1084,408,Coho,1999,16533,33096,Nass
+1085,410,Coho,1999,29601,58626,Nass
+1086,409,Coho,1999,56988,114403,Nass
+1087,414,Pink (Odd),1999,839345,2195047,Nass
+1088,219,Pink (Even),1999,NA,NA,Nass
+1089,412,Pink (Even),1999,NA,NA,Nass
+1090,415,Pink (Odd),1999,NA,NA,Nass
+1091,420,Lake Sockeye,1999,NA,NA,Nass
+1092,418,Lake Sockeye,1999,NA,NA,Nass
+1093,421,Lake Sockeye,1999,1200,5516,Nass
+1094,422,Lake Sockeye,1999,13000,53050,Nass
+1095,423,Lake Sockeye,1999,NA,NA,Nass
+1096,419,Lake Sockeye,1999,NA,NA,Nass
+1097,424,Lake Sockeye,1999,180350,719135,Nass
+1098,425,Lake Sockeye,1999,NA,NA,Nass
+1099,426,River Sockeye,1999,8303,28890,Nass
+1100,427,River Sockeye,1999,NA,NA,Nass
+1101,401,Chinook,2000,1302,1958,Nass
+1102,402,Chinook,2000,18047,32154,Nass
+1103,405,Chum,2000,NA,NA,Nass
+1104,406,Chum,2000,18461,28406,Nass
+1105,404,Chum,2000,16633,25594,Nass
+1106,408,Coho,2000,5885,12490,Nass
+1107,410,Coho,2000,29115,60805,Nass
+1108,409,Coho,2000,71137,151500,Nass
+1109,414,Pink (Odd),2000,NA,NA,Nass
+1110,219,Pink (Even),2000,1094709,1704339,Nass
+1111,412,Pink (Even),2000,NA,NA,Nass
+1112,415,Pink (Odd),2000,NA,NA,Nass
+1113,420,Lake Sockeye,2000,NA,NA,Nass
+1114,418,Lake Sockeye,2000,NA,NA,Nass
+1115,421,Lake Sockeye,2000,500,1791,Nass
+1116,422,Lake Sockeye,2000,500,1881,Nass
+1117,423,Lake Sockeye,2000,NA,NA,Nass
+1118,419,Lake Sockeye,2000,NA,NA,Nass
+1119,424,Lake Sockeye,2000,137042,408442,Nass
+1120,425,Lake Sockeye,2000,NA,NA,Nass
+1121,426,River Sockeye,2000,2512,6424,Nass
+1122,427,River Sockeye,2000,NA,NA,Nass
+1123,401,Chinook,2001,4011,5220,Nass
+1124,402,Chinook,2001,28329,44133,Nass
+1125,405,Chum,2001,NA,NA,Nass
+1126,406,Chum,2001,30223,40619,Nass
+1127,404,Chum,2001,17916,24078,Nass
+1128,408,Coho,2001,67395,144422,Nass
+1129,410,Coho,2001,47639,95476,Nass
+1130,409,Coho,2001,79726,171616,Nass
+1131,414,Pink (Odd),2001,1471653,2085783,Nass
+1132,219,Pink (Even),2001,NA,NA,Nass
+1133,412,Pink (Even),2001,NA,NA,Nass
+1134,415,Pink (Odd),2001,NA,NA,Nass
+1135,420,Lake Sockeye,2001,NA,NA,Nass
+1136,418,Lake Sockeye,2001,NA,NA,Nass
+1137,421,Lake Sockeye,2001,1750,7053,Nass
+1138,422,Lake Sockeye,2001,1408,4700,Nass
+1139,423,Lake Sockeye,2001,NA,NA,Nass
+1140,419,Lake Sockeye,2001,NA,NA,Nass
+1141,424,Lake Sockeye,2001,116192,398505,Nass
+1142,425,Lake Sockeye,2001,NA,NA,Nass
+1143,426,River Sockeye,2001,5595,17199,Nass
+1144,427,River Sockeye,2001,NA,NA,Nass
+1145,401,Chinook,2002,1452,2465,Nass
+1146,402,Chinook,2002,13352,26833,Nass
+1147,405,Chum,2002,NA,NA,Nass
+1148,406,Chum,2002,14674,19853,Nass
+1149,404,Chum,2002,15708,21252,Nass
+1150,408,Coho,2002,68045,87573,Nass
+1151,410,Coho,2002,63016,78755,Nass
+1152,409,Coho,2002,161262,207817,Nass
+1153,414,Pink (Odd),2002,NA,NA,Nass
+1154,219,Pink (Even),2002,2281210,3229840,Nass
+1155,412,Pink (Even),2002,NA,NA,Nass
+1156,415,Pink (Odd),2002,NA,NA,Nass
+1157,420,Lake Sockeye,2002,NA,NA,Nass
+1158,418,Lake Sockeye,2002,NA,NA,Nass
+1159,421,Lake Sockeye,2002,463,1663,Nass
+1160,422,Lake Sockeye,2002,5887,23536,Nass
+1161,423,Lake Sockeye,2002,NA,NA,Nass
+1162,419,Lake Sockeye,2002,NA,NA,Nass
+1163,424,Lake Sockeye,2002,332442,1139268,Nass
+1164,425,Lake Sockeye,2002,NA,NA,Nass
+1165,426,River Sockeye,2002,899,2908,Nass
+1166,427,River Sockeye,2002,NA,NA,Nass
+1167,401,Chinook,2003,2425,3483,Nass
+1168,402,Chinook,2003,25848,41868,Nass
+1169,405,Chum,2003,NA,NA,Nass
+1170,406,Chum,2003,64199,86800,Nass
+1171,404,Chum,2003,8038,10867,Nass
+1172,408,Coho,2003,49829,91978,Nass
+1173,410,Coho,2003,23508,39493,Nass
+1174,409,Coho,2003,67564,124915,Nass
+1175,414,Pink (Odd),2003,1565131,2181863,Nass
+1176,219,Pink (Even),2003,NA,NA,Nass
+1177,412,Pink (Even),2003,NA,NA,Nass
+1178,415,Pink (Odd),2003,NA,NA,Nass
+1179,420,Lake Sockeye,2003,NA,NA,Nass
+1180,418,Lake Sockeye,2003,NA,NA,Nass
+1181,421,Lake Sockeye,2003,1568,6004,Nass
+1182,422,Lake Sockeye,2003,NA,NA,Nass
+1183,423,Lake Sockeye,2003,NA,NA,Nass
+1184,419,Lake Sockeye,2003,NA,NA,Nass
+1185,424,Lake Sockeye,2003,196852,907145,Nass
+1186,425,Lake Sockeye,2003,NA,NA,Nass
+1187,426,River Sockeye,2003,5866,29597,Nass
+1188,427,River Sockeye,2003,275,1057,Nass
+1189,401,Chinook,2004,1691,2888,Nass
+1190,402,Chinook,2004,15185,30350,Nass
+1191,405,Chum,2004,NA,NA,Nass
+1192,406,Chum,2004,49012,64222,Nass
+1193,404,Chum,2004,38560,50526,Nass
+1194,408,Coho,2004,22542,50525,Nass
+1195,410,Coho,2004,30501,57284,Nass
+1196,409,Coho,2004,45955,103249,Nass
+1197,414,Pink (Odd),2004,NA,NA,Nass
+1198,219,Pink (Even),2004,2220776,3706813,Nass
+1199,412,Pink (Even),2004,NA,NA,Nass
+1200,415,Pink (Odd),2004,NA,NA,Nass
+1201,420,Lake Sockeye,2004,NA,NA,Nass
+1202,418,Lake Sockeye,2004,NA,NA,Nass
+1203,421,Lake Sockeye,2004,586,2618,Nass
+1204,422,Lake Sockeye,2004,800,3269,Nass
+1205,423,Lake Sockeye,2004,NA,NA,Nass
+1206,419,Lake Sockeye,2004,NA,NA,Nass
+1207,424,Lake Sockeye,2004,140923,650695,Nass
+1208,425,Lake Sockeye,2004,NA,NA,Nass
+1209,426,River Sockeye,2004,2298,10481,Nass
+1210,427,River Sockeye,2004,1240,5726,Nass
+1211,401,Chinook,2005,1865,2835,Nass
+1212,402,Chinook,2005,13706,24969,Nass
+1213,405,Chum,2005,18970,23854,Nass
+1214,406,Chum,2005,29866,37556,Nass
+1215,404,Chum,2005,20263,25480,Nass
+1216,408,Coho,2005,32219,74967,Nass
+1217,410,Coho,2005,40488,86880,Nass
+1218,409,Coho,2005,87153,204125,Nass
+1219,414,Pink (Odd),2005,1782531,2562613,Nass
+1220,219,Pink (Even),2005,NA,NA,Nass
+1221,412,Pink (Even),2005,NA,NA,Nass
+1222,415,Pink (Odd),2005,NA,NA,Nass
+1223,420,Lake Sockeye,2005,NA,NA,Nass
+1224,418,Lake Sockeye,2005,NA,NA,Nass
+1225,421,Lake Sockeye,2005,505,1370,Nass
+1226,422,Lake Sockeye,2005,4235,11693,Nass
+1227,423,Lake Sockeye,2005,NA,NA,Nass
+1228,419,Lake Sockeye,2005,NA,NA,Nass
+1229,424,Lake Sockeye,2005,142858,428567,Nass
+1230,425,Lake Sockeye,2005,NA,NA,Nass
+1231,426,River Sockeye,2005,7074,22881,Nass
+1232,427,River Sockeye,2005,1516,4071,Nass
+1233,401,Chinook,2006,4467,6107,Nass
+1234,402,Chinook,2006,23594,38097,Nass
+1235,405,Chum,2006,NA,NA,Nass
+1236,406,Chum,2006,51107,62326,Nass
+1237,404,Chum,2006,22443,27370,Nass
+1238,408,Coho,2006,22162,42153,Nass
+1239,410,Coho,2006,31394,55452,Nass
+1240,409,Coho,2006,48137,91941,Nass
+1241,414,Pink (Odd),2006,NA,NA,Nass
+1242,219,Pink (Even),2006,394700,482321,Nass
+1243,412,Pink (Even),2006,NA,NA,Nass
+1244,415,Pink (Odd),2006,NA,NA,Nass
+1245,420,Lake Sockeye,2006,NA,NA,Nass
+1246,418,Lake Sockeye,2006,NA,NA,Nass
+1247,421,Lake Sockeye,2006,1701,4786,Nass
+1248,422,Lake Sockeye,2006,NA,NA,Nass
+1249,423,Lake Sockeye,2006,NA,NA,Nass
+1250,419,Lake Sockeye,2006,NA,NA,Nass
+1251,424,Lake Sockeye,2006,146954,459809,Nass
+1252,425,Lake Sockeye,2006,NA,NA,Nass
+1253,426,River Sockeye,2006,2809,9534,Nass
+1254,427,River Sockeye,2006,356,986,Nass
+1255,401,Chinook,2007,2828,3848,Nass
+1256,402,Chinook,2007,22136,36291,Nass
+1257,405,Chum,2007,NA,NA,Nass
+1258,406,Chum,2007,10946,13780,Nass
+1259,404,Chum,2007,17976,22631,Nass
+1260,408,Coho,2007,51738,102208,Nass
+1261,410,Coho,2007,41205,76695,Nass
+1262,409,Coho,2007,48987,97235,Nass
+1263,414,Pink (Odd),2007,1111938,1787897,Nass
+1264,219,Pink (Even),2007,NA,NA,Nass
+1265,412,Pink (Even),2007,NA,NA,Nass
+1266,415,Pink (Odd),2007,NA,NA,Nass
+1267,420,Lake Sockeye,2007,NA,NA,Nass
+1268,418,Lake Sockeye,2007,NA,NA,Nass
+1269,421,Lake Sockeye,2007,2067,9483,Nass
+1270,422,Lake Sockeye,2007,5665,16380,Nass
+1271,423,Lake Sockeye,2007,NA,NA,Nass
+1272,419,Lake Sockeye,2007,NA,NA,Nass
+1273,424,Lake Sockeye,2007,104308,389065,Nass
+1274,425,Lake Sockeye,2007,NA,NA,Nass
+1275,426,River Sockeye,2007,18212,49306,Nass
+1276,427,River Sockeye,2007,180,940,Nass
+1277,401,Chinook,2008,2508,3166,Nass
+1278,402,Chinook,2008,19630,27095,Nass
+1279,405,Chum,2008,NA,NA,Nass
+1280,406,Chum,2008,3038,3596,Nass
+1281,404,Chum,2008,20751,24559,Nass
+1282,408,Coho,2008,18847,31588,Nass
+1283,410,Coho,2008,12526,20424,Nass
+1284,409,Coho,2008,84105,141094,Nass
+1285,414,Pink (Odd),2008,NA,NA,Nass
+1286,219,Pink (Even),2008,213534,251549,Nass
+1287,412,Pink (Even),2008,NA,NA,Nass
+1288,415,Pink (Odd),2008,NA,NA,Nass
+1289,420,Lake Sockeye,2008,NA,NA,Nass
+1290,418,Lake Sockeye,2008,NA,NA,Nass
+1291,421,Lake Sockeye,2008,2000,3801,Nass
+1292,422,Lake Sockeye,2008,NA,NA,Nass
+1293,423,Lake Sockeye,2008,NA,NA,Nass
+1294,419,Lake Sockeye,2008,NA,NA,Nass
+1295,424,Lake Sockeye,2008,150383,259673,Nass
+1296,425,Lake Sockeye,2008,NA,NA,Nass
+1297,426,River Sockeye,2008,12197,19105,Nass
+1298,427,River Sockeye,2008,113,218,Nass
+1299,401,Chinook,2009,3350,4022,Nass
+1300,402,Chinook,2009,26226,35799,Nass
+1301,405,Chum,2009,13821,17070,Nass
+1302,406,Chum,2009,20071,24790,Nass
+1303,404,Chum,2009,13983,17270,Nass
+1304,408,Coho,2009,79443,121407,Nass
+1305,410,Coho,2009,43342,63533,Nass
+1306,409,Coho,2009,188903,290369,Nass
+1307,414,Pink (Odd),2009,1175949,1498016,Nass
+1308,219,Pink (Even),2009,NA,NA,Nass
+1309,412,Pink (Even),2009,NA,NA,Nass
+1310,415,Pink (Odd),2009,NA,NA,Nass
+1311,420,Lake Sockeye,2009,NA,NA,Nass
+1312,418,Lake Sockeye,2009,NA,NA,Nass
+1313,421,Lake Sockeye,2009,1716,4166,Nass
+1314,422,Lake Sockeye,2009,107,256,Nass
+1315,423,Lake Sockeye,2009,NA,NA,Nass
+1316,419,Lake Sockeye,2009,NA,NA,Nass
+1317,424,Lake Sockeye,2009,168404,398185,Nass
+1318,425,Lake Sockeye,2009,NA,NA,Nass
+1319,426,River Sockeye,2009,17531,38823,Nass
+1320,427,River Sockeye,2009,225,556,Nass
+1321,401,Chinook,2010,2348,2869,Nass
+1322,402,Chinook,2010,18381,24992,Nass
+1323,405,Chum,2010,18428,21847,Nass
+1324,406,Chum,2010,8383,9938,Nass
+1325,404,Chum,2010,8234,9762,Nass
+1326,408,Coho,2010,35227,65473,Nass
+1327,410,Coho,2010,29250,51067,Nass
+1328,409,Coho,2010,83786,156151,Nass
+1329,414,Pink (Odd),2010,NA,NA,Nass
+1330,219,Pink (Even),2010,1009340,1186567,Nass
+1331,412,Pink (Even),2010,NA,NA,Nass
+1332,415,Pink (Odd),2010,NA,NA,Nass
+1333,420,Lake Sockeye,2010,NA,NA,Nass
+1334,418,Lake Sockeye,2010,NA,NA,Nass
+1335,421,Lake Sockeye,2010,1970,3454,Nass
+1336,422,Lake Sockeye,2010,48,82,Nass
+1337,423,Lake Sockeye,2010,NA,NA,Nass
+1338,419,Lake Sockeye,2010,NA,NA,Nass
+1339,424,Lake Sockeye,2010,159120,307970,Nass
+1340,425,Lake Sockeye,2010,NA,NA,Nass
+1341,426,River Sockeye,2010,6860,14333,Nass
+1342,427,River Sockeye,2010,186,328,Nass
+1343,401,Chinook,2011,1226,1921,Nass
+1344,402,Chinook,2011,9600,17649,Nass
+1345,405,Chum,2011,21680,25335,Nass
+1346,406,Chum,2011,6181,7224,Nass
+1347,404,Chum,2011,9734,11376,Nass
+1348,408,Coho,2011,5399,11498,Nass
+1349,410,Coho,2011,19744,41055,Nass
+1350,409,Coho,2011,72864,155562,Nass
+1351,414,Pink (Odd),2011,203585,240409,Nass
+1352,219,Pink (Even),2011,NA,NA,Nass
+1353,412,Pink (Even),2011,NA,NA,Nass
+1354,415,Pink (Odd),2011,NA,NA,Nass
+1355,420,Lake Sockeye,2011,NA,NA,Nass
+1356,418,Lake Sockeye,2011,NA,NA,Nass
+1357,421,Lake Sockeye,2011,2996,6181,Nass
+1358,422,Lake Sockeye,2011,10273,21412,Nass
+1359,423,Lake Sockeye,2011,NA,NA,Nass
+1360,419,Lake Sockeye,2011,NA,NA,Nass
+1361,424,Lake Sockeye,2011,167524,334985,Nass
+1362,425,Lake Sockeye,2011,NA,NA,Nass
+1363,426,River Sockeye,2011,34951,72075,Nass
+1364,427,River Sockeye,2011,4,7,Nass
+1365,401,Chinook,2012,1110,1585,Nass
+1366,402,Chinook,2012,8688,15068,Nass
+1367,405,Chum,2012,8672,10366,Nass
+1368,406,Chum,2012,15592,18638,Nass
+1369,404,Chum,2012,13985,16717,Nass
+1370,408,Coho,2012,26248,58102,Nass
+1371,410,Coho,2012,26389,53363,Nass
+1372,409,Coho,2012,62326,138310,Nass
+1373,414,Pink (Odd),2012,NA,NA,Nass
+1374,219,Pink (Even),2012,1033670,1298582,Nass
+1375,412,Pink (Even),2012,NA,NA,Nass
+1376,415,Pink (Odd),2012,NA,NA,Nass
+1377,420,Lake Sockeye,2012,NA,NA,Nass
+1378,418,Lake Sockeye,2012,NA,NA,Nass
+1379,421,Lake Sockeye,2012,1915,4263,Nass
+1380,422,Lake Sockeye,2012,3688,7921,Nass
+1381,423,Lake Sockeye,2012,NA,NA,Nass
+1382,419,Lake Sockeye,2012,NA,NA,Nass
+1383,424,Lake Sockeye,2012,144923,342839,Nass
+1384,425,Lake Sockeye,2012,NA,NA,Nass
+1385,426,River Sockeye,2012,19934,50079,Nass
+1386,427,River Sockeye,2012,6,13,Nass
+1387,401,Chinook,2013,1023,1505,Nass
+1388,402,Chinook,2013,8011,14717,Nass
+1389,405,Chum,2013,5420,6593,Nass
+1390,406,Chum,2013,14364,17471,Nass
+1391,404,Chum,2013,10579,12868,Nass
+1392,408,Coho,2013,166029,410315,Nass
+1393,410,Coho,2013,70938,166868,Nass
+1394,409,Coho,2013,117263,290062,Nass
+1395,414,Pink (Odd),2013,1417685,1784313,Nass
+1396,219,Pink (Even),2013,NA,NA,Nass
+1397,412,Pink (Even),2013,NA,NA,Nass
+1398,415,Pink (Odd),2013,NA,NA,Nass
+1399,420,Lake Sockeye,2013,NA,NA,Nass
+1400,418,Lake Sockeye,2013,NA,NA,Nass
+1401,421,Lake Sockeye,2013,2300,5386,Nass
+1402,422,Lake Sockeye,2013,397,913,Nass
+1403,423,Lake Sockeye,2013,NA,NA,Nass
+1404,419,Lake Sockeye,2013,NA,NA,Nass
+1405,424,Lake Sockeye,2013,170376,407483,Nass
+1406,425,Lake Sockeye,2013,NA,NA,Nass
+1407,426,River Sockeye,2013,26636,63580,Nass
+1408,427,River Sockeye,2013,554,1292,Nass
+1409,401,Chinook,2014,1470,2254,Nass
+1410,402,Chinook,2014,11509,21556,Nass
+1411,405,Chum,2014,6775,8179,Nass
+1412,406,Chum,2014,20326,24540,Nass
+1413,404,Chum,2014,13311,16070,Nass
+1414,408,Coho,2014,89279,169855,Nass
+1415,410,Coho,2014,24774,45645,Nass
+1416,409,Coho,2014,117657,224145,Nass
+1417,414,Pink (Odd),2014,NA,NA,Nass
+1418,219,Pink (Even),2014,3624384,4700646,Nass
+1419,412,Pink (Even),2014,NA,NA,Nass
+1420,415,Pink (Odd),2014,NA,NA,Nass
+1421,420,Lake Sockeye,2014,NA,NA,Nass
+1422,418,Lake Sockeye,2014,NA,NA,Nass
+1423,421,Lake Sockeye,2014,4549,8779,Nass
+1424,422,Lake Sockeye,2014,438,820,Nass
+1425,423,Lake Sockeye,2014,NA,NA,Nass
+1426,419,Lake Sockeye,2014,NA,NA,Nass
+1427,424,Lake Sockeye,2014,144920,308009,Nass
+1428,425,Lake Sockeye,2014,NA,NA,Nass
+1429,426,River Sockeye,2014,20236,47716,Nass
+1430,427,River Sockeye,2014,605,1141,Nass
+1431,401,Chinook,2015,2333,3329,Nass
+1432,402,Chinook,2015,18262,31154,Nass
+1433,405,Chum,2015,24661,31386,Nass
+1434,406,Chum,2015,39939,50830,Nass
+1435,404,Chum,2015,79501,101182,Nass
+1436,408,Coho,2015,6090,26904,Nass
+1437,410,Coho,2015,8139,31932,Nass
+1438,409,Coho,2015,41725,185720,Nass
+1439,414,Pink (Odd),2015,756813,984862,Nass
+1440,219,Pink (Even),2015,NA,NA,Nass
+1441,412,Pink (Even),2015,NA,NA,Nass
+1442,415,Pink (Odd),2015,NA,NA,Nass
+1443,420,Lake Sockeye,2015,NA,NA,Nass
+1444,418,Lake Sockeye,2015,NA,NA,Nass
+1445,421,Lake Sockeye,2015,4117,10056,Nass
+1446,422,Lake Sockeye,2015,7044,17533,Nass
+1447,423,Lake Sockeye,2015,NA,NA,Nass
+1448,419,Lake Sockeye,2015,NA,NA,Nass
+1449,424,Lake Sockeye,2015,185917,414556,Nass
+1450,425,Lake Sockeye,2015,NA,NA,Nass
+1451,426,River Sockeye,2015,54634,108591,Nass
+1452,427,River Sockeye,2015,550,1312,Nass
+1453,401,Chinook,2016,1154,1838,Nass
+1454,402,Chinook,2016,9037,17175,Nass
+1455,405,Chum,2016,21951,25597,Nass
+1456,406,Chum,2016,17432,20328,Nass
+1457,404,Chum,2016,4688,5467,Nass
+1458,408,Coho,2016,23700,65592,Nass
+1459,410,Coho,2016,25971,68981,Nass
+1460,409,Coho,2016,133562,370058,Nass
+1461,414,Pink (Odd),2016,NA,NA,Nass
+1462,219,Pink (Even),2016,824510,1075600,Nass
+1463,412,Pink (Even),2016,NA,NA,Nass
+1464,415,Pink (Odd),2016,NA,NA,Nass
+1465,420,Lake Sockeye,2016,NA,NA,Nass
+1466,418,Lake Sockeye,2016,NA,NA,Nass
+1467,421,Lake Sockeye,2016,3548,5859,Nass
+1468,422,Lake Sockeye,2016,19797,33367,Nass
+1469,423,Lake Sockeye,2016,NA,NA,Nass
+1470,419,Lake Sockeye,2016,NA,NA,Nass
+1471,424,Lake Sockeye,2016,109868,174003,Nass
+1472,425,Lake Sockeye,2016,NA,NA,Nass
+1473,426,River Sockeye,2016,22282,34323,Nass
+1474,427,River Sockeye,2016,2602,4224,Nass
+1475,401,Chinook,2017,565,1061,Nass
+1476,402,Chinook,2017,4419,10428,Nass
+1477,405,Chum,2017,NA,NA,Nass
+1478,406,Chum,2017,22780,24564,Nass
+1479,404,Chum,2017,NA,NA,Nass
+1480,408,Coho,2017,71388,137606,Nass
+1481,410,Coho,2017,9265,17032,Nass
+1482,409,Coho,2017,109481,213019,Nass
+1483,414,Pink (Odd),2017,1471216,1713019,Nass
+1484,219,Pink (Even),2017,NA,NA,Nass
+1485,412,Pink (Even),2017,NA,NA,Nass
+1486,415,Pink (Odd),2017,NA,NA,Nass
+1487,420,Lake Sockeye,2017,NA,NA,Nass
+1488,418,Lake Sockeye,2017,NA,NA,Nass
+1489,421,Lake Sockeye,2017,NA,NA,Nass
+1490,422,Lake Sockeye,2017,7240,10631,Nass
+1491,423,Lake Sockeye,2017,NA,NA,Nass
+1492,419,Lake Sockeye,2017,NA,NA,Nass
+1493,424,Lake Sockeye,2017,119088,195752,Nass
+1494,425,Lake Sockeye,2017,NA,NA,Nass
+1495,426,River Sockeye,2017,14147,25715,Nass
+1496,427,River Sockeye,2017,237,354,Nass
+1497,401,Chinook,2018,1849,2398,Nass
+1498,402,Chinook,2018,14470,21092,Nass
+1499,405,Chum,2018,NA,NA,Nass
+1500,406,Chum,2018,48227,52568,Nass
+1501,404,Chum,2018,17544,19124,Nass
+1502,408,Coho,2018,8498,17288,Nass
+1503,410,Coho,2018,6147,12076,Nass
+1504,409,Coho,2018,57903,118431,Nass
+1505,414,Pink (Odd),2018,NA,NA,Nass
+1506,219,Pink (Even),2018,351319,390107,Nass
+1507,412,Pink (Even),2018,NA,NA,Nass
+1508,415,Pink (Odd),2018,NA,NA,Nass
+1509,420,Lake Sockeye,2018,NA,NA,Nass
+1510,418,Lake Sockeye,2018,NA,NA,Nass
+1511,421,Lake Sockeye,2018,4675,6588,Nass
+1512,422,Lake Sockeye,2018,290,413,Nass
+1513,423,Lake Sockeye,2018,NA,NA,Nass
+1514,419,Lake Sockeye,2018,NA,NA,Nass
+1515,424,Lake Sockeye,2018,96827,137217,Nass
+1516,425,Lake Sockeye,2018,NA,NA,Nass
+1517,426,River Sockeye,2018,40005,55570,Nass
+1518,427,River Sockeye,2018,2,3,Nass
+1519,401,Chinook,2019,1340,1961,Nass
+1520,402,Chinook,2019,10493,18871,Nass
+1521,405,Chum,2019,NA,NA,Nass
+1522,406,Chum,2019,24181,27663,Nass
+1523,404,Chum,2019,65741,75207,Nass
+1524,408,Coho,2019,24509,40165,Nass
+1525,410,Coho,2019,26954,43503,Nass
+1526,409,Coho,2019,92666,152680,Nass
+1527,414,Pink (Odd),2019,254459,296462,Nass
+1528,219,Pink (Even),2019,NA,NA,Nass
+1529,412,Pink (Even),2019,NA,NA,Nass
+1530,415,Pink (Odd),2019,NA,NA,Nass
+1531,420,Lake Sockeye,2019,NA,NA,Nass
+1532,418,Lake Sockeye,2019,NA,NA,Nass
+1533,421,Lake Sockeye,2019,1777,2880,Nass
+1534,422,Lake Sockeye,2019,6007,9902,Nass
+1535,423,Lake Sockeye,2019,NA,NA,Nass
+1536,419,Lake Sockeye,2019,NA,NA,Nass
+1537,424,Lake Sockeye,2019,88128,137930,Nass
+1538,425,Lake Sockeye,2019,NA,NA,Nass
+1539,426,River Sockeye,2019,67192,99215,Nass
+1540,427,River Sockeye,2019,1295,2153,Nass
+1541,401,Chinook,2020,2049,2672,Nass
+1542,402,Chinook,2020,12266,18955,Nass
+1543,405,Chum,2020,NA,NA,Nass
+1544,406,Chum,2020,101611,110691,Nass
+1545,404,Chum,2020,NA,NA,Nass
+1546,408,Coho,2020,15914,37950,Nass
+1547,410,Coho,2020,27179,64239,Nass
+1548,409,Coho,2020,53144,127550,Nass
+1549,414,Pink (Odd),2020,NA,NA,Nass
+1550,219,Pink (Even),2020,3695116,4003914,Nass
+1551,412,Pink (Even),2020,NA,NA,Nass
+1552,415,Pink (Odd),2020,NA,NA,Nass
+1553,420,Lake Sockeye,2020,NA,NA,Nass
+1554,418,Lake Sockeye,2020,NA,NA,Nass
+1555,421,Lake Sockeye,2020,4883,6962,Nass
+1556,422,Lake Sockeye,2020,3256,4770,Nass
+1557,423,Lake Sockeye,2020,NA,NA,Nass
+1558,419,Lake Sockeye,2020,NA,NA,Nass
+1559,424,Lake Sockeye,2020,126468,171936,Nass
+1560,425,Lake Sockeye,2020,NA,NA,Nass
+1561,426,River Sockeye,2020,20656,26684,Nass
+1562,427,River Sockeye,2020,351,504,Nass
+1563,401,Chinook,2021,1492,2103,Nass
+1564,402,Chinook,2021,11250,17996,Nass
+1565,405,Chum,2021,NA,NA,Nass
+1566,406,Chum,2021,118172,138617,Nass
+1567,404,Chum,2021,NA,NA,Nass
+1568,408,Coho,2021,28610,58953,Nass
+1569,410,Coho,2021,48863,99744,Nass
+1570,409,Coho,2021,103333,213919,Nass
+1571,414,Pink (Odd),2021,900891,1085874,Nass
+1572,219,Pink (Even),2021,NA,NA,Nass
+1573,412,Pink (Even),2021,NA,NA,Nass
+1574,415,Pink (Odd),2021,NA,NA,Nass
+1575,420,Lake Sockeye,2021,NA,NA,Nass
+1576,418,Lake Sockeye,2021,NA,NA,Nass
+1577,421,Lake Sockeye,2021,8224,12968,Nass
+1578,422,Lake Sockeye,2021,8478,14086,Nass
+1579,423,Lake Sockeye,2021,NA,NA,Nass
+1580,419,Lake Sockeye,2021,NA,NA,Nass
+1581,424,Lake Sockeye,2021,273955,391720,Nass
+1582,425,Lake Sockeye,2021,NA,NA,Nass
+1583,426,River Sockeye,2021,22685,28343,Nass
+1584,427,River Sockeye,2021,356,629,Nass
+1585,401,Chinook,2022,4800,5777,Nass
+1586,402,Chinook,2022,13404,17730,Nass
+1587,405,Chum,2022,NA,NA,Nass
+1588,406,Chum,2022,97478,110999,Nass
+1589,404,Chum,2022,NA,NA,Nass
+1590,408,Coho,2022,109238,190668,Nass
+1591,410,Coho,2022,52839,91670,Nass
+1592,409,Coho,2022,129357,226871,Nass
+1593,414,Pink (Odd),2022,NA,NA,Nass
+1594,219,Pink (Even),2022,6047266,6940451,Nass
+1595,412,Pink (Even),2022,NA,NA,Nass
+1596,415,Pink (Odd),2022,NA,NA,Nass
+1597,420,Lake Sockeye,2022,NA,NA,Nass
+1598,418,Lake Sockeye,2022,NA,NA,Nass
+1599,421,Lake Sockeye,2022,11367,16615,Nass
+1600,422,Lake Sockeye,2022,5115,7708,Nass
+1601,423,Lake Sockeye,2022,NA,NA,Nass
+1602,419,Lake Sockeye,2022,NA,NA,Nass
+1603,424,Lake Sockeye,2022,343765,481470,Nass
+1604,425,Lake Sockeye,2022,NA,NA,Nass
+1605,426,River Sockeye,2022,20273,25512,Nass
+1606,427,River Sockeye,2022,208,325,Nass

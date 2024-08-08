@@ -10,15 +10,15 @@ rm(list = ls(all=TRUE)); #Remove all the objects in the memory
 
 #read in CU level data
 cc_file <- read.csv("data/dataset_1part1.Jun82023_CC.csv", header = T)
-fraser_file <- read.csv("data/dataset_1part1.Jun142023_Fraser.csv", header = T)
-vimi_file <- read.csv("data/dataset_1part1.Jun92023_VIMI.csv", header = T)
-nass_file <- read.csv("data/dataset_1part1.Dec092020_Nass.csv", header = T)
+fraser_file <- read.csv("data/dataset_1part1.Jul152024_Fraser.csv", header = T)
+vimi_file <- read.csv("data/dataset_1part1.Aug292023_VIMI.csv", header = T)
+nass_file <- read.csv("data/dataset_1part1.Apr192024_Nass.csv", header = T)
 skeena_file <- read.csv("data/dataset_1part1.May262022_Skeena.csv", header = T)
 hg_file <- read.csv("data/dataset_1part1.Jun82023_HG.csv", header = T)
-columbia_file <- read.csv("data/dataset_1part1.NOV272019_Columbia.csv", header = T)
+columbia_file <- read.csv("data/dataset_1part1.Feb122024_Columbia.csv", header = T)
 yukon_file <- read.csv("data/yukon_chinook_rr_escape.15Sep2023.csv", header = T)
 
-columbia_file <- read.csv("data/dataset_1part1.NOV272019_Columbia.csv", header = T) %>%
+columbia_file <- read.csv("data/dataset_1part1.Feb122024_Columbia.csv", header = T) %>%
   #commas in these counts were messing things up
   mutate(LGL.counts = as.integer(gsub(",", "", LGL.counts)), 
          NuSEDS.counts.by.CU = as.integer(gsub(",", "", NuSEDS.counts.by.CU))) 
@@ -41,7 +41,7 @@ cu_dat <- cu_dat %>%
   select(-LGL.counts)
 
 
-write.csv(cu_dat, "Output/CU_Spawner_Abund_20230915.csv", row.names=FALSE)
+write.csv(cu_dat, "Output/CU_Spawner_Abund_20240808.csv", row.names=FALSE)
 
 
 rm(cc_file, fraser_file, vimi_file, nass_file, skeena_file, hg_file, columbia_file, yukon_file)
@@ -67,5 +67,5 @@ cu_metadata <- left_join(cu_decoder, cu_dq, by="cuid") %>%
          catch_quality, dq_score, cu_enh_rank, Sites,RegionAbbr) %>%
   rename(Region = RegionAbbr)
 
-write.csv(cu_metadata, "Output/CU_Metadata_20240124.csv", row.names=FALSE)
+write.csv(cu_metadata, "Output/CU_Metadata_20240808.csv", row.names=FALSE)
 
