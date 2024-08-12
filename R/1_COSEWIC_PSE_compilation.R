@@ -55,7 +55,7 @@ cu_dq <- read.csv("data/AllRegions_CU_data_quality.csv", header = T)
 cu_enh <- read.csv("data/CU_enhancement_levelAug252021.csv", header = T) 
   #rename(cuid = ï..cuid) #fix weird special char in colname
   
-cu_sites <- read.csv("data/NuSEDS_sites.csv", header = T) 
+cu_sites <- read.csv("data/NuSEDS_cleaned_FULL_CU_IN_streamid_TEMPORARY.csv", header = T) 
   #rename(FULL_CU_IN = ï..FULL_CU_IN) #fix weird special char in colname
 
 # join metadata files to cu_decoder
