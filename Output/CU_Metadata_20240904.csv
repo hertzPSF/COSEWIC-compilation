@@ -1,7 +1,7 @@
 "cuid","cuname.x","cu_acronym","du_number","du_acronym","DU_name","DU_name_short","FULL_CU_IN","spp","gen_length","COSEWIC_status","survey_quality","survey_coverage","survey_execution","catch_quality","dq_score","cu_enh_rank","Sites","Region"
 205,"Ecstall",NA,"CK41","ECST","Ecstall, Ocean, Summer","Ecstall","CK-46","Chinook",6,"Status assessment recommended",0,0,0,0,0,"None",4,"Skeena"
 206,"Kalum-early timing",NA,"CK43","KALUM-E","Kalum ? Early Timing, Stream, Spring","Kalum-Early","CK-49","Chinook",6,"Status assessment recommended",0,0,0,0,0,"Low",2,"Skeena"
-207,"Kalum-late timing",NA,"CK44","KALUM-L","Kalum ? Late Timing, Stream, Summer","Kalum-Early","CK-50","Chinook",6,"Status assessment recommended",1,5,4,5,15,"High",7,"Skeena"
+207,"Kalum-late timing",NA,"CK44","KALUM-L","Kalum ? Late Timing, Stream, Summer","Kalum-Late","CK-50","Chinook",6,"Status assessment recommended",1,5,4,5,15,"High",7,"Skeena"
 210,"Lower Skeena-CK",NA,"CK42","LSK","Lower Skeena, Stream, Summer","Lower Skeena-Stream-Summer","CK-48","Chinook",6,"Status assessment recommended",1,3,1,5,10,"Low",16,"Skeena"
 212,"Upper Skeena-CK",NA,"CK48","USK","Upper Skeena River, Stream, Spring","Upper Skeena-Stream-Spring","CK-56","Chinook",6,NA,0,0,0,0,0,"None",5,"Skeena"
 217,"Middle Skeena-mainstem tributaries",NA,"CK47","MSK-M/S","Middle Skeena-M/S Tributary, Stream, Summer","Middle Skeena-M/S-Tribs","CK-54","Chinook",6,"Status assessment recommended",1,4,2,5,12,"Low",24,"Skeena"
