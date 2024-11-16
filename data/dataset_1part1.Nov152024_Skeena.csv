@@ -1,0 +1,4659 @@
+CUID,Species,Year,LGL counts,Total run,Region
+171,Lake Sockeye,1950,NA,NA,Skeena
+171,Lake Sockeye,1951,NA,NA,Skeena
+171,Lake Sockeye,1952,NA,NA,Skeena
+171,Lake Sockeye,1953,NA,NA,Skeena
+171,Lake Sockeye,1954,NA,NA,Skeena
+171,Lake Sockeye,1955,NA,NA,Skeena
+171,Lake Sockeye,1956,NA,NA,Skeena
+171,Lake Sockeye,1957,NA,NA,Skeena
+171,Lake Sockeye,1958,NA,NA,Skeena
+171,Lake Sockeye,1959,NA,NA,Skeena
+171,Lake Sockeye,1960,7770,10404,Skeena
+171,Lake Sockeye,1961,29417,38663,Skeena
+171,Lake Sockeye,1962,22079,29891,Skeena
+171,Lake Sockeye,1963,19981,23798,Skeena
+171,Lake Sockeye,1964,4218,5645,Skeena
+171,Lake Sockeye,1965,17539,22335,Skeena
+171,Lake Sockeye,1966,18649,26559,Skeena
+171,Lake Sockeye,1967,27752,41234,Skeena
+171,Lake Sockeye,1968,33302,46862,Skeena
+171,Lake Sockeye,1969,6660,8738,Skeena
+171,Lake Sockeye,1970,4995,6569,Skeena
+171,Lake Sockeye,1971,2553,3449,Skeena
+171,Lake Sockeye,1972,8881,12102,Skeena
+171,Lake Sockeye,1973,8881,12627,Skeena
+171,Lake Sockeye,1974,3885,5726,Skeena
+171,Lake Sockeye,1975,1332,1665,Skeena
+171,Lake Sockeye,1976,6660,9141,Skeena
+171,Lake Sockeye,1977,15541,21416,Skeena
+171,Lake Sockeye,1978,19981,27958,Skeena
+171,Lake Sockeye,1979,19981,27234,Skeena
+171,Lake Sockeye,1980,33302,46336,Skeena
+171,Lake Sockeye,1981,1998,2745,Skeena
+171,Lake Sockeye,1982,10546,15318,Skeena
+171,Lake Sockeye,1983,14431,16999,Skeena
+171,Lake Sockeye,1984,8881,11507,Skeena
+171,Lake Sockeye,1985,8881,12429,Skeena
+171,Lake Sockeye,1986,23311,31860,Skeena
+171,Lake Sockeye,1987,11101,13270,Skeena
+171,Lake Sockeye,1988,14431,23145,Skeena
+171,Lake Sockeye,1989,16576,22229,Skeena
+171,Lake Sockeye,1990,11101,15555,Skeena
+171,Lake Sockeye,1991,24421,36394,Skeena
+171,Lake Sockeye,1992,17761,30509,Skeena
+171,Lake Sockeye,1993,16651,26661,Skeena
+171,Lake Sockeye,1994,14431,20658,Skeena
+171,Lake Sockeye,1995,18871,30139,Skeena
+171,Lake Sockeye,1996,27752,47538,Skeena
+171,Lake Sockeye,1997,26642,54391,Skeena
+171,Lake Sockeye,1998,20536,27116,Skeena
+171,Lake Sockeye,1999,5550,7050,Skeena
+171,Lake Sockeye,2000,12087,17995,Skeena
+171,Lake Sockeye,2001,19630,24146,Skeena
+171,Lake Sockeye,2002,4346,6002,Skeena
+171,Lake Sockeye,2003,64724,77736,Skeena
+171,Lake Sockeye,2004,15951,18662,Skeena
+171,Lake Sockeye,2005,13324,15006,Skeena
+171,Lake Sockeye,2006,11489,14204,Skeena
+171,Lake Sockeye,2007,35091,42937,Skeena
+171,Lake Sockeye,2008,985,1153,Skeena
+171,Lake Sockeye,2009,29550,31837,Skeena
+171,Lake Sockeye,2010,79168,86221,Skeena
+171,Lake Sockeye,2011,44309,51783,Skeena
+171,Lake Sockeye,2012,36410,42314,Skeena
+171,Lake Sockeye,2013,30504,32550,Skeena
+171,Lake Sockeye,2014,11609,12757,Skeena
+171,Lake Sockeye,2015,23622,24972,Skeena
+171,Lake Sockeye,2016,66659,75920,Skeena
+171,Lake Sockeye,2017,13876,14112,Skeena
+171,Lake Sockeye,2018,3282,3442,Skeena
+171,Lake Sockeye,2019,4311,4730,Skeena
+171,Lake Sockeye,2020,466,495,Skeena
+171,Lake Sockeye,2021,12655,13820,Skeena
+171,Lake Sockeye,2022,23511,25643,Skeena
+171,Lake Sockeye,2023,574,625,Skeena
+172,Lake Sockeye,1950,NA,NA,Skeena
+172,Lake Sockeye,1951,NA,NA,Skeena
+172,Lake Sockeye,1952,NA,NA,Skeena
+172,Lake Sockeye,1953,NA,NA,Skeena
+172,Lake Sockeye,1954,NA,NA,Skeena
+172,Lake Sockeye,1955,NA,NA,Skeena
+172,Lake Sockeye,1956,NA,NA,Skeena
+172,Lake Sockeye,1957,NA,NA,Skeena
+172,Lake Sockeye,1958,NA,NA,Skeena
+172,Lake Sockeye,1959,NA,NA,Skeena
+172,Lake Sockeye,1960,NA,NA,Skeena
+172,Lake Sockeye,1961,NA,NA,Skeena
+172,Lake Sockeye,1962,NA,NA,Skeena
+172,Lake Sockeye,1963,NA,NA,Skeena
+172,Lake Sockeye,1964,NA,NA,Skeena
+172,Lake Sockeye,1965,NA,NA,Skeena
+172,Lake Sockeye,1966,NA,NA,Skeena
+172,Lake Sockeye,1967,NA,NA,Skeena
+172,Lake Sockeye,1968,NA,NA,Skeena
+172,Lake Sockeye,1969,NA,NA,Skeena
+172,Lake Sockeye,1970,NA,NA,Skeena
+172,Lake Sockeye,1971,NA,NA,Skeena
+172,Lake Sockeye,1972,NA,NA,Skeena
+172,Lake Sockeye,1973,NA,NA,Skeena
+172,Lake Sockeye,1974,NA,NA,Skeena
+172,Lake Sockeye,1975,NA,NA,Skeena
+172,Lake Sockeye,1976,NA,NA,Skeena
+172,Lake Sockeye,1977,NA,NA,Skeena
+172,Lake Sockeye,1978,NA,NA,Skeena
+172,Lake Sockeye,1979,NA,NA,Skeena
+172,Lake Sockeye,1980,NA,NA,Skeena
+172,Lake Sockeye,1981,NA,NA,Skeena
+172,Lake Sockeye,1982,NA,NA,Skeena
+172,Lake Sockeye,1983,NA,NA,Skeena
+172,Lake Sockeye,1984,NA,NA,Skeena
+172,Lake Sockeye,1985,NA,NA,Skeena
+172,Lake Sockeye,1986,NA,NA,Skeena
+172,Lake Sockeye,1987,NA,NA,Skeena
+172,Lake Sockeye,1988,NA,NA,Skeena
+172,Lake Sockeye,1989,NA,NA,Skeena
+172,Lake Sockeye,1990,NA,NA,Skeena
+172,Lake Sockeye,1991,NA,NA,Skeena
+172,Lake Sockeye,1992,NA,NA,Skeena
+172,Lake Sockeye,1993,NA,NA,Skeena
+172,Lake Sockeye,1994,NA,NA,Skeena
+172,Lake Sockeye,1995,NA,NA,Skeena
+172,Lake Sockeye,1996,NA,NA,Skeena
+172,Lake Sockeye,1997,NA,NA,Skeena
+172,Lake Sockeye,1998,NA,NA,Skeena
+172,Lake Sockeye,1999,NA,NA,Skeena
+172,Lake Sockeye,2000,NA,NA,Skeena
+172,Lake Sockeye,2001,NA,NA,Skeena
+172,Lake Sockeye,2002,NA,NA,Skeena
+172,Lake Sockeye,2003,NA,NA,Skeena
+172,Lake Sockeye,2004,NA,NA,Skeena
+172,Lake Sockeye,2005,NA,NA,Skeena
+172,Lake Sockeye,2006,NA,NA,Skeena
+172,Lake Sockeye,2007,NA,NA,Skeena
+172,Lake Sockeye,2008,NA,NA,Skeena
+172,Lake Sockeye,2009,NA,NA,Skeena
+172,Lake Sockeye,2010,NA,NA,Skeena
+172,Lake Sockeye,2011,NA,NA,Skeena
+172,Lake Sockeye,2012,NA,NA,Skeena
+172,Lake Sockeye,2013,NA,NA,Skeena
+172,Lake Sockeye,2014,NA,NA,Skeena
+172,Lake Sockeye,2015,NA,NA,Skeena
+172,Lake Sockeye,2016,NA,NA,Skeena
+172,Lake Sockeye,2017,NA,NA,Skeena
+172,Lake Sockeye,2018,NA,NA,Skeena
+172,Lake Sockeye,2019,NA,NA,Skeena
+172,Lake Sockeye,2020,NA,NA,Skeena
+173,Lake Sockeye,1950,NA,NA,Skeena
+173,Lake Sockeye,1951,NA,NA,Skeena
+173,Lake Sockeye,1952,NA,NA,Skeena
+173,Lake Sockeye,1953,NA,NA,Skeena
+173,Lake Sockeye,1954,NA,NA,Skeena
+173,Lake Sockeye,1955,NA,NA,Skeena
+173,Lake Sockeye,1956,NA,NA,Skeena
+173,Lake Sockeye,1957,NA,NA,Skeena
+173,Lake Sockeye,1958,NA,NA,Skeena
+173,Lake Sockeye,1959,NA,NA,Skeena
+173,Lake Sockeye,1960,NA,NA,Skeena
+173,Lake Sockeye,1961,NA,NA,Skeena
+173,Lake Sockeye,1962,NA,NA,Skeena
+173,Lake Sockeye,1963,NA,NA,Skeena
+173,Lake Sockeye,1964,NA,NA,Skeena
+173,Lake Sockeye,1965,NA,NA,Skeena
+173,Lake Sockeye,1966,NA,NA,Skeena
+173,Lake Sockeye,1967,NA,NA,Skeena
+173,Lake Sockeye,1968,NA,NA,Skeena
+173,Lake Sockeye,1969,NA,NA,Skeena
+173,Lake Sockeye,1970,NA,NA,Skeena
+173,Lake Sockeye,1971,NA,NA,Skeena
+173,Lake Sockeye,1972,NA,NA,Skeena
+173,Lake Sockeye,1973,NA,NA,Skeena
+173,Lake Sockeye,1974,NA,NA,Skeena
+173,Lake Sockeye,1975,NA,NA,Skeena
+173,Lake Sockeye,1976,NA,NA,Skeena
+173,Lake Sockeye,1977,NA,NA,Skeena
+173,Lake Sockeye,1978,NA,NA,Skeena
+173,Lake Sockeye,1979,NA,NA,Skeena
+173,Lake Sockeye,1980,NA,NA,Skeena
+173,Lake Sockeye,1981,NA,NA,Skeena
+173,Lake Sockeye,1982,NA,NA,Skeena
+173,Lake Sockeye,1983,NA,NA,Skeena
+173,Lake Sockeye,1984,NA,NA,Skeena
+173,Lake Sockeye,1985,NA,NA,Skeena
+173,Lake Sockeye,1986,NA,NA,Skeena
+173,Lake Sockeye,1987,NA,NA,Skeena
+173,Lake Sockeye,1988,NA,NA,Skeena
+173,Lake Sockeye,1989,NA,NA,Skeena
+173,Lake Sockeye,1990,NA,NA,Skeena
+173,Lake Sockeye,1991,NA,NA,Skeena
+173,Lake Sockeye,1992,NA,NA,Skeena
+173,Lake Sockeye,1993,NA,NA,Skeena
+173,Lake Sockeye,1994,NA,NA,Skeena
+173,Lake Sockeye,1995,NA,NA,Skeena
+173,Lake Sockeye,1996,NA,NA,Skeena
+173,Lake Sockeye,1997,NA,NA,Skeena
+173,Lake Sockeye,1998,NA,NA,Skeena
+173,Lake Sockeye,1999,NA,NA,Skeena
+173,Lake Sockeye,2000,NA,NA,Skeena
+173,Lake Sockeye,2001,NA,NA,Skeena
+173,Lake Sockeye,2002,NA,NA,Skeena
+173,Lake Sockeye,2003,NA,NA,Skeena
+173,Lake Sockeye,2004,NA,NA,Skeena
+173,Lake Sockeye,2005,NA,NA,Skeena
+173,Lake Sockeye,2006,NA,NA,Skeena
+173,Lake Sockeye,2007,NA,NA,Skeena
+173,Lake Sockeye,2008,NA,NA,Skeena
+173,Lake Sockeye,2009,NA,NA,Skeena
+173,Lake Sockeye,2010,NA,NA,Skeena
+173,Lake Sockeye,2011,NA,NA,Skeena
+173,Lake Sockeye,2012,NA,NA,Skeena
+173,Lake Sockeye,2013,NA,NA,Skeena
+173,Lake Sockeye,2014,NA,NA,Skeena
+173,Lake Sockeye,2015,NA,NA,Skeena
+173,Lake Sockeye,2016,NA,NA,Skeena
+173,Lake Sockeye,2017,NA,NA,Skeena
+173,Lake Sockeye,2018,NA,NA,Skeena
+173,Lake Sockeye,2019,NA,NA,Skeena
+173,Lake Sockeye,2020,NA,NA,Skeena
+174,Lake Sockeye,1950,NA,NA,Skeena
+174,Lake Sockeye,1951,NA,NA,Skeena
+174,Lake Sockeye,1952,NA,NA,Skeena
+174,Lake Sockeye,1953,NA,NA,Skeena
+174,Lake Sockeye,1954,NA,NA,Skeena
+174,Lake Sockeye,1955,NA,NA,Skeena
+174,Lake Sockeye,1956,NA,NA,Skeena
+174,Lake Sockeye,1957,NA,NA,Skeena
+174,Lake Sockeye,1958,NA,NA,Skeena
+174,Lake Sockeye,1959,NA,NA,Skeena
+174,Lake Sockeye,1960,NA,NA,Skeena
+174,Lake Sockeye,1961,NA,NA,Skeena
+174,Lake Sockeye,1962,NA,NA,Skeena
+174,Lake Sockeye,1963,NA,NA,Skeena
+174,Lake Sockeye,1964,NA,NA,Skeena
+174,Lake Sockeye,1965,NA,NA,Skeena
+174,Lake Sockeye,1966,NA,NA,Skeena
+174,Lake Sockeye,1967,NA,NA,Skeena
+174,Lake Sockeye,1968,NA,NA,Skeena
+174,Lake Sockeye,1969,NA,NA,Skeena
+174,Lake Sockeye,1970,NA,NA,Skeena
+174,Lake Sockeye,1971,NA,NA,Skeena
+174,Lake Sockeye,1972,NA,NA,Skeena
+174,Lake Sockeye,1973,NA,NA,Skeena
+174,Lake Sockeye,1974,NA,NA,Skeena
+174,Lake Sockeye,1975,NA,NA,Skeena
+174,Lake Sockeye,1976,NA,NA,Skeena
+174,Lake Sockeye,1977,NA,NA,Skeena
+174,Lake Sockeye,1978,NA,NA,Skeena
+174,Lake Sockeye,1979,NA,NA,Skeena
+174,Lake Sockeye,1980,NA,NA,Skeena
+174,Lake Sockeye,1981,NA,NA,Skeena
+174,Lake Sockeye,1982,NA,NA,Skeena
+174,Lake Sockeye,1983,NA,NA,Skeena
+174,Lake Sockeye,1984,NA,NA,Skeena
+174,Lake Sockeye,1985,NA,NA,Skeena
+174,Lake Sockeye,1986,NA,NA,Skeena
+174,Lake Sockeye,1987,NA,NA,Skeena
+174,Lake Sockeye,1988,NA,NA,Skeena
+174,Lake Sockeye,1989,NA,NA,Skeena
+174,Lake Sockeye,1990,NA,NA,Skeena
+174,Lake Sockeye,1991,NA,NA,Skeena
+174,Lake Sockeye,1992,NA,NA,Skeena
+174,Lake Sockeye,1993,NA,NA,Skeena
+174,Lake Sockeye,1994,NA,NA,Skeena
+174,Lake Sockeye,1995,NA,NA,Skeena
+174,Lake Sockeye,1996,NA,NA,Skeena
+174,Lake Sockeye,1997,NA,NA,Skeena
+174,Lake Sockeye,1998,NA,NA,Skeena
+174,Lake Sockeye,1999,NA,NA,Skeena
+174,Lake Sockeye,2000,NA,NA,Skeena
+174,Lake Sockeye,2001,NA,NA,Skeena
+174,Lake Sockeye,2002,NA,NA,Skeena
+174,Lake Sockeye,2003,NA,NA,Skeena
+174,Lake Sockeye,2004,NA,NA,Skeena
+174,Lake Sockeye,2005,NA,NA,Skeena
+174,Lake Sockeye,2006,NA,NA,Skeena
+174,Lake Sockeye,2007,NA,NA,Skeena
+174,Lake Sockeye,2008,NA,NA,Skeena
+174,Lake Sockeye,2009,NA,NA,Skeena
+174,Lake Sockeye,2010,NA,NA,Skeena
+174,Lake Sockeye,2011,NA,NA,Skeena
+174,Lake Sockeye,2012,NA,NA,Skeena
+174,Lake Sockeye,2013,NA,NA,Skeena
+174,Lake Sockeye,2014,NA,NA,Skeena
+174,Lake Sockeye,2015,NA,NA,Skeena
+174,Lake Sockeye,2016,NA,NA,Skeena
+174,Lake Sockeye,2017,NA,NA,Skeena
+174,Lake Sockeye,2018,NA,NA,Skeena
+174,Lake Sockeye,2019,NA,NA,Skeena
+174,Lake Sockeye,2020,NA,NA,Skeena
+174,Lake Sockeye,2021,NA,NA,Skeena
+174,Lake Sockeye,2022,NA,NA,Skeena
+174,Lake Sockeye,2023,NA,NA,Skeena
+175,Lake Sockeye,1950,NA,NA,Skeena
+175,Lake Sockeye,1951,NA,NA,Skeena
+175,Lake Sockeye,1952,NA,NA,Skeena
+175,Lake Sockeye,1953,NA,NA,Skeena
+175,Lake Sockeye,1954,NA,NA,Skeena
+175,Lake Sockeye,1955,NA,NA,Skeena
+175,Lake Sockeye,1956,NA,NA,Skeena
+175,Lake Sockeye,1957,NA,NA,Skeena
+175,Lake Sockeye,1958,NA,NA,Skeena
+175,Lake Sockeye,1959,NA,NA,Skeena
+175,Lake Sockeye,1960,NA,NA,Skeena
+175,Lake Sockeye,1961,NA,NA,Skeena
+175,Lake Sockeye,1962,NA,NA,Skeena
+175,Lake Sockeye,1963,NA,NA,Skeena
+175,Lake Sockeye,1964,NA,NA,Skeena
+175,Lake Sockeye,1965,4,7,Skeena
+175,Lake Sockeye,1966,50,118,Skeena
+175,Lake Sockeye,1967,1500,4076,Skeena
+175,Lake Sockeye,1968,1500,3404,Skeena
+175,Lake Sockeye,1969,800,1480,Skeena
+175,Lake Sockeye,1970,7000,13036,Skeena
+175,Lake Sockeye,1971,10000,20081,Skeena
+175,Lake Sockeye,1972,15000,30899,Skeena
+175,Lake Sockeye,1973,6000,14068,Skeena
+175,Lake Sockeye,1974,1500,3961,Skeena
+175,Lake Sockeye,1975,2000,3261,Skeena
+175,Lake Sockeye,1976,6000,12621,Skeena
+175,Lake Sockeye,1977,1000,2129,Skeena
+175,Lake Sockeye,1978,1000,2230,Skeena
+175,Lake Sockeye,1979,NA,NA,Skeena
+175,Lake Sockeye,1980,NA,NA,Skeena
+175,Lake Sockeye,1981,1007,2125,Skeena
+175,Lake Sockeye,1982,1007,2435,Skeena
+175,Lake Sockeye,1983,NA,NA,Skeena
+175,Lake Sockeye,1984,NA,NA,Skeena
+175,Lake Sockeye,1985,1813,3786,Skeena
+175,Lake Sockeye,1986,705,1368,Skeena
+175,Lake Sockeye,1987,1209,1873,Skeena
+175,Lake Sockeye,1988,1410,3301,Skeena
+175,Lake Sockeye,1989,604,1197,Skeena
+175,Lake Sockeye,1990,NA,NA,Skeena
+175,Lake Sockeye,1991,1228,2996,Skeena
+175,Lake Sockeye,1992,NA,NA,Skeena
+175,Lake Sockeye,1993,NA,NA,Skeena
+175,Lake Sockeye,1994,NA,NA,Skeena
+175,Lake Sockeye,1995,12278,31813,Skeena
+175,Lake Sockeye,1996,NA,NA,Skeena
+175,Lake Sockeye,1997,8185,22305,Skeena
+175,Lake Sockeye,1998,NA,NA,Skeena
+175,Lake Sockeye,1999,13642,15715,Skeena
+175,Lake Sockeye,2000,2500,4785,Skeena
+175,Lake Sockeye,2001,7500,13651,Skeena
+175,Lake Sockeye,2002,6519,10789,Skeena
+175,Lake Sockeye,2003,8333,11908,Skeena
+175,Lake Sockeye,2004,NA,NA,Skeena
+175,Lake Sockeye,2005,NA,NA,Skeena
+175,Lake Sockeye,2006,NA,NA,Skeena
+175,Lake Sockeye,2007,NA,NA,Skeena
+175,Lake Sockeye,2008,NA,NA,Skeena
+175,Lake Sockeye,2009,NA,NA,Skeena
+175,Lake Sockeye,2010,NA,NA,Skeena
+175,Lake Sockeye,2011,NA,NA,Skeena
+175,Lake Sockeye,2012,NA,NA,Skeena
+175,Lake Sockeye,2013,NA,NA,Skeena
+175,Lake Sockeye,2014,NA,NA,Skeena
+175,Lake Sockeye,2015,NA,NA,Skeena
+175,Lake Sockeye,2016,NA,NA,Skeena
+175,Lake Sockeye,2017,NA,NA,Skeena
+175,Lake Sockeye,2018,2344,2712,Skeena
+175,Lake Sockeye,2019,280,376,Skeena
+175,Lake Sockeye,2020,NA,NA,Skeena
+175,Lake Sockeye,2021,300,494,Skeena
+175,Lake Sockeye,2022,184,249,Skeena
+175,Lake Sockeye,2023,400,524,Skeena
+176,Lake Sockeye,1950,NA,NA,Skeena
+176,Lake Sockeye,1951,NA,NA,Skeena
+176,Lake Sockeye,1952,NA,NA,Skeena
+176,Lake Sockeye,1953,NA,NA,Skeena
+176,Lake Sockeye,1954,NA,NA,Skeena
+176,Lake Sockeye,1955,NA,NA,Skeena
+176,Lake Sockeye,1956,NA,NA,Skeena
+176,Lake Sockeye,1957,NA,NA,Skeena
+176,Lake Sockeye,1958,NA,NA,Skeena
+176,Lake Sockeye,1959,NA,NA,Skeena
+176,Lake Sockeye,1960,840,1670,Skeena
+176,Lake Sockeye,1961,2241,4223,Skeena
+176,Lake Sockeye,1962,2241,4601,Skeena
+176,Lake Sockeye,1963,2024,2954,Skeena
+176,Lake Sockeye,1964,1518,3013,Skeena
+176,Lake Sockeye,1965,2987,5164,Skeena
+176,Lake Sockeye,1966,1587,3821,Skeena
+176,Lake Sockeye,1967,2894,8081,Skeena
+176,Lake Sockeye,1968,1774,4106,Skeena
+176,Lake Sockeye,1969,2241,4201,Skeena
+176,Lake Sockeye,1970,1774,3348,Skeena
+176,Lake Sockeye,1971,2241,4571,Skeena
+176,Lake Sockeye,1972,6348,13296,Skeena
+176,Lake Sockeye,1973,6348,15202,Skeena
+176,Lake Sockeye,1974,6348,17201,Skeena
+176,Lake Sockeye,1975,3548,5841,Skeena
+176,Lake Sockeye,1976,1774,3796,Skeena
+176,Lake Sockeye,1977,6348,13756,Skeena
+176,Lake Sockeye,1978,1774,4032,Skeena
+176,Lake Sockeye,1979,784,1643,Skeena
+176,Lake Sockeye,1980,840,1876,Skeena
+176,Lake Sockeye,1981,654,1403,Skeena
+176,Lake Sockeye,1982,1027,2539,Skeena
+176,Lake Sockeye,1983,822,1577,Skeena
+176,Lake Sockeye,1984,1064,1974,Skeena
+176,Lake Sockeye,1985,2127,4486,Skeena
+176,Lake Sockeye,1986,2127,4215,Skeena
+176,Lake Sockeye,1987,4254,6692,Skeena
+176,Lake Sockeye,1988,2553,6046,Skeena
+176,Lake Sockeye,1989,3829,7708,Skeena
+176,Lake Sockeye,1990,6381,14334,Skeena
+176,Lake Sockeye,1991,6381,15677,Skeena
+176,Lake Sockeye,1992,17017,43608,Skeena
+176,Lake Sockeye,1993,14890,34678,Skeena
+176,Lake Sockeye,1994,23398,53711,Skeena
+176,Lake Sockeye,1995,20739,55259,Skeena
+176,Lake Sockeye,1996,8083,22904,Skeena
+176,Lake Sockeye,1997,15528,45189,Skeena
+176,Lake Sockeye,1998,16591,28352,Skeena
+176,Lake Sockeye,1999,NA,NA,Skeena
+176,Lake Sockeye,2000,24232,48128,Skeena
+176,Lake Sockeye,2001,19614,35974,Skeena
+176,Lake Sockeye,2002,26801,46671,Skeena
+176,Lake Sockeye,2003,48643,70834,Skeena
+176,Lake Sockeye,2004,24328,36398,Skeena
+176,Lake Sockeye,2005,16100,20850,Skeena
+176,Lake Sockeye,2006,18745,28449,Skeena
+176,Lake Sockeye,2007,16885,33266,Skeena
+176,Lake Sockeye,2008,21452,34656,Skeena
+176,Lake Sockeye,2009,25405,30375,Skeena
+176,Lake Sockeye,2010,54028,64576,Skeena
+176,Lake Sockeye,2011,33468,49194,Skeena
+176,Lake Sockeye,2012,40981,55563,Skeena
+176,Lake Sockeye,2013,NA,NA,Skeena
+176,Lake Sockeye,2014,26651,38002,Skeena
+176,Lake Sockeye,2015,23007,29145,Skeena
+176,Lake Sockeye,2016,22333,33620,Skeena
+176,Lake Sockeye,2017,27089,30732,Skeena
+176,Lake Sockeye,2018,37597,44303,Skeena
+176,Lake Sockeye,2019,NA,NA,Skeena
+176,Lake Sockeye,2020,13344,16049,Skeena
+176,Lake Sockeye,2021,15781,26765,Skeena
+176,Lake Sockeye,2022,39044,53559,Skeena
+176,Lake Sockeye,2023,20704,27592,Skeena
+177,Lake Sockeye,1950,NA,NA,Skeena
+177,Lake Sockeye,1951,NA,NA,Skeena
+177,Lake Sockeye,1952,NA,NA,Skeena
+177,Lake Sockeye,1953,NA,NA,Skeena
+177,Lake Sockeye,1954,NA,NA,Skeena
+177,Lake Sockeye,1955,NA,NA,Skeena
+177,Lake Sockeye,1956,NA,NA,Skeena
+177,Lake Sockeye,1957,NA,NA,Skeena
+177,Lake Sockeye,1958,NA,NA,Skeena
+177,Lake Sockeye,1959,NA,NA,Skeena
+177,Lake Sockeye,1960,11348,14499,Skeena
+177,Lake Sockeye,1961,14879,18723,Skeena
+177,Lake Sockeye,1962,17333,22347,Skeena
+177,Lake Sockeye,1963,19922,23104,Skeena
+177,Lake Sockeye,1964,52421,66949,Skeena
+177,Lake Sockeye,1965,87763,107601,Skeena
+177,Lake Sockeye,1966,39873,53571,Skeena
+177,Lake Sockeye,1967,29440,40931,Skeena
+177,Lake Sockeye,1968,24933,33175,Skeena
+177,Lake Sockeye,1969,14216,17862,Skeena
+177,Lake Sockeye,1970,11373,14318,Skeena
+177,Lake Sockeye,1971,6561,8444,Skeena
+177,Lake Sockeye,1972,5796,7513,Skeena
+177,Lake Sockeye,1973,3937,5282,Skeena
+177,Lake Sockeye,1974,5249,7250,Skeena
+177,Lake Sockeye,1975,5686,6866,Skeena
+177,Lake Sockeye,1976,6561,8555,Skeena
+177,Lake Sockeye,1977,5085,6652,Skeena
+177,Lake Sockeye,1978,11810,15642,Skeena
+177,Lake Sockeye,1979,12466,16162,Skeena
+177,Lake Sockeye,1980,29438,38811,Skeena
+177,Lake Sockeye,1981,15966,20833,Skeena
+177,Lake Sockeye,1982,30110,38751,Skeena
+177,Lake Sockeye,1983,19246,21359,Skeena
+177,Lake Sockeye,1984,9514,11296,Skeena
+177,Lake Sockeye,1985,36306,51339,Skeena
+177,Lake Sockeye,1986,8967,11733,Skeena
+177,Lake Sockeye,1987,5304,6097,Skeena
+177,Lake Sockeye,1988,10443,16403,Skeena
+177,Lake Sockeye,1989,7677,10221,Skeena
+177,Lake Sockeye,1990,2690,3684,Skeena
+177,Lake Sockeye,1991,13451,18909,Skeena
+177,Lake Sockeye,1992,10389,17495,Skeena
+177,Lake Sockeye,1993,13669,22133,Skeena
+177,Lake Sockeye,1994,3117,4376,Skeena
+177,Lake Sockeye,1995,27448,41714,Skeena
+177,Lake Sockeye,1996,23675,39208,Skeena
+177,Lake Sockeye,1997,3445,6980,Skeena
+177,Lake Sockeye,1998,5318,7046,Skeena
+177,Lake Sockeye,1999,9931,12067,Skeena
+177,Lake Sockeye,2000,NA,NA,Skeena
+177,Lake Sockeye,2001,10960,13000,Skeena
+177,Lake Sockeye,2002,NA,NA,Skeena
+177,Lake Sockeye,2003,2783,3317,Skeena
+177,Lake Sockeye,2004,5168,6111,Skeena
+177,Lake Sockeye,2005,8280,9441,Skeena
+177,Lake Sockeye,2006,2530,3199,Skeena
+177,Lake Sockeye,2007,6125,7193,Skeena
+177,Lake Sockeye,2008,7413,8141,Skeena
+177,Lake Sockeye,2009,10305,11247,Skeena
+177,Lake Sockeye,2010,20750,22863,Skeena
+177,Lake Sockeye,2011,23810,27368,Skeena
+177,Lake Sockeye,2012,27594,31117,Skeena
+177,Lake Sockeye,2013,26462,28325,Skeena
+177,Lake Sockeye,2014,20508,22160,Skeena
+177,Lake Sockeye,2015,28528,30251,Skeena
+177,Lake Sockeye,2016,29723,33943,Skeena
+177,Lake Sockeye,2017,12523,12674,Skeena
+177,Lake Sockeye,2018,10958,11388,Skeena
+177,Lake Sockeye,2019,16257,17566,Skeena
+177,Lake Sockeye,2020,1236,1298,Skeena
+177,Lake Sockeye,2021,10799,11467,Skeena
+177,Lake Sockeye,2022,18962,20041,Skeena
+177,Lake Sockeye,2023,19257,20589,Skeena
+178,Lake Sockeye,1950,NA,NA,Skeena
+178,Lake Sockeye,1951,NA,NA,Skeena
+178,Lake Sockeye,1952,NA,NA,Skeena
+178,Lake Sockeye,1953,NA,NA,Skeena
+178,Lake Sockeye,1954,NA,NA,Skeena
+178,Lake Sockeye,1955,NA,NA,Skeena
+178,Lake Sockeye,1956,NA,NA,Skeena
+178,Lake Sockeye,1957,NA,NA,Skeena
+178,Lake Sockeye,1958,NA,NA,Skeena
+178,Lake Sockeye,1959,NA,NA,Skeena
+178,Lake Sockeye,1960,1500,2200,Skeena
+178,Lake Sockeye,1961,1500,2145,Skeena
+178,Lake Sockeye,1962,1000,1489,Skeena
+178,Lake Sockeye,1963,1600,2004,Skeena
+178,Lake Sockeye,1964,1000,1466,Skeena
+178,Lake Sockeye,1965,6000,8219,Skeena
+178,Lake Sockeye,1966,8000,12789,Skeena
+178,Lake Sockeye,1967,400,679,Skeena
+178,Lake Sockeye,1968,5000,7859,Skeena
+178,Lake Sockeye,1969,1944,2773,Skeena
+178,Lake Sockeye,1970,3000,4293,Skeena
+178,Lake Sockeye,1971,2600,3861,Skeena
+178,Lake Sockeye,1972,1200,1804,Skeena
+178,Lake Sockeye,1973,4000,6380,Skeena
+178,Lake Sockeye,1974,3600,6041,Skeena
+178,Lake Sockeye,1975,200,267,Skeena
+178,Lake Sockeye,1976,,,Skeena
+178,Lake Sockeye,1977,1200,1832,Skeena
+178,Lake Sockeye,1978,8000,12475,Skeena
+178,Lake Sockeye,1979,2200,3307,Skeena
+178,Lake Sockeye,1980,280,433,Skeena
+178,Lake Sockeye,1981,3000,4560,Skeena
+178,Lake Sockeye,1982,2000,3258,Skeena
+178,Lake Sockeye,1983,10000,12143,Skeena
+178,Lake Sockeye,1984,1000,1281,Skeena
+178,Lake Sockeye,1985,1200,2107,Skeena
+178,Lake Sockeye,1986,6000,8863,Skeena
+178,Lake Sockeye,1987,6000,7545,Skeena
+178,Lake Sockeye,1988,4000,7600,Skeena
+178,Lake Sockeye,1989,,,Skeena
+178,Lake Sockeye,1990,3000,4510,Skeena
+178,Lake Sockeye,1991,1200,1970,Skeena
+178,Lake Sockeye,1992,10000,18868,Skeena
+178,Lake Sockeye,1993,15000,30564,Skeena
+178,Lake Sockeye,1994,,,Skeena
+178,Lake Sockeye,1995,,,Skeena
+178,Lake Sockeye,1996,,,Skeena
+178,Lake Sockeye,1997,,,Skeena
+178,Lake Sockeye,1998,,,Skeena
+178,Lake Sockeye,1999,,,Skeena
+178,Lake Sockeye,2000,,,Skeena
+178,Lake Sockeye,2001,,,Skeena
+178,Lake Sockeye,2002,7072,10880,Skeena
+178,Lake Sockeye,2003,9106,11941,Skeena
+178,Lake Sockeye,2004,6000,7674,Skeena
+178,Lake Sockeye,2005,5887,6944,Skeena
+178,Lake Sockeye,2006,5479,8556,Skeena
+178,Lake Sockeye,2007,3901,4870,Skeena
+178,Lake Sockeye,2008,327,367,Skeena
+178,Lake Sockeye,2009,3736,4110,Skeena
+178,Lake Sockeye,2010,3836,4276,Skeena
+178,Lake Sockeye,2011,3719,4498,Skeena
+178,Lake Sockeye,2012,3940,4592,Skeena
+178,Lake Sockeye,2013,3320,3581,Skeena
+178,Lake Sockeye,2014,4220,4836,Skeena
+178,Lake Sockeye,2015,14568,15636,Skeena
+178,Lake Sockeye,2016,8924,10879,Skeena
+178,Lake Sockeye,2017,7097,7210,Skeena
+178,Lake Sockeye,2018,3417,3556,Skeena
+178,Lake Sockeye,2019,4168,4523,Skeena
+178,Lake Sockeye,2020,258,272,Skeena
+178,Lake Sockeye,2021,5448,5869,Skeena
+178,Lake Sockeye,2022,4730,5230,Skeena
+178,Lake Sockeye,2023,5814,6486,Skeena
+179,Lake Sockeye,1950,NA,NA,Skeena
+179,Lake Sockeye,1951,NA,NA,Skeena
+179,Lake Sockeye,1952,NA,NA,Skeena
+179,Lake Sockeye,1953,NA,NA,Skeena
+179,Lake Sockeye,1954,NA,NA,Skeena
+179,Lake Sockeye,1955,NA,NA,Skeena
+179,Lake Sockeye,1956,NA,NA,Skeena
+179,Lake Sockeye,1957,NA,NA,Skeena
+179,Lake Sockeye,1958,NA,NA,Skeena
+179,Lake Sockeye,1959,NA,NA,Skeena
+179,Lake Sockeye,1960,NA,NA,Skeena
+179,Lake Sockeye,1961,NA,NA,Skeena
+179,Lake Sockeye,1962,NA,NA,Skeena
+179,Lake Sockeye,1963,NA,NA,Skeena
+179,Lake Sockeye,1964,NA,NA,Skeena
+179,Lake Sockeye,1965,NA,NA,Skeena
+179,Lake Sockeye,1966,NA,NA,Skeena
+179,Lake Sockeye,1967,NA,NA,Skeena
+179,Lake Sockeye,1968,NA,NA,Skeena
+179,Lake Sockeye,1969,NA,NA,Skeena
+179,Lake Sockeye,1970,NA,NA,Skeena
+179,Lake Sockeye,1971,NA,NA,Skeena
+179,Lake Sockeye,1972,NA,NA,Skeena
+179,Lake Sockeye,1973,NA,NA,Skeena
+179,Lake Sockeye,1974,NA,NA,Skeena
+179,Lake Sockeye,1975,NA,NA,Skeena
+179,Lake Sockeye,1976,NA,NA,Skeena
+179,Lake Sockeye,1977,NA,NA,Skeena
+179,Lake Sockeye,1978,NA,NA,Skeena
+179,Lake Sockeye,1979,NA,NA,Skeena
+179,Lake Sockeye,1980,NA,NA,Skeena
+179,Lake Sockeye,1981,NA,NA,Skeena
+179,Lake Sockeye,1982,NA,NA,Skeena
+179,Lake Sockeye,1983,NA,NA,Skeena
+179,Lake Sockeye,1984,NA,NA,Skeena
+179,Lake Sockeye,1985,NA,NA,Skeena
+179,Lake Sockeye,1986,NA,NA,Skeena
+179,Lake Sockeye,1987,NA,NA,Skeena
+179,Lake Sockeye,1988,NA,NA,Skeena
+179,Lake Sockeye,1989,NA,NA,Skeena
+179,Lake Sockeye,1990,NA,NA,Skeena
+179,Lake Sockeye,1991,NA,NA,Skeena
+179,Lake Sockeye,1992,NA,NA,Skeena
+179,Lake Sockeye,1993,NA,NA,Skeena
+179,Lake Sockeye,1994,NA,NA,Skeena
+179,Lake Sockeye,1995,NA,NA,Skeena
+179,Lake Sockeye,1996,NA,NA,Skeena
+179,Lake Sockeye,1997,NA,NA,Skeena
+179,Lake Sockeye,1998,NA,NA,Skeena
+179,Lake Sockeye,1999,NA,NA,Skeena
+179,Lake Sockeye,2000,NA,NA,Skeena
+179,Lake Sockeye,2001,NA,NA,Skeena
+179,Lake Sockeye,2002,NA,NA,Skeena
+179,Lake Sockeye,2003,NA,NA,Skeena
+179,Lake Sockeye,2004,NA,NA,Skeena
+179,Lake Sockeye,2005,NA,NA,Skeena
+179,Lake Sockeye,2006,NA,NA,Skeena
+179,Lake Sockeye,2007,NA,NA,Skeena
+179,Lake Sockeye,2008,NA,NA,Skeena
+179,Lake Sockeye,2009,NA,NA,Skeena
+179,Lake Sockeye,2010,NA,NA,Skeena
+179,Lake Sockeye,2011,NA,NA,Skeena
+179,Lake Sockeye,2012,NA,NA,Skeena
+179,Lake Sockeye,2013,NA,NA,Skeena
+179,Lake Sockeye,2014,NA,NA,Skeena
+179,Lake Sockeye,2015,NA,NA,Skeena
+179,Lake Sockeye,2016,NA,NA,Skeena
+179,Lake Sockeye,2017,NA,NA,Skeena
+179,Lake Sockeye,2018,NA,NA,Skeena
+179,Lake Sockeye,2019,NA,NA,Skeena
+179,Lake Sockeye,2020,NA,NA,Skeena
+180,Lake Sockeye,1950,NA,NA,Skeena
+180,Lake Sockeye,1951,NA,NA,Skeena
+180,Lake Sockeye,1952,NA,NA,Skeena
+180,Lake Sockeye,1953,NA,NA,Skeena
+180,Lake Sockeye,1954,NA,NA,Skeena
+180,Lake Sockeye,1955,NA,NA,Skeena
+180,Lake Sockeye,1956,NA,NA,Skeena
+180,Lake Sockeye,1957,NA,NA,Skeena
+180,Lake Sockeye,1958,NA,NA,Skeena
+180,Lake Sockeye,1959,NA,NA,Skeena
+180,Lake Sockeye,1960,42485,85096,Skeena
+180,Lake Sockeye,1961,133007,252455,Skeena
+180,Lake Sockeye,1962,21587,44699,Skeena
+180,Lake Sockeye,1963,77002,112794,Skeena
+180,Lake Sockeye,1964,68409,136833,Skeena
+180,Lake Sockeye,1965,29888,51966,Skeena
+180,Lake Sockeye,1966,31977,77849,Skeena
+180,Lake Sockeye,1967,95242,269739,Skeena
+180,Lake Sockeye,1968,62457,146095,Skeena
+180,Lake Sockeye,1969,89905,169758,Skeena
+180,Lake Sockeye,1970,82164,156187,Skeena
+180,Lake Sockeye,1971,34049,70037,Skeena
+180,Lake Sockeye,1972,52692,111322,Skeena
+180,Lake Sockeye,1973,140253,339592,Skeena
+180,Lake Sockeye,1974,109851,301719,Skeena
+180,Lake Sockeye,1975,60353,99886,Skeena
+180,Lake Sockeye,1976,13336,28800,Skeena
+180,Lake Sockeye,1977,54679,119578,Skeena
+180,Lake Sockeye,1978,32032,73552,Skeena
+180,Lake Sockeye,1979,42455,89741,Skeena
+180,Lake Sockeye,1980,31679,71434,Skeena
+180,Lake Sockeye,1981,46466,100667,Skeena
+180,Lake Sockeye,1982,93630,236620,Skeena
+180,Lake Sockeye,1983,26965,54537,Skeena
+180,Lake Sockeye,1984,26503,49428,Skeena
+180,Lake Sockeye,1985,75649,145641,Skeena
+180,Lake Sockeye,1986,26865,56753,Skeena
+180,Lake Sockeye,1987,38206,59773,Skeena
+180,Lake Sockeye,1988,42435,99628,Skeena
+180,Lake Sockeye,1989,18412,38221,Skeena
+180,Lake Sockeye,1990,21328,45170,Skeena
+180,Lake Sockeye,1991,58719,133191,Skeena
+180,Lake Sockeye,1992,52358,131246,Skeena
+180,Lake Sockeye,1993,16646,42368,Skeena
+180,Lake Sockeye,1994,25124,56678,Skeena
+180,Lake Sockeye,1995,79679,215000,Skeena
+180,Lake Sockeye,1996,60909,175539,Skeena
+180,Lake Sockeye,1997,92245,311078,Skeena
+180,Lake Sockeye,1998,43130,83275,Skeena
+180,Lake Sockeye,1999,63692,92430,Skeena
+180,Lake Sockeye,2000,84558,207146,Skeena
+180,Lake Sockeye,2001,232802,474715,Skeena
+180,Lake Sockeye,2002,29324,57008,Skeena
+180,Lake Sockeye,2003,55028,84989,Skeena
+180,Lake Sockeye,2004,39546,64011,Skeena
+180,Lake Sockeye,2005,25141,39686,Skeena
+180,Lake Sockeye,2006,40874,74285,Skeena
+180,Lake Sockeye,2007,52862,95535,Skeena
+180,Lake Sockeye,2008,28667,54820,Skeena
+180,Lake Sockeye,2009,20503,29311,Skeena
+180,Lake Sockeye,2010,20455,31319,Skeena
+180,Lake Sockeye,2011,64622,109337,Skeena
+180,Lake Sockeye,2012,60983,100680,Skeena
+180,Lake Sockeye,2013,8760,11662,Skeena
+180,Lake Sockeye,2014,20322,30853,Skeena
+180,Lake Sockeye,2015,52239,71019,Skeena
+180,Lake Sockeye,2016,41607,80872,Skeena
+180,Lake Sockeye,2017,28036,31591,Skeena
+180,Lake Sockeye,2018,11857,14786,Skeena
+180,Lake Sockeye,2019,6980,9937,Skeena
+180,Lake Sockeye,2020,14328,17922,Skeena
+180,Lake Sockeye,2021,26668,40884,Skeena
+180,Lake Sockeye,2022,34343,46259,Skeena
+180,Lake Sockeye,2023,10963,14636,Skeena
+181,Lake Sockeye,1950,NA,NA,Skeena
+181,Lake Sockeye,1951,NA,NA,Skeena
+181,Lake Sockeye,1952,NA,NA,Skeena
+181,Lake Sockeye,1953,NA,NA,Skeena
+181,Lake Sockeye,1954,NA,NA,Skeena
+181,Lake Sockeye,1955,NA,NA,Skeena
+181,Lake Sockeye,1956,NA,NA,Skeena
+181,Lake Sockeye,1957,NA,NA,Skeena
+181,Lake Sockeye,1958,NA,NA,Skeena
+181,Lake Sockeye,1959,NA,NA,Skeena
+181,Lake Sockeye,1960,NA,NA,Skeena
+181,Lake Sockeye,1961,NA,NA,Skeena
+181,Lake Sockeye,1962,NA,NA,Skeena
+181,Lake Sockeye,1963,NA,NA,Skeena
+181,Lake Sockeye,1964,NA,NA,Skeena
+181,Lake Sockeye,1965,NA,NA,Skeena
+181,Lake Sockeye,1966,NA,NA,Skeena
+181,Lake Sockeye,1967,NA,NA,Skeena
+181,Lake Sockeye,1968,NA,NA,Skeena
+181,Lake Sockeye,1969,NA,NA,Skeena
+181,Lake Sockeye,1970,NA,NA,Skeena
+181,Lake Sockeye,1971,NA,NA,Skeena
+181,Lake Sockeye,1972,NA,NA,Skeena
+181,Lake Sockeye,1973,NA,NA,Skeena
+181,Lake Sockeye,1974,NA,NA,Skeena
+181,Lake Sockeye,1975,NA,NA,Skeena
+181,Lake Sockeye,1976,NA,NA,Skeena
+181,Lake Sockeye,1977,NA,NA,Skeena
+181,Lake Sockeye,1978,NA,NA,Skeena
+181,Lake Sockeye,1979,NA,NA,Skeena
+181,Lake Sockeye,1980,NA,NA,Skeena
+181,Lake Sockeye,1981,NA,NA,Skeena
+181,Lake Sockeye,1982,NA,NA,Skeena
+181,Lake Sockeye,1983,NA,NA,Skeena
+181,Lake Sockeye,1984,NA,NA,Skeena
+181,Lake Sockeye,1985,NA,NA,Skeena
+181,Lake Sockeye,1986,NA,NA,Skeena
+181,Lake Sockeye,1987,NA,NA,Skeena
+181,Lake Sockeye,1988,NA,NA,Skeena
+181,Lake Sockeye,1989,NA,NA,Skeena
+181,Lake Sockeye,1990,NA,NA,Skeena
+181,Lake Sockeye,1991,NA,NA,Skeena
+181,Lake Sockeye,1992,NA,NA,Skeena
+181,Lake Sockeye,1993,NA,NA,Skeena
+181,Lake Sockeye,1994,NA,NA,Skeena
+181,Lake Sockeye,1995,NA,NA,Skeena
+181,Lake Sockeye,1996,NA,NA,Skeena
+181,Lake Sockeye,1997,NA,NA,Skeena
+181,Lake Sockeye,1998,NA,NA,Skeena
+181,Lake Sockeye,1999,NA,NA,Skeena
+181,Lake Sockeye,2000,NA,NA,Skeena
+181,Lake Sockeye,2001,NA,NA,Skeena
+181,Lake Sockeye,2002,NA,NA,Skeena
+181,Lake Sockeye,2003,NA,NA,Skeena
+181,Lake Sockeye,2004,NA,NA,Skeena
+181,Lake Sockeye,2005,NA,NA,Skeena
+181,Lake Sockeye,2006,NA,NA,Skeena
+181,Lake Sockeye,2007,NA,NA,Skeena
+181,Lake Sockeye,2008,NA,NA,Skeena
+181,Lake Sockeye,2009,NA,NA,Skeena
+181,Lake Sockeye,2010,NA,NA,Skeena
+181,Lake Sockeye,2011,NA,NA,Skeena
+181,Lake Sockeye,2012,NA,NA,Skeena
+181,Lake Sockeye,2013,NA,NA,Skeena
+181,Lake Sockeye,2014,NA,NA,Skeena
+181,Lake Sockeye,2015,NA,NA,Skeena
+181,Lake Sockeye,2016,NA,NA,Skeena
+181,Lake Sockeye,2017,NA,NA,Skeena
+181,Lake Sockeye,2018,NA,NA,Skeena
+181,Lake Sockeye,2019,NA,NA,Skeena
+181,Lake Sockeye,2020,NA,NA,Skeena
+182,Lake Sockeye,1950,NA,NA,Skeena
+182,Lake Sockeye,1951,NA,NA,Skeena
+182,Lake Sockeye,1952,NA,NA,Skeena
+182,Lake Sockeye,1953,NA,NA,Skeena
+182,Lake Sockeye,1954,NA,NA,Skeena
+182,Lake Sockeye,1955,NA,NA,Skeena
+182,Lake Sockeye,1956,NA,NA,Skeena
+182,Lake Sockeye,1957,NA,NA,Skeena
+182,Lake Sockeye,1958,NA,NA,Skeena
+182,Lake Sockeye,1959,NA,NA,Skeena
+182,Lake Sockeye,1960,NA,NA,Skeena
+182,Lake Sockeye,1961,NA,NA,Skeena
+182,Lake Sockeye,1962,NA,NA,Skeena
+182,Lake Sockeye,1963,NA,NA,Skeena
+182,Lake Sockeye,1964,NA,NA,Skeena
+182,Lake Sockeye,1965,NA,NA,Skeena
+182,Lake Sockeye,1966,NA,NA,Skeena
+182,Lake Sockeye,1967,NA,NA,Skeena
+182,Lake Sockeye,1968,NA,NA,Skeena
+182,Lake Sockeye,1969,NA,NA,Skeena
+182,Lake Sockeye,1970,NA,NA,Skeena
+182,Lake Sockeye,1971,NA,NA,Skeena
+182,Lake Sockeye,1972,NA,NA,Skeena
+182,Lake Sockeye,1973,NA,NA,Skeena
+182,Lake Sockeye,1974,NA,NA,Skeena
+182,Lake Sockeye,1975,NA,NA,Skeena
+182,Lake Sockeye,1976,NA,NA,Skeena
+182,Lake Sockeye,1977,NA,NA,Skeena
+182,Lake Sockeye,1978,NA,NA,Skeena
+182,Lake Sockeye,1979,NA,NA,Skeena
+182,Lake Sockeye,1980,NA,NA,Skeena
+182,Lake Sockeye,1981,NA,NA,Skeena
+182,Lake Sockeye,1982,NA,NA,Skeena
+182,Lake Sockeye,1983,NA,NA,Skeena
+182,Lake Sockeye,1984,NA,NA,Skeena
+182,Lake Sockeye,1985,NA,NA,Skeena
+182,Lake Sockeye,1986,NA,NA,Skeena
+182,Lake Sockeye,1987,NA,NA,Skeena
+182,Lake Sockeye,1988,NA,NA,Skeena
+182,Lake Sockeye,1989,NA,NA,Skeena
+182,Lake Sockeye,1990,NA,NA,Skeena
+182,Lake Sockeye,1991,NA,NA,Skeena
+182,Lake Sockeye,1992,NA,NA,Skeena
+182,Lake Sockeye,1993,NA,NA,Skeena
+182,Lake Sockeye,1994,NA,NA,Skeena
+182,Lake Sockeye,1995,NA,NA,Skeena
+182,Lake Sockeye,1996,NA,NA,Skeena
+182,Lake Sockeye,1997,NA,NA,Skeena
+182,Lake Sockeye,1998,NA,NA,Skeena
+182,Lake Sockeye,1999,NA,NA,Skeena
+182,Lake Sockeye,2000,NA,NA,Skeena
+182,Lake Sockeye,2001,NA,NA,Skeena
+182,Lake Sockeye,2002,NA,NA,Skeena
+182,Lake Sockeye,2003,NA,NA,Skeena
+182,Lake Sockeye,2004,NA,NA,Skeena
+182,Lake Sockeye,2005,NA,NA,Skeena
+182,Lake Sockeye,2006,NA,NA,Skeena
+182,Lake Sockeye,2007,NA,NA,Skeena
+182,Lake Sockeye,2008,NA,NA,Skeena
+182,Lake Sockeye,2009,NA,NA,Skeena
+182,Lake Sockeye,2010,NA,NA,Skeena
+182,Lake Sockeye,2011,NA,NA,Skeena
+182,Lake Sockeye,2012,NA,NA,Skeena
+182,Lake Sockeye,2013,NA,NA,Skeena
+182,Lake Sockeye,2014,NA,NA,Skeena
+182,Lake Sockeye,2015,NA,NA,Skeena
+182,Lake Sockeye,2016,NA,NA,Skeena
+182,Lake Sockeye,2017,NA,NA,Skeena
+182,Lake Sockeye,2018,NA,NA,Skeena
+182,Lake Sockeye,2019,NA,NA,Skeena
+182,Lake Sockeye,2020,NA,NA,Skeena
+183,Lake Sockeye,1950,NA,NA,Skeena
+183,Lake Sockeye,1951,NA,NA,Skeena
+183,Lake Sockeye,1952,NA,NA,Skeena
+183,Lake Sockeye,1953,NA,NA,Skeena
+183,Lake Sockeye,1954,NA,NA,Skeena
+183,Lake Sockeye,1955,NA,NA,Skeena
+183,Lake Sockeye,1956,NA,NA,Skeena
+183,Lake Sockeye,1957,NA,NA,Skeena
+183,Lake Sockeye,1958,NA,NA,Skeena
+183,Lake Sockeye,1959,NA,NA,Skeena
+183,Lake Sockeye,1960,800,1679,Skeena
+183,Lake Sockeye,1961,400,792,Skeena
+183,Lake Sockeye,1962,400,871,Skeena
+183,Lake Sockeye,1963,,,Skeena
+183,Lake Sockeye,1964,400,838,Skeena
+183,Lake Sockeye,1965,800,1440,Skeena
+183,Lake Sockeye,1966,400,1042,Skeena
+183,Lake Sockeye,1967,,,Skeena
+183,Lake Sockeye,1968,400,997,Skeena
+183,Lake Sockeye,1969,,,Skeena
+183,Lake Sockeye,1970,,,Skeena
+183,Lake Sockeye,1971,,,Skeena
+183,Lake Sockeye,1972,,,Skeena
+183,Lake Sockeye,1973,,,Skeena
+183,Lake Sockeye,1974,,,Skeena
+183,Lake Sockeye,1975,,,Skeena
+183,Lake Sockeye,1976,,,Skeena
+183,Lake Sockeye,1977,50,116,Skeena
+183,Lake Sockeye,1978,150,366,Skeena
+183,Lake Sockeye,1979,,,Skeena
+183,Lake Sockeye,1980,200,478,Skeena
+183,Lake Sockeye,1981,,,Skeena
+183,Lake Sockeye,1982,,,Skeena
+183,Lake Sockeye,1983,,,Skeena
+183,Lake Sockeye,1984,,,Skeena
+183,Lake Sockeye,1985,4400,9530,Skeena
+183,Lake Sockeye,1986,,,Skeena
+183,Lake Sockeye,1987,,,Skeena
+183,Lake Sockeye,1988,,,Skeena
+183,Lake Sockeye,1989,,,Skeena
+183,Lake Sockeye,1990,1000,2388,Skeena
+183,Lake Sockeye,1991,,,Skeena
+183,Lake Sockeye,1992,,,Skeena
+183,Lake Sockeye,1993,,,Skeena
+183,Lake Sockeye,1994,,,Skeena
+183,Lake Sockeye,1995,,,Skeena
+183,Lake Sockeye,1996,,,Skeena
+183,Lake Sockeye,1997,,,Skeena
+183,Lake Sockeye,1998,,,Skeena
+183,Lake Sockeye,1999,,,Skeena
+183,Lake Sockeye,2000,231,489,Skeena
+183,Lake Sockeye,2001,221,421,Skeena
+183,Lake Sockeye,2002,978,1794,Skeena
+183,Lake Sockeye,2003,3377,5072,Skeena
+183,Lake Sockeye,2004,1317,2073,Skeena
+183,Lake Sockeye,2005,937,1270,Skeena
+183,Lake Sockeye,2006,5139,8136,Skeena
+183,Lake Sockeye,2007,245,513,Skeena
+183,Lake Sockeye,2008,1200,2064,Skeena
+183,Lake Sockeye,2009,3047,3775,Skeena
+183,Lake Sockeye,2010,20804,26194,Skeena
+183,Lake Sockeye,2011,2366,3655,Skeena
+183,Lake Sockeye,2012,5476,7772,Skeena
+183,Lake Sockeye,2013,828,975,Skeena
+183,Lake Sockeye,2014,13699,20502,Skeena
+183,Lake Sockeye,2015,4636,6136,Skeena
+183,Lake Sockeye,2016,1100,1776,Skeena
+183,Lake Sockeye,2017,357,415,Skeena
+183,Lake Sockeye,2018,1434,1739,Skeena
+183,Lake Sockeye,2019,125,182,Skeena
+183,Lake Sockeye,2020,435,535,Skeena
+183,Lake Sockeye,2021,290,518,Skeena
+183,Lake Sockeye,2022,1437,2023,Skeena
+183,Lake Sockeye,2023,1188,1627,Skeena
+184,Lake Sockeye,1950,NA,NA,Skeena
+184,Lake Sockeye,1951,NA,NA,Skeena
+184,Lake Sockeye,1952,NA,NA,Skeena
+184,Lake Sockeye,1953,NA,NA,Skeena
+184,Lake Sockeye,1954,NA,NA,Skeena
+184,Lake Sockeye,1955,NA,NA,Skeena
+184,Lake Sockeye,1956,NA,NA,Skeena
+184,Lake Sockeye,1957,NA,NA,Skeena
+184,Lake Sockeye,1958,NA,NA,Skeena
+184,Lake Sockeye,1959,NA,NA,Skeena
+184,Lake Sockeye,1960,NA,NA,Skeena
+184,Lake Sockeye,1961,NA,NA,Skeena
+184,Lake Sockeye,1962,NA,NA,Skeena
+184,Lake Sockeye,1963,NA,NA,Skeena
+184,Lake Sockeye,1964,NA,NA,Skeena
+184,Lake Sockeye,1965,NA,NA,Skeena
+184,Lake Sockeye,1966,NA,NA,Skeena
+184,Lake Sockeye,1967,NA,NA,Skeena
+184,Lake Sockeye,1968,NA,NA,Skeena
+184,Lake Sockeye,1969,NA,NA,Skeena
+184,Lake Sockeye,1970,NA,NA,Skeena
+184,Lake Sockeye,1971,NA,NA,Skeena
+184,Lake Sockeye,1972,NA,NA,Skeena
+184,Lake Sockeye,1973,NA,NA,Skeena
+184,Lake Sockeye,1974,NA,NA,Skeena
+184,Lake Sockeye,1975,NA,NA,Skeena
+184,Lake Sockeye,1976,NA,NA,Skeena
+184,Lake Sockeye,1977,NA,NA,Skeena
+184,Lake Sockeye,1978,NA,NA,Skeena
+184,Lake Sockeye,1979,NA,NA,Skeena
+184,Lake Sockeye,1980,NA,NA,Skeena
+184,Lake Sockeye,1981,NA,NA,Skeena
+184,Lake Sockeye,1982,NA,NA,Skeena
+184,Lake Sockeye,1983,NA,NA,Skeena
+184,Lake Sockeye,1984,NA,NA,Skeena
+184,Lake Sockeye,1985,NA,NA,Skeena
+184,Lake Sockeye,1986,NA,NA,Skeena
+184,Lake Sockeye,1987,NA,NA,Skeena
+184,Lake Sockeye,1988,NA,NA,Skeena
+184,Lake Sockeye,1989,NA,NA,Skeena
+184,Lake Sockeye,1990,NA,NA,Skeena
+184,Lake Sockeye,1991,NA,NA,Skeena
+184,Lake Sockeye,1992,NA,NA,Skeena
+184,Lake Sockeye,1993,NA,NA,Skeena
+184,Lake Sockeye,1994,NA,NA,Skeena
+184,Lake Sockeye,1995,NA,NA,Skeena
+184,Lake Sockeye,1996,NA,NA,Skeena
+184,Lake Sockeye,1997,NA,NA,Skeena
+184,Lake Sockeye,1998,NA,NA,Skeena
+184,Lake Sockeye,1999,NA,NA,Skeena
+184,Lake Sockeye,2000,NA,NA,Skeena
+184,Lake Sockeye,2001,NA,NA,Skeena
+184,Lake Sockeye,2002,NA,NA,Skeena
+184,Lake Sockeye,2003,NA,NA,Skeena
+184,Lake Sockeye,2004,NA,NA,Skeena
+184,Lake Sockeye,2005,NA,NA,Skeena
+184,Lake Sockeye,2006,NA,NA,Skeena
+184,Lake Sockeye,2007,NA,NA,Skeena
+184,Lake Sockeye,2008,NA,NA,Skeena
+184,Lake Sockeye,2009,NA,NA,Skeena
+184,Lake Sockeye,2010,NA,NA,Skeena
+184,Lake Sockeye,2011,NA,NA,Skeena
+184,Lake Sockeye,2012,NA,NA,Skeena
+184,Lake Sockeye,2013,NA,NA,Skeena
+184,Lake Sockeye,2014,NA,NA,Skeena
+184,Lake Sockeye,2015,NA,NA,Skeena
+184,Lake Sockeye,2016,NA,NA,Skeena
+184,Lake Sockeye,2017,NA,NA,Skeena
+184,Lake Sockeye,2018,NA,NA,Skeena
+184,Lake Sockeye,2019,NA,NA,Skeena
+184,Lake Sockeye,2020,NA,NA,Skeena
+185,Lake Sockeye,1950,NA,NA,Skeena
+185,Lake Sockeye,1951,NA,NA,Skeena
+185,Lake Sockeye,1952,NA,NA,Skeena
+185,Lake Sockeye,1953,NA,NA,Skeena
+185,Lake Sockeye,1954,NA,NA,Skeena
+185,Lake Sockeye,1955,NA,NA,Skeena
+185,Lake Sockeye,1956,NA,NA,Skeena
+185,Lake Sockeye,1957,NA,NA,Skeena
+185,Lake Sockeye,1958,NA,NA,Skeena
+185,Lake Sockeye,1959,NA,NA,Skeena
+185,Lake Sockeye,1960,4020,9576,Skeena
+185,Lake Sockeye,1961,5742,12711,Skeena
+185,Lake Sockeye,1962,3445,8595,Skeena
+185,Lake Sockeye,1963,1148,1816,Skeena
+185,Lake Sockeye,1964,5742,13654,Skeena
+185,Lake Sockeye,1965,11485,22621,Skeena
+185,Lake Sockeye,1966,6891,21722,Skeena
+185,Lake Sockeye,1967,3905,15594,Skeena
+185,Lake Sockeye,1968,3445,10235,Skeena
+185,Lake Sockeye,1969,3790,8331,Skeena
+185,Lake Sockeye,1970,10796,23946,Skeena
+185,Lake Sockeye,1971,7580,18735,Skeena
+185,Lake Sockeye,1972,4135,10609,Skeena
+185,Lake Sockeye,1973,2297,7182,Skeena
+185,Lake Sockeye,1974,2756,10474,Skeena
+185,Lake Sockeye,1975,517,955,Skeena
+185,Lake Sockeye,1976,230,608,Skeena
+185,Lake Sockeye,1977,1378,3714,Skeena
+185,Lake Sockeye,1978,1148,3320,Skeena
+185,Lake Sockeye,1979,1608,4129,Skeena
+185,Lake Sockeye,1980,919,2587,Skeena
+185,Lake Sockeye,1981,2297,6107,Skeena
+185,Lake Sockeye,1982,6891,20220,Skeena
+185,Lake Sockeye,1983,9188,22354,Skeena
+185,Lake Sockeye,1984,6891,17610,Skeena
+185,Lake Sockeye,1985,4594,10975,Skeena
+185,Lake Sockeye,1986,6891,17229,Skeena
+185,Lake Sockeye,1987,9188,16877,Skeena
+185,Lake Sockeye,1988,2297,6987,Skeena
+185,Lake Sockeye,1989,12863,26204,Skeena
+185,Lake Sockeye,1990,6891,18230,Skeena
+185,Lake Sockeye,1991,45939,112315,Skeena
+185,Lake Sockeye,1992,31009,89658,Skeena
+185,Lake Sockeye,1993,25267,63070,Skeena
+185,Lake Sockeye,1994,,,Skeena
+185,Lake Sockeye,1995,40197,131682,Skeena
+185,Lake Sockeye,1996,47088,133180,Skeena
+185,Lake Sockeye,1997,27564,105528,Skeena
+185,Lake Sockeye,1998,6891,15680,Skeena
+185,Lake Sockeye,1999,17227,23316,Skeena
+185,Lake Sockeye,2000,3445,7932,Skeena
+185,Lake Sockeye,2001,11098,17836,Skeena
+185,Lake Sockeye,2002,4384,7898,Skeena
+185,Lake Sockeye,2003,15395,21782,Skeena
+185,Lake Sockeye,2004,11399,16007,Skeena
+185,Lake Sockeye,2005,11301,14851,Skeena
+185,Lake Sockeye,2006,13151,21515,Skeena
+185,Lake Sockeye,2007,30773,46648,Skeena
+185,Lake Sockeye,2008,12564,19686,Skeena
+185,Lake Sockeye,2009,21038,26144,Skeena
+185,Lake Sockeye,2010,10584,13591,Skeena
+185,Lake Sockeye,2011,6091,8488,Skeena
+185,Lake Sockeye,2012,5663,7799,Skeena
+185,Lake Sockeye,2013,7079,9129,Skeena
+185,Lake Sockeye,2014,13129,16832,Skeena
+185,Lake Sockeye,2015,21520,27304,Skeena
+185,Lake Sockeye,2016,20240,30539,Skeena
+185,Lake Sockeye,2017,15953,16910,Skeena
+185,Lake Sockeye,2018,15598,17597,Skeena
+185,Lake Sockeye,2019,21984,27545,Skeena
+185,Lake Sockeye,2020,17959,21254,Skeena
+185,Lake Sockeye,2021,67366,85589,Skeena
+185,Lake Sockeye,2022,15970,19789,Skeena
+185,Lake Sockeye,2023,19165,24742,Skeena
+186,Lake Sockeye,1950,NA,NA,Skeena
+186,Lake Sockeye,1951,NA,NA,Skeena
+186,Lake Sockeye,1952,NA,NA,Skeena
+186,Lake Sockeye,1953,NA,NA,Skeena
+186,Lake Sockeye,1954,NA,NA,Skeena
+186,Lake Sockeye,1955,NA,NA,Skeena
+186,Lake Sockeye,1956,NA,NA,Skeena
+186,Lake Sockeye,1957,NA,NA,Skeena
+186,Lake Sockeye,1958,NA,NA,Skeena
+186,Lake Sockeye,1959,NA,NA,Skeena
+186,Lake Sockeye,1960,112920,285802,Skeena
+186,Lake Sockeye,1961,467457,1091075,Skeena
+186,Lake Sockeye,1962,354597,944637,Skeena
+186,Lake Sockeye,1963,193636,314003,Skeena
+186,Lake Sockeye,1964,396889,1002426,Skeena
+186,Lake Sockeye,1965,313242,643500,Skeena
+186,Lake Sockeye,1966,243131,843653,Skeena
+186,Lake Sockeye,1967,296655,1357524,Skeena
+186,Lake Sockeye,1968,267415,867021,Skeena
+186,Lake Sockeye,1969,345342,799844,Skeena
+186,Lake Sockeye,1970,327830,766895,Skeena
+186,Lake Sockeye,1971,436876,1151881,Skeena
+186,Lake Sockeye,1972,309504,850799,Skeena
+186,Lake Sockeye,1973,236140,811746,Skeena
+186,Lake Sockeye,1974,291444,1257265,Skeena
+186,Lake Sockeye,1975,118485,227030,Skeena
+186,Lake Sockeye,1976,163137,464299,Skeena
+186,Lake Sockeye,1977,199711,579923,Skeena
+186,Lake Sockeye,1978,57402,180466,Skeena
+186,Lake Sockeye,1979,357449,983405,Skeena
+186,Lake Sockeye,1980,197031,601220,Skeena
+186,Lake Sockeye,1981,113332,324185,Skeena
+186,Lake Sockeye,1982,159595,500316,Skeena
+186,Lake Sockeye,1983,103027,276437,Skeena
+186,Lake Sockeye,1984,204447,518473,Skeena
+186,Lake Sockeye,1985,623637,1522219,Skeena
+186,Lake Sockeye,1986,167437,449021,Skeena
+186,Lake Sockeye,1987,237400,452550,Skeena
+186,Lake Sockeye,1988,241974,682152,Skeena
+186,Lake Sockeye,1989,132563,349804,Skeena
+186,Lake Sockeye,1990,198864,625881,Skeena
+186,Lake Sockeye,1991,432582,1407904,Skeena
+186,Lake Sockeye,1992,582914,2072984,Skeena
+186,Lake Sockeye,1993,595377,1751647,Skeena
+186,Lake Sockeye,1994,132299,431781,Skeena
+186,Lake Sockeye,1995,69506,228172,Skeena
+186,Lake Sockeye,1996,143305,496346,Skeena
+186,Lake Sockeye,1997,129975,469194,Skeena
+186,Lake Sockeye,1998,97880,224532,Skeena
+186,Lake Sockeye,1999,155040,227493,Skeena
+186,Lake Sockeye,2000,185020,484082,Skeena
+186,Lake Sockeye,2001,617401,1653285,Skeena
+186,Lake Sockeye,2002,130726,277761,Skeena
+186,Lake Sockeye,2003,99284,168747,Skeena
+186,Lake Sockeye,2004,249231,489038,Skeena
+186,Lake Sockeye,2005,163178,262325,Skeena
+186,Lake Sockeye,2006,137660,258172,Skeena
+186,Lake Sockeye,2007,100762,287810,Skeena
+186,Lake Sockeye,2008,93158,230479,Skeena
+186,Lake Sockeye,2009,93791,139618,Skeena
+186,Lake Sockeye,2010,74126,111196,Skeena
+186,Lake Sockeye,2011,152998,299248,Skeena
+186,Lake Sockeye,2012,112218,189511,Skeena
+186,Lake Sockeye,2013,39602,51984,Skeena
+186,Lake Sockeye,2014,133779,241920,Skeena
+186,Lake Sockeye,2015,140168,218351,Skeena
+186,Lake Sockeye,2016,164716,336578,Skeena
+186,Lake Sockeye,2017,84732,110559,Skeena
+186,Lake Sockeye,2018,192388,271048,Skeena
+186,Lake Sockeye,2019,85919,158875,Skeena
+186,Lake Sockeye,2020,47770,67563,Skeena
+186,Lake Sockeye,2021,31758,71565,Skeena
+186,Lake Sockeye,2022,38249,63485,Skeena
+186,Lake Sockeye,2023,42969,66896,Skeena
+187,Lake Sockeye,1950,NA,NA,Skeena
+187,Lake Sockeye,1951,NA,NA,Skeena
+187,Lake Sockeye,1952,NA,NA,Skeena
+187,Lake Sockeye,1953,NA,NA,Skeena
+187,Lake Sockeye,1954,NA,NA,Skeena
+187,Lake Sockeye,1955,NA,NA,Skeena
+187,Lake Sockeye,1956,NA,NA,Skeena
+187,Lake Sockeye,1957,NA,NA,Skeena
+187,Lake Sockeye,1958,NA,NA,Skeena
+187,Lake Sockeye,1959,NA,NA,Skeena
+187,Lake Sockeye,1960,10893,21340,Skeena
+187,Lake Sockeye,1961,2655,4941,Skeena
+187,Lake Sockeye,1962,4,7,Skeena
+187,Lake Sockeye,1963,12402,17979,Skeena
+187,Lake Sockeye,1964,10055,19672,Skeena
+187,Lake Sockeye,1965,5028,8599,Skeena
+187,Lake Sockeye,1966,10055,23718,Skeena
+187,Lake Sockeye,1967,15083,41033,Skeena
+187,Lake Sockeye,1968,12392,28141,Skeena
+187,Lake Sockeye,1969,16759,31027,Skeena
+187,Lake Sockeye,1970,13072,24357,Skeena
+187,Lake Sockeye,1971,16759,33675,Skeena
+187,Lake Sockeye,1972,16759,34545,Skeena
+187,Lake Sockeye,1973,14245,33427,Skeena
+187,Lake Sockeye,1974,14245,37653,Skeena
+187,Lake Sockeye,1975,14245,23235,Skeena
+187,Lake Sockeye,1976,1425,2998,Skeena
+187,Lake Sockeye,1977,13072,27847,Skeena
+187,Lake Sockeye,1978,708,1580,Skeena
+187,Lake Sockeye,1979,16759,34562,Skeena
+187,Lake Sockeye,1980,12569,27567,Skeena
+187,Lake Sockeye,1981,16759,35383,Skeena
+187,Lake Sockeye,1982,23462,59133,Skeena
+187,Lake Sockeye,1983,,,Skeena
+187,Lake Sockeye,1984,20111,36573,Skeena
+187,Lake Sockeye,1985,25809,52784,Skeena
+187,Lake Sockeye,1986,20111,39897,Skeena
+187,Lake Sockeye,1987,30166,46538,Skeena
+187,Lake Sockeye,1988,30166,71718,Skeena
+187,Lake Sockeye,1989,18435,36370,Skeena
+187,Lake Sockeye,1990,20111,42343,Skeena
+187,Lake Sockeye,1991,25138,57759,Skeena
+187,Lake Sockeye,1992,36870,87337,Skeena
+187,Lake Sockeye,1993,30166,68386,Skeena
+187,Lake Sockeye,1994,14162,29662,Skeena
+187,Lake Sockeye,1995,14748,37761,Skeena
+187,Lake Sockeye,1996,13742,40264,Skeena
+187,Lake Sockeye,1997,4249,13211,Skeena
+187,Lake Sockeye,1998,,,Skeena
+187,Lake Sockeye,1999,26321,33776,Skeena
+187,Lake Sockeye,2000,,,Skeena
+187,Lake Sockeye,2001,29796,51751,Skeena
+187,Lake Sockeye,2002,12944,24012,Skeena
+187,Lake Sockeye,2003,24306,35169,Skeena
+187,Lake Sockeye,2004,22855,33328,Skeena
+187,Lake Sockeye,2005,12961,17163,Skeena
+187,Lake Sockeye,2006,32263,53570,Skeena
+187,Lake Sockeye,2007,11709,19794,Skeena
+187,Lake Sockeye,2008,23151,36201,Skeena
+187,Lake Sockeye,2009,26990,32003,Skeena
+187,Lake Sockeye,2010,6517,8141,Skeena
+187,Lake Sockeye,2011,10761,15719,Skeena
+187,Lake Sockeye,2012,15674,21942,Skeena
+187,Lake Sockeye,2013,6665,7862,Skeena
+187,Lake Sockeye,2014,8660,11862,Skeena
+187,Lake Sockeye,2015,29479,36713,Skeena
+187,Lake Sockeye,2016,20164,30792,Skeena
+187,Lake Sockeye,2017,9833,10631,Skeena
+187,Lake Sockeye,2018,8057,9205,Skeena
+187,Lake Sockeye,2019,10292,13227,Skeena
+187,Lake Sockeye,2020,13983,16362,Skeena
+187,Lake Sockeye,2021,9954,13912,Skeena
+187,Lake Sockeye,2022,7603,9831,Skeena
+187,Lake Sockeye,2023,20340,25951,Skeena
+188,Lake Sockeye,1950,NA,NA,Skeena
+188,Lake Sockeye,1951,NA,NA,Skeena
+188,Lake Sockeye,1952,NA,NA,Skeena
+188,Lake Sockeye,1953,NA,NA,Skeena
+188,Lake Sockeye,1954,NA,NA,Skeena
+188,Lake Sockeye,1955,NA,NA,Skeena
+188,Lake Sockeye,1956,NA,NA,Skeena
+188,Lake Sockeye,1957,NA,NA,Skeena
+188,Lake Sockeye,1958,NA,NA,Skeena
+188,Lake Sockeye,1959,NA,NA,Skeena
+188,Lake Sockeye,1960,NA,NA,Skeena
+188,Lake Sockeye,1961,NA,NA,Skeena
+188,Lake Sockeye,1962,NA,NA,Skeena
+188,Lake Sockeye,1963,NA,NA,Skeena
+188,Lake Sockeye,1964,NA,NA,Skeena
+188,Lake Sockeye,1965,NA,NA,Skeena
+188,Lake Sockeye,1966,NA,NA,Skeena
+188,Lake Sockeye,1967,NA,NA,Skeena
+188,Lake Sockeye,1968,NA,NA,Skeena
+188,Lake Sockeye,1969,NA,NA,Skeena
+188,Lake Sockeye,1970,NA,NA,Skeena
+188,Lake Sockeye,1971,NA,NA,Skeena
+188,Lake Sockeye,1972,NA,NA,Skeena
+188,Lake Sockeye,1973,NA,NA,Skeena
+188,Lake Sockeye,1974,NA,NA,Skeena
+188,Lake Sockeye,1975,NA,NA,Skeena
+188,Lake Sockeye,1976,NA,NA,Skeena
+188,Lake Sockeye,1977,NA,NA,Skeena
+188,Lake Sockeye,1978,NA,NA,Skeena
+188,Lake Sockeye,1979,NA,NA,Skeena
+188,Lake Sockeye,1980,NA,NA,Skeena
+188,Lake Sockeye,1981,NA,NA,Skeena
+188,Lake Sockeye,1982,NA,NA,Skeena
+188,Lake Sockeye,1983,NA,NA,Skeena
+188,Lake Sockeye,1984,NA,NA,Skeena
+188,Lake Sockeye,1985,NA,NA,Skeena
+188,Lake Sockeye,1986,NA,NA,Skeena
+188,Lake Sockeye,1987,NA,NA,Skeena
+188,Lake Sockeye,1988,NA,NA,Skeena
+188,Lake Sockeye,1989,NA,NA,Skeena
+188,Lake Sockeye,1990,NA,NA,Skeena
+188,Lake Sockeye,1991,NA,NA,Skeena
+188,Lake Sockeye,1992,NA,NA,Skeena
+188,Lake Sockeye,1993,NA,NA,Skeena
+188,Lake Sockeye,1994,NA,NA,Skeena
+188,Lake Sockeye,1995,NA,NA,Skeena
+188,Lake Sockeye,1996,NA,NA,Skeena
+188,Lake Sockeye,1997,NA,NA,Skeena
+188,Lake Sockeye,1998,NA,NA,Skeena
+188,Lake Sockeye,1999,NA,NA,Skeena
+188,Lake Sockeye,2000,NA,NA,Skeena
+188,Lake Sockeye,2001,NA,NA,Skeena
+188,Lake Sockeye,2002,NA,NA,Skeena
+188,Lake Sockeye,2003,NA,NA,Skeena
+188,Lake Sockeye,2004,NA,NA,Skeena
+188,Lake Sockeye,2005,NA,NA,Skeena
+188,Lake Sockeye,2006,NA,NA,Skeena
+188,Lake Sockeye,2007,NA,NA,Skeena
+188,Lake Sockeye,2008,NA,NA,Skeena
+188,Lake Sockeye,2009,NA,NA,Skeena
+188,Lake Sockeye,2010,NA,NA,Skeena
+188,Lake Sockeye,2011,NA,NA,Skeena
+188,Lake Sockeye,2012,NA,NA,Skeena
+188,Lake Sockeye,2013,NA,NA,Skeena
+188,Lake Sockeye,2014,NA,NA,Skeena
+188,Lake Sockeye,2015,NA,NA,Skeena
+188,Lake Sockeye,2016,NA,NA,Skeena
+188,Lake Sockeye,2017,NA,NA,Skeena
+188,Lake Sockeye,2018,NA,NA,Skeena
+188,Lake Sockeye,2019,NA,NA,Skeena
+188,Lake Sockeye,2020,NA,NA,Skeena
+189,Lake Sockeye,1950,NA,NA,Skeena
+189,Lake Sockeye,1951,NA,NA,Skeena
+189,Lake Sockeye,1952,NA,NA,Skeena
+189,Lake Sockeye,1953,NA,NA,Skeena
+189,Lake Sockeye,1954,NA,NA,Skeena
+189,Lake Sockeye,1955,NA,NA,Skeena
+189,Lake Sockeye,1956,NA,NA,Skeena
+189,Lake Sockeye,1957,NA,NA,Skeena
+189,Lake Sockeye,1958,NA,NA,Skeena
+189,Lake Sockeye,1959,NA,NA,Skeena
+189,Lake Sockeye,1960,12298,27636,Skeena
+189,Lake Sockeye,1961,33657,70768,Skeena
+189,Lake Sockeye,1962,16828,39417,Skeena
+189,Lake Sockeye,1963,56280,86813,Skeena
+189,Lake Sockeye,1964,35960,80669,Skeena
+189,Lake Sockeye,1965,11094,20967,Skeena
+189,Lake Sockeye,1966,15196,43802,Skeena
+189,Lake Sockeye,1967,24201,85515,Skeena
+189,Lake Sockeye,1968,55410,151607,Skeena
+189,Lake Sockeye,1969,32575,68058,Skeena
+189,Lake Sockeye,1970,7423,15636,Skeena
+189,Lake Sockeye,1971,8381,19469,Skeena
+189,Lake Sockeye,1972,10277,24688,Skeena
+189,Lake Sockeye,1973,32179,92095,Skeena
+189,Lake Sockeye,1974,38189,129371,Skeena
+189,Lake Sockeye,1975,28686,51103,Skeena
+189,Lake Sockeye,1976,8022,19812,Skeena
+189,Lake Sockeye,1977,15573,39083,Skeena
+189,Lake Sockeye,1978,3931,10500,Skeena
+189,Lake Sockeye,1979,21765,52321,Skeena
+189,Lake Sockeye,1980,11166,29139,Skeena
+189,Lake Sockeye,1981,7178,17800,Skeena
+189,Lake Sockeye,1982,4827,14132,Skeena
+189,Lake Sockeye,1983,8904,19735,Skeena
+189,Lake Sockeye,1984,8065,17423,Skeena
+189,Lake Sockeye,1985,17229,38475,Skeena
+189,Lake Sockeye,1986,3874,9106,Skeena
+189,Lake Sockeye,1987,15786,27100,Skeena
+189,Lake Sockeye,1988,23459,61699,Skeena
+189,Lake Sockeye,1989,7701,17606,Skeena
+189,Lake Sockeye,1990,7395,18940,Skeena
+189,Lake Sockeye,1991,24980,68067,Skeena
+189,Lake Sockeye,1992,8426,24455,Skeena
+189,Lake Sockeye,1993,21962,60657,Skeena
+189,Lake Sockeye,1994,7560,19981,Skeena
+189,Lake Sockeye,1995,6555,19819,Skeena
+189,Lake Sockeye,1996,7975,26708,Skeena
+189,Lake Sockeye,1997,34660,125116,Skeena
+189,Lake Sockeye,1998,16545,33507,Skeena
+189,Lake Sockeye,1999,22946,32221,Skeena
+189,Lake Sockeye,2000,19982,52638,Skeena
+189,Lake Sockeye,2001,47818,114318,Skeena
+189,Lake Sockeye,2002,24573,51464,Skeena
+189,Lake Sockeye,2003,83151,134065,Skeena
+189,Lake Sockeye,2004,51747,89432,Skeena
+189,Lake Sockeye,2005,31371,48651,Skeena
+189,Lake Sockeye,2006,12515,25068,Skeena
+189,Lake Sockeye,2007,12595,27940,Skeena
+189,Lake Sockeye,2008,12744,27725,Skeena
+189,Lake Sockeye,2009,18341,25775,Skeena
+189,Lake Sockeye,2010,6065,8865,Skeena
+189,Lake Sockeye,2011,43110,76522,Skeena
+189,Lake Sockeye,2012,82348,134147,Skeena
+189,Lake Sockeye,2013,7960,10169,Skeena
+189,Lake Sockeye,2014,14701,23862,Skeena
+189,Lake Sockeye,2015,68421,97410,Skeena
+189,Lake Sockeye,2016,39540,74739,Skeena
+189,Lake Sockeye,2017,21094,25092,Skeena
+189,Lake Sockeye,2018,2720,3478,Skeena
+189,Lake Sockeye,2019,10482,16102,Skeena
+189,Lake Sockeye,2020,61686,80787,Skeena
+189,Lake Sockeye,2021,5158,9311,Skeena
+189,Lake Sockeye,2022,17343,25685,Skeena
+189,Lake Sockeye,2023,1894,2716,Skeena
+190,Lake Sockeye,1950,NA,NA,Skeena
+190,Lake Sockeye,1951,NA,NA,Skeena
+190,Lake Sockeye,1952,NA,NA,Skeena
+190,Lake Sockeye,1953,NA,NA,Skeena
+190,Lake Sockeye,1954,NA,NA,Skeena
+190,Lake Sockeye,1955,NA,NA,Skeena
+190,Lake Sockeye,1956,NA,NA,Skeena
+190,Lake Sockeye,1957,NA,NA,Skeena
+190,Lake Sockeye,1958,NA,NA,Skeena
+190,Lake Sockeye,1959,NA,NA,Skeena
+190,Lake Sockeye,1960,,,Skeena
+190,Lake Sockeye,1961,600,1257,Skeena
+190,Lake Sockeye,1962,,,Skeena
+190,Lake Sockeye,1963,,,Skeena
+190,Lake Sockeye,1964,500,1117,Skeena
+190,Lake Sockeye,1965,,,Skeena
+190,Lake Sockeye,1966,600,1719,Skeena
+190,Lake Sockeye,1967,,,Skeena
+190,Lake Sockeye,1968,600,1633,Skeena
+190,Lake Sockeye,1969,,,Skeena
+190,Lake Sockeye,1970,100,210,Skeena
+190,Lake Sockeye,1971,,,Skeena
+190,Lake Sockeye,1972,100,239,Skeena
+190,Lake Sockeye,1973,600,1707,Skeena
+190,Lake Sockeye,1974,2,7,Skeena
+190,Lake Sockeye,1975,,,Skeena
+190,Lake Sockeye,1976,,,Skeena
+190,Lake Sockeye,1977,,,Skeena
+190,Lake Sockeye,1978,600,1594,Skeena
+190,Lake Sockeye,1979,100,239,Skeena
+190,Lake Sockeye,1980,100,260,Skeena
+190,Lake Sockeye,1981,,,Skeena
+190,Lake Sockeye,1982,,,Skeena
+190,Lake Sockeye,1983,,,Skeena
+190,Lake Sockeye,1984,,,Skeena
+190,Lake Sockeye,1985,,,Skeena
+190,Lake Sockeye,1986,,,Skeena
+190,Lake Sockeye,1987,100,171,Skeena
+190,Lake Sockeye,1988,,,Skeena
+190,Lake Sockeye,1989,,,Skeena
+190,Lake Sockeye,1990,260,661,Skeena
+190,Lake Sockeye,1991,,,Skeena
+190,Lake Sockeye,1992,800,2211,Skeena
+190,Lake Sockeye,1993,700,1729,Skeena
+190,Lake Sockeye,1994,,,Skeena
+190,Lake Sockeye,1995,,,Skeena
+190,Lake Sockeye,1996,,,Skeena
+190,Lake Sockeye,1997,,,Skeena
+190,Lake Sockeye,1998,,,Skeena
+190,Lake Sockeye,1999,406,550,Skeena
+190,Lake Sockeye,2000,505,1268,Skeena
+190,Lake Sockeye,2001,1164,2331,Skeena
+190,Lake Sockeye,2002,,,Skeena
+190,Lake Sockeye,2003,1067,1682,Skeena
+190,Lake Sockeye,2004,,,Skeena
+190,Lake Sockeye,2005,267,401,Skeena
+190,Lake Sockeye,2006,88,152,Skeena
+190,Lake Sockeye,2007,293,623,Skeena
+190,Lake Sockeye,2008,95,175,Skeena
+190,Lake Sockeye,2009,780,1006,Skeena
+190,Lake Sockeye,2010,1311,1775,Skeena
+190,Lake Sockeye,2011,1381,2264,Skeena
+190,Lake Sockeye,2012,2860,4279,Skeena
+190,Lake Sockeye,2013,550,699,Skeena
+190,Lake Sockeye,2014,4832,7482,Skeena
+190,Lake Sockeye,2015,1257,1742,Skeena
+190,Lake Sockeye,2016,1134,1969,Skeena
+190,Lake Sockeye,2017,329,390,Skeena
+190,Lake Sockeye,2018,1124,1396,Skeena
+190,Lake Sockeye,2019,1319,2007,Skeena
+190,Lake Sockeye,2020,112,142,Skeena
+190,Lake Sockeye,2021,1496,2698,Skeena
+190,Lake Sockeye,2022,448,641,Skeena
+190,Lake Sockeye,2023,192,269,Skeena
+191,Lake Sockeye,1950,NA,NA,Skeena
+191,Lake Sockeye,1951,NA,NA,Skeena
+191,Lake Sockeye,1952,NA,NA,Skeena
+191,Lake Sockeye,1953,NA,NA,Skeena
+191,Lake Sockeye,1954,NA,NA,Skeena
+191,Lake Sockeye,1955,NA,NA,Skeena
+191,Lake Sockeye,1956,NA,NA,Skeena
+191,Lake Sockeye,1957,NA,NA,Skeena
+191,Lake Sockeye,1958,NA,NA,Skeena
+191,Lake Sockeye,1959,NA,NA,Skeena
+191,Lake Sockeye,1960,3000,6715,Skeena
+191,Lake Sockeye,1961,1178,2468,Skeena
+191,Lake Sockeye,1962,3000,6997,Skeena
+191,Lake Sockeye,1963,8000,12319,Skeena
+191,Lake Sockeye,1964,6000,13407,Skeena
+191,Lake Sockeye,1965,400,754,Skeena
+191,Lake Sockeye,1966,400,1146,Skeena
+191,Lake Sockeye,1967,300,1052,Skeena
+191,Lake Sockeye,1968,400,1088,Skeena
+191,Lake Sockeye,1969,,,Skeena
+191,Lake Sockeye,1970,100,210,Skeena
+191,Lake Sockeye,1971,,,Skeena
+191,Lake Sockeye,1972,,,Skeena
+191,Lake Sockeye,1973,4000,11381,Skeena
+191,Lake Sockeye,1974,,,Skeena
+191,Lake Sockeye,1975,2100,3732,Skeena
+191,Lake Sockeye,1976,200,492,Skeena
+191,Lake Sockeye,1977,,,Skeena
+191,Lake Sockeye,1978,2000,5315,Skeena
+191,Lake Sockeye,1979,,,Skeena
+191,Lake Sockeye,1980,1500,3895,Skeena
+191,Lake Sockeye,1981,400,987,Skeena
+191,Lake Sockeye,1982,,,Skeena
+191,Lake Sockeye,1983,,,Skeena
+191,Lake Sockeye,1984,600,1284,Skeena
+191,Lake Sockeye,1985,2000,4460,Skeena
+191,Lake Sockeye,1986,2000,4621,Skeena
+191,Lake Sockeye,1987,8000,13665,Skeena
+191,Lake Sockeye,1988,6000,15668,Skeena
+191,Lake Sockeye,1989,1400,3226,Skeena
+191,Lake Sockeye,1990,2000,5083,Skeena
+191,Lake Sockeye,1991,6800,18491,Skeena
+191,Lake Sockeye,1992,4200,11605,Skeena
+191,Lake Sockeye,1993,5000,12352,Skeena
+191,Lake Sockeye,1994,,,Skeena
+191,Lake Sockeye,1995,8000,23736,Skeena
+191,Lake Sockeye,1996,4500,14324,Skeena
+191,Lake Sockeye,1997,3600,11949,Skeena
+191,Lake Sockeye,1998,3600,7277,Skeena
+191,Lake Sockeye,1999,6176,8360,Skeena
+191,Lake Sockeye,2000,1078,2710,Skeena
+191,Lake Sockeye,2001,2753,5511,Skeena
+191,Lake Sockeye,2002,316,630,Skeena
+191,Lake Sockeye,2003,3228,5087,Skeena
+191,Lake Sockeye,2004,865,1463,Skeena
+191,Lake Sockeye,2005,325,489,Skeena
+191,Lake Sockeye,2006,1025,1770,Skeena
+191,Lake Sockeye,2007,548,1165,Skeena
+191,Lake Sockeye,2008,6625,12183,Skeena
+191,Lake Sockeye,2009,2769,3568,Skeena
+191,Lake Sockeye,2010,,,Skeena
+191,Lake Sockeye,2011,7899,12953,Skeena
+191,Lake Sockeye,2012,8600,12868,Skeena
+191,Lake Sockeye,2013,800,1017,Skeena
+191,Lake Sockeye,2014,4582,7096,Skeena
+191,Lake Sockeye,2015,1514,2098,Skeena
+191,Lake Sockeye,2016,3100,5380,Skeena
+191,Lake Sockeye,2017,13786,16331,Skeena
+191,Lake Sockeye,2018,7984,9921,Skeena
+191,Lake Sockeye,2019,3920,5966,Skeena
+191,Lake Sockeye,2020,6110,7732,Skeena
+191,Lake Sockeye,2021,2892,5215,Skeena
+191,Lake Sockeye,2022,2452,3507,Skeena
+191,Lake Sockeye,2023,2204,3084,Skeena
+192,Lake Sockeye,1950,NA,NA,Skeena
+192,Lake Sockeye,1951,NA,NA,Skeena
+192,Lake Sockeye,1952,NA,NA,Skeena
+192,Lake Sockeye,1953,NA,NA,Skeena
+192,Lake Sockeye,1954,NA,NA,Skeena
+192,Lake Sockeye,1955,NA,NA,Skeena
+192,Lake Sockeye,1956,NA,NA,Skeena
+192,Lake Sockeye,1957,NA,NA,Skeena
+192,Lake Sockeye,1958,NA,NA,Skeena
+192,Lake Sockeye,1959,NA,NA,Skeena
+192,Lake Sockeye,1960,808,1808,Skeena
+192,Lake Sockeye,1961,2110,4421,Skeena
+192,Lake Sockeye,1962,2020,4710,Skeena
+192,Lake Sockeye,1963,1954,3009,Skeena
+192,Lake Sockeye,1964,1814,4054,Skeena
+192,Lake Sockeye,1965,2233,4208,Skeena
+192,Lake Sockeye,1966,907,2599,Skeena
+192,Lake Sockeye,1967,2020,7079,Skeena
+192,Lake Sockeye,1968,2020,5495,Skeena
+192,Lake Sockeye,1969,,,Skeena
+192,Lake Sockeye,1970,1535,3223,Skeena
+192,Lake Sockeye,1971,594,1375,Skeena
+192,Lake Sockeye,1972,10400,24872,Skeena
+192,Lake Sockeye,1973,14857,42270,Skeena
+192,Lake Sockeye,1974,,,Skeena
+192,Lake Sockeye,1975,149,264,Skeena
+192,Lake Sockeye,1976,,,Skeena
+192,Lake Sockeye,1977,,,Skeena
+192,Lake Sockeye,1978,698,1854,Skeena
+192,Lake Sockeye,1979,2303,5511,Skeena
+192,Lake Sockeye,1980,483,1253,Skeena
+192,Lake Sockeye,1981,614,1516,Skeena
+192,Lake Sockeye,1982,,,Skeena
+192,Lake Sockeye,1983,,,Skeena
+192,Lake Sockeye,1984,,,Skeena
+192,Lake Sockeye,1985,643,1435,Skeena
+192,Lake Sockeye,1986,,,Skeena
+192,Lake Sockeye,1987,3217,5495,Skeena
+192,Lake Sockeye,1988,965,2520,Skeena
+192,Lake Sockeye,1989,207,476,Skeena
+192,Lake Sockeye,1990,193,490,Skeena
+192,Lake Sockeye,1991,483,1312,Skeena
+192,Lake Sockeye,1992,643,1778,Skeena
+192,Lake Sockeye,1993,322,795,Skeena
+192,Lake Sockeye,1994,,,Skeena
+192,Lake Sockeye,1995,2573,7635,Skeena
+192,Lake Sockeye,1996,1930,6144,Skeena
+192,Lake Sockeye,1997,32,107,Skeena
+192,Lake Sockeye,1998,129,260,Skeena
+192,Lake Sockeye,1999,3244,4392,Skeena
+192,Lake Sockeye,2000,2542,6387,Skeena
+192,Lake Sockeye,2001,7795,15603,Skeena
+192,Lake Sockeye,2002,,,Skeena
+192,Lake Sockeye,2003,16441,25914,Skeena
+192,Lake Sockeye,2004,7252,12264,Skeena
+192,Lake Sockeye,2005,881,1324,Skeena
+192,Lake Sockeye,2006,1152,1989,Skeena
+192,Lake Sockeye,2007,,,Skeena
+192,Lake Sockeye,2008,,,Skeena
+192,Lake Sockeye,2009,6011,7745,Skeena
+192,Lake Sockeye,2010,6105,8266,Skeena
+192,Lake Sockeye,2011,5634,9238,Skeena
+192,Lake Sockeye,2012,,,Skeena
+192,Lake Sockeye,2013,7003,8903,Skeena
+192,Lake Sockeye,2014,13119,20316,Skeena
+192,Lake Sockeye,2015,9889,13698,Skeena
+192,Lake Sockeye,2016,15302,26558,Skeena
+192,Lake Sockeye,2017,,,Skeena
+192,Lake Sockeye,2018,10737,13340,Skeena
+192,Lake Sockeye,2019,3789,5767,Skeena
+192,Lake Sockeye,2020,9649,12211,Skeena
+192,Lake Sockeye,2021,1294,2334,Skeena
+192,Lake Sockeye,2022,,,Skeena
+192,Lake Sockeye,2023,1170,1638,Skeena
+193,Lake Sockeye,1950,NA,NA,Skeena
+193,Lake Sockeye,1951,NA,NA,Skeena
+193,Lake Sockeye,1952,NA,NA,Skeena
+193,Lake Sockeye,1953,NA,NA,Skeena
+193,Lake Sockeye,1954,NA,NA,Skeena
+193,Lake Sockeye,1955,NA,NA,Skeena
+193,Lake Sockeye,1956,NA,NA,Skeena
+193,Lake Sockeye,1957,NA,NA,Skeena
+193,Lake Sockeye,1958,NA,NA,Skeena
+193,Lake Sockeye,1959,NA,NA,Skeena
+193,Lake Sockeye,1960,NA,NA,Skeena
+193,Lake Sockeye,1961,NA,NA,Skeena
+193,Lake Sockeye,1962,NA,NA,Skeena
+193,Lake Sockeye,1963,NA,NA,Skeena
+193,Lake Sockeye,1964,NA,NA,Skeena
+193,Lake Sockeye,1965,NA,NA,Skeena
+193,Lake Sockeye,1966,NA,NA,Skeena
+193,Lake Sockeye,1967,NA,NA,Skeena
+193,Lake Sockeye,1968,NA,NA,Skeena
+193,Lake Sockeye,1969,NA,NA,Skeena
+193,Lake Sockeye,1970,NA,NA,Skeena
+193,Lake Sockeye,1971,NA,NA,Skeena
+193,Lake Sockeye,1972,NA,NA,Skeena
+193,Lake Sockeye,1973,NA,NA,Skeena
+193,Lake Sockeye,1974,NA,NA,Skeena
+193,Lake Sockeye,1975,NA,NA,Skeena
+193,Lake Sockeye,1976,NA,NA,Skeena
+193,Lake Sockeye,1977,NA,NA,Skeena
+193,Lake Sockeye,1978,NA,NA,Skeena
+193,Lake Sockeye,1979,NA,NA,Skeena
+193,Lake Sockeye,1980,NA,NA,Skeena
+193,Lake Sockeye,1981,NA,NA,Skeena
+193,Lake Sockeye,1982,NA,NA,Skeena
+193,Lake Sockeye,1983,NA,NA,Skeena
+193,Lake Sockeye,1984,NA,NA,Skeena
+193,Lake Sockeye,1985,NA,NA,Skeena
+193,Lake Sockeye,1986,NA,NA,Skeena
+193,Lake Sockeye,1987,NA,NA,Skeena
+193,Lake Sockeye,1988,NA,NA,Skeena
+193,Lake Sockeye,1989,NA,NA,Skeena
+193,Lake Sockeye,1990,NA,NA,Skeena
+193,Lake Sockeye,1991,NA,NA,Skeena
+193,Lake Sockeye,1992,NA,NA,Skeena
+193,Lake Sockeye,1993,NA,NA,Skeena
+193,Lake Sockeye,1994,NA,NA,Skeena
+193,Lake Sockeye,1995,NA,NA,Skeena
+193,Lake Sockeye,1996,NA,NA,Skeena
+193,Lake Sockeye,1997,NA,NA,Skeena
+193,Lake Sockeye,1998,NA,NA,Skeena
+193,Lake Sockeye,1999,NA,NA,Skeena
+193,Lake Sockeye,2000,949,2227,Skeena
+193,Lake Sockeye,2001,855,1612,Skeena
+193,Lake Sockeye,2002,398,753,Skeena
+193,Lake Sockeye,2003,430,687,Skeena
+193,Lake Sockeye,2004,293,507,Skeena
+193,Lake Sockeye,2005,216,333,Skeena
+193,Lake Sockeye,2006,331,539,Skeena
+193,Lake Sockeye,2007,366,848,Skeena
+193,Lake Sockeye,2008,150,280,Skeena
+193,Lake Sockeye,2009,161,216,Skeena
+193,Lake Sockeye,2010,740,1035,Skeena
+193,Lake Sockeye,2011,687,1135,Skeena
+193,Lake Sockeye,2012,940,1428,Skeena
+193,Lake Sockeye,2013,93,124,Skeena
+193,Lake Sockeye,2014,401,636,Skeena
+193,Lake Sockeye,2015,1281,1791,Skeena
+193,Lake Sockeye,2016,267,473,Skeena
+193,Lake Sockeye,2017,366,453,Skeena
+193,Lake Sockeye,2018,333,432,Skeena
+193,Lake Sockeye,2019,,,Skeena
+193,Lake Sockeye,2020,352,445,Skeena
+193,Lake Sockeye,2021,295,591,Skeena
+193,Lake Sockeye,2022,502,725,Skeena
+193,Lake Sockeye,2023,323,455,Skeena
+194,Lake Sockeye,1950,NA,NA,Skeena
+194,Lake Sockeye,1951,NA,NA,Skeena
+194,Lake Sockeye,1952,NA,NA,Skeena
+194,Lake Sockeye,1953,NA,NA,Skeena
+194,Lake Sockeye,1954,NA,NA,Skeena
+194,Lake Sockeye,1955,NA,NA,Skeena
+194,Lake Sockeye,1956,NA,NA,Skeena
+194,Lake Sockeye,1957,NA,NA,Skeena
+194,Lake Sockeye,1958,NA,NA,Skeena
+194,Lake Sockeye,1959,NA,NA,Skeena
+194,Lake Sockeye,1960,NA,NA,Skeena
+194,Lake Sockeye,1961,NA,NA,Skeena
+194,Lake Sockeye,1962,NA,NA,Skeena
+194,Lake Sockeye,1963,NA,NA,Skeena
+194,Lake Sockeye,1964,NA,NA,Skeena
+194,Lake Sockeye,1965,NA,NA,Skeena
+194,Lake Sockeye,1966,NA,NA,Skeena
+194,Lake Sockeye,1967,NA,NA,Skeena
+194,Lake Sockeye,1968,NA,NA,Skeena
+194,Lake Sockeye,1969,NA,NA,Skeena
+194,Lake Sockeye,1970,NA,NA,Skeena
+194,Lake Sockeye,1971,NA,NA,Skeena
+194,Lake Sockeye,1972,NA,NA,Skeena
+194,Lake Sockeye,1973,NA,NA,Skeena
+194,Lake Sockeye,1974,NA,NA,Skeena
+194,Lake Sockeye,1975,NA,NA,Skeena
+194,Lake Sockeye,1976,NA,NA,Skeena
+194,Lake Sockeye,1977,NA,NA,Skeena
+194,Lake Sockeye,1978,NA,NA,Skeena
+194,Lake Sockeye,1979,NA,NA,Skeena
+194,Lake Sockeye,1980,NA,NA,Skeena
+194,Lake Sockeye,1981,NA,NA,Skeena
+194,Lake Sockeye,1982,NA,NA,Skeena
+194,Lake Sockeye,1983,NA,NA,Skeena
+194,Lake Sockeye,1984,NA,NA,Skeena
+194,Lake Sockeye,1985,NA,NA,Skeena
+194,Lake Sockeye,1986,NA,NA,Skeena
+194,Lake Sockeye,1987,NA,NA,Skeena
+194,Lake Sockeye,1988,NA,NA,Skeena
+194,Lake Sockeye,1989,NA,NA,Skeena
+194,Lake Sockeye,1990,NA,NA,Skeena
+194,Lake Sockeye,1991,NA,NA,Skeena
+194,Lake Sockeye,1992,NA,NA,Skeena
+194,Lake Sockeye,1993,NA,NA,Skeena
+194,Lake Sockeye,1994,NA,NA,Skeena
+194,Lake Sockeye,1995,NA,NA,Skeena
+194,Lake Sockeye,1996,NA,NA,Skeena
+194,Lake Sockeye,1997,NA,NA,Skeena
+194,Lake Sockeye,1998,NA,NA,Skeena
+194,Lake Sockeye,1999,NA,NA,Skeena
+194,Lake Sockeye,2000,NA,NA,Skeena
+194,Lake Sockeye,2001,NA,NA,Skeena
+194,Lake Sockeye,2002,NA,NA,Skeena
+194,Lake Sockeye,2003,NA,NA,Skeena
+194,Lake Sockeye,2004,NA,NA,Skeena
+194,Lake Sockeye,2005,NA,NA,Skeena
+194,Lake Sockeye,2006,NA,NA,Skeena
+194,Lake Sockeye,2007,NA,NA,Skeena
+194,Lake Sockeye,2008,NA,NA,Skeena
+194,Lake Sockeye,2009,NA,NA,Skeena
+194,Lake Sockeye,2010,NA,NA,Skeena
+194,Lake Sockeye,2011,NA,NA,Skeena
+194,Lake Sockeye,2012,NA,NA,Skeena
+194,Lake Sockeye,2013,NA,NA,Skeena
+194,Lake Sockeye,2014,NA,NA,Skeena
+194,Lake Sockeye,2015,NA,NA,Skeena
+194,Lake Sockeye,2016,NA,NA,Skeena
+194,Lake Sockeye,2017,NA,NA,Skeena
+194,Lake Sockeye,2018,NA,NA,Skeena
+194,Lake Sockeye,2019,NA,NA,Skeena
+194,Lake Sockeye,2020,NA,NA,Skeena
+195,Lake Sockeye,1950,NA,NA,Skeena
+195,Lake Sockeye,1951,NA,NA,Skeena
+195,Lake Sockeye,1952,NA,NA,Skeena
+195,Lake Sockeye,1953,NA,NA,Skeena
+195,Lake Sockeye,1954,NA,NA,Skeena
+195,Lake Sockeye,1955,NA,NA,Skeena
+195,Lake Sockeye,1956,NA,NA,Skeena
+195,Lake Sockeye,1957,NA,NA,Skeena
+195,Lake Sockeye,1958,NA,NA,Skeena
+195,Lake Sockeye,1959,NA,NA,Skeena
+195,Lake Sockeye,1960,NA,NA,Skeena
+195,Lake Sockeye,1961,NA,NA,Skeena
+195,Lake Sockeye,1962,NA,NA,Skeena
+195,Lake Sockeye,1963,NA,NA,Skeena
+195,Lake Sockeye,1964,NA,NA,Skeena
+195,Lake Sockeye,1965,NA,NA,Skeena
+195,Lake Sockeye,1966,NA,NA,Skeena
+195,Lake Sockeye,1967,NA,NA,Skeena
+195,Lake Sockeye,1968,NA,NA,Skeena
+195,Lake Sockeye,1969,NA,NA,Skeena
+195,Lake Sockeye,1970,NA,NA,Skeena
+195,Lake Sockeye,1971,NA,NA,Skeena
+195,Lake Sockeye,1972,NA,NA,Skeena
+195,Lake Sockeye,1973,NA,NA,Skeena
+195,Lake Sockeye,1974,NA,NA,Skeena
+195,Lake Sockeye,1975,NA,NA,Skeena
+195,Lake Sockeye,1976,NA,NA,Skeena
+195,Lake Sockeye,1977,NA,NA,Skeena
+195,Lake Sockeye,1978,NA,NA,Skeena
+195,Lake Sockeye,1979,NA,NA,Skeena
+195,Lake Sockeye,1980,NA,NA,Skeena
+195,Lake Sockeye,1981,NA,NA,Skeena
+195,Lake Sockeye,1982,NA,NA,Skeena
+195,Lake Sockeye,1983,NA,NA,Skeena
+195,Lake Sockeye,1984,NA,NA,Skeena
+195,Lake Sockeye,1985,NA,NA,Skeena
+195,Lake Sockeye,1986,NA,NA,Skeena
+195,Lake Sockeye,1987,NA,NA,Skeena
+195,Lake Sockeye,1988,NA,NA,Skeena
+195,Lake Sockeye,1989,NA,NA,Skeena
+195,Lake Sockeye,1990,NA,NA,Skeena
+195,Lake Sockeye,1991,NA,NA,Skeena
+195,Lake Sockeye,1992,NA,NA,Skeena
+195,Lake Sockeye,1993,NA,NA,Skeena
+195,Lake Sockeye,1994,NA,NA,Skeena
+195,Lake Sockeye,1995,NA,NA,Skeena
+195,Lake Sockeye,1996,NA,NA,Skeena
+195,Lake Sockeye,1997,NA,NA,Skeena
+195,Lake Sockeye,1998,NA,NA,Skeena
+195,Lake Sockeye,1999,NA,NA,Skeena
+195,Lake Sockeye,2000,NA,NA,Skeena
+195,Lake Sockeye,2001,NA,NA,Skeena
+195,Lake Sockeye,2002,NA,NA,Skeena
+195,Lake Sockeye,2003,NA,NA,Skeena
+195,Lake Sockeye,2004,NA,NA,Skeena
+195,Lake Sockeye,2005,NA,NA,Skeena
+195,Lake Sockeye,2006,NA,NA,Skeena
+195,Lake Sockeye,2007,NA,NA,Skeena
+195,Lake Sockeye,2008,NA,NA,Skeena
+195,Lake Sockeye,2009,NA,NA,Skeena
+195,Lake Sockeye,2010,NA,NA,Skeena
+195,Lake Sockeye,2011,NA,NA,Skeena
+195,Lake Sockeye,2012,NA,NA,Skeena
+195,Lake Sockeye,2013,NA,NA,Skeena
+195,Lake Sockeye,2014,NA,NA,Skeena
+195,Lake Sockeye,2015,NA,NA,Skeena
+195,Lake Sockeye,2016,NA,NA,Skeena
+195,Lake Sockeye,2017,NA,NA,Skeena
+195,Lake Sockeye,2018,NA,NA,Skeena
+195,Lake Sockeye,2019,NA,NA,Skeena
+195,Lake Sockeye,2020,NA,NA,Skeena
+196,Lake Sockeye,1950,NA,NA,Skeena
+196,Lake Sockeye,1951,NA,NA,Skeena
+196,Lake Sockeye,1952,NA,NA,Skeena
+196,Lake Sockeye,1953,NA,NA,Skeena
+196,Lake Sockeye,1954,NA,NA,Skeena
+196,Lake Sockeye,1955,NA,NA,Skeena
+196,Lake Sockeye,1956,NA,NA,Skeena
+196,Lake Sockeye,1957,NA,NA,Skeena
+196,Lake Sockeye,1958,NA,NA,Skeena
+196,Lake Sockeye,1959,NA,NA,Skeena
+196,Lake Sockeye,1960,NA,NA,Skeena
+196,Lake Sockeye,1961,NA,NA,Skeena
+196,Lake Sockeye,1962,NA,NA,Skeena
+196,Lake Sockeye,1963,NA,NA,Skeena
+196,Lake Sockeye,1964,NA,NA,Skeena
+196,Lake Sockeye,1965,NA,NA,Skeena
+196,Lake Sockeye,1966,NA,NA,Skeena
+196,Lake Sockeye,1967,NA,NA,Skeena
+196,Lake Sockeye,1968,NA,NA,Skeena
+196,Lake Sockeye,1969,NA,NA,Skeena
+196,Lake Sockeye,1970,NA,NA,Skeena
+196,Lake Sockeye,1971,NA,NA,Skeena
+196,Lake Sockeye,1972,NA,NA,Skeena
+196,Lake Sockeye,1973,NA,NA,Skeena
+196,Lake Sockeye,1974,NA,NA,Skeena
+196,Lake Sockeye,1975,NA,NA,Skeena
+196,Lake Sockeye,1976,NA,NA,Skeena
+196,Lake Sockeye,1977,NA,NA,Skeena
+196,Lake Sockeye,1978,NA,NA,Skeena
+196,Lake Sockeye,1979,NA,NA,Skeena
+196,Lake Sockeye,1980,NA,NA,Skeena
+196,Lake Sockeye,1981,NA,NA,Skeena
+196,Lake Sockeye,1982,NA,NA,Skeena
+196,Lake Sockeye,1983,NA,NA,Skeena
+196,Lake Sockeye,1984,NA,NA,Skeena
+196,Lake Sockeye,1985,NA,NA,Skeena
+196,Lake Sockeye,1986,NA,NA,Skeena
+196,Lake Sockeye,1987,NA,NA,Skeena
+196,Lake Sockeye,1988,NA,NA,Skeena
+196,Lake Sockeye,1989,NA,NA,Skeena
+196,Lake Sockeye,1990,NA,NA,Skeena
+196,Lake Sockeye,1991,NA,NA,Skeena
+196,Lake Sockeye,1992,NA,NA,Skeena
+196,Lake Sockeye,1993,NA,NA,Skeena
+196,Lake Sockeye,1994,NA,NA,Skeena
+196,Lake Sockeye,1995,NA,NA,Skeena
+196,Lake Sockeye,1996,NA,NA,Skeena
+196,Lake Sockeye,1997,NA,NA,Skeena
+196,Lake Sockeye,1998,NA,NA,Skeena
+196,Lake Sockeye,1999,NA,NA,Skeena
+196,Lake Sockeye,2000,NA,NA,Skeena
+196,Lake Sockeye,2001,NA,NA,Skeena
+196,Lake Sockeye,2002,NA,NA,Skeena
+196,Lake Sockeye,2003,NA,NA,Skeena
+196,Lake Sockeye,2004,NA,NA,Skeena
+196,Lake Sockeye,2005,NA,NA,Skeena
+196,Lake Sockeye,2006,NA,NA,Skeena
+196,Lake Sockeye,2007,NA,NA,Skeena
+196,Lake Sockeye,2008,NA,NA,Skeena
+196,Lake Sockeye,2009,NA,NA,Skeena
+196,Lake Sockeye,2010,NA,NA,Skeena
+196,Lake Sockeye,2011,NA,NA,Skeena
+196,Lake Sockeye,2012,NA,NA,Skeena
+196,Lake Sockeye,2013,NA,NA,Skeena
+196,Lake Sockeye,2014,NA,NA,Skeena
+196,Lake Sockeye,2015,NA,NA,Skeena
+196,Lake Sockeye,2016,NA,NA,Skeena
+196,Lake Sockeye,2017,NA,NA,Skeena
+196,Lake Sockeye,2018,NA,NA,Skeena
+196,Lake Sockeye,2019,NA,NA,Skeena
+196,Lake Sockeye,2020,NA,NA,Skeena
+197,Lake Sockeye,1950,NA,NA,Skeena
+197,Lake Sockeye,1951,NA,NA,Skeena
+197,Lake Sockeye,1952,NA,NA,Skeena
+197,Lake Sockeye,1953,NA,NA,Skeena
+197,Lake Sockeye,1954,NA,NA,Skeena
+197,Lake Sockeye,1955,NA,NA,Skeena
+197,Lake Sockeye,1956,NA,NA,Skeena
+197,Lake Sockeye,1957,NA,NA,Skeena
+197,Lake Sockeye,1958,NA,NA,Skeena
+197,Lake Sockeye,1959,NA,NA,Skeena
+197,Lake Sockeye,1960,NA,NA,Skeena
+197,Lake Sockeye,1961,NA,NA,Skeena
+197,Lake Sockeye,1962,NA,NA,Skeena
+197,Lake Sockeye,1963,NA,NA,Skeena
+197,Lake Sockeye,1964,NA,NA,Skeena
+197,Lake Sockeye,1965,NA,NA,Skeena
+197,Lake Sockeye,1966,NA,NA,Skeena
+197,Lake Sockeye,1967,NA,NA,Skeena
+197,Lake Sockeye,1968,NA,NA,Skeena
+197,Lake Sockeye,1969,NA,NA,Skeena
+197,Lake Sockeye,1970,1600,3590,Skeena
+197,Lake Sockeye,1971,,,Skeena
+197,Lake Sockeye,1972,600,1562,Skeena
+197,Lake Sockeye,1973,6000,19140,Skeena
+197,Lake Sockeye,1974,,,Skeena
+197,Lake Sockeye,1975,66,123,Skeena
+197,Lake Sockeye,1976,,,Skeena
+197,Lake Sockeye,1977,,,Skeena
+197,Lake Sockeye,1978,,,Skeena
+197,Lake Sockeye,1979,,,Skeena
+197,Lake Sockeye,1980,,,Skeena
+197,Lake Sockeye,1981,,,Skeena
+197,Lake Sockeye,1982,,,Skeena
+197,Lake Sockeye,1983,,,Skeena
+197,Lake Sockeye,1984,,,Skeena
+197,Lake Sockeye,1985,,,Skeena
+197,Lake Sockeye,1986,,,Skeena
+197,Lake Sockeye,1987,1500,2746,Skeena
+197,Lake Sockeye,1988,100,275,Skeena
+197,Lake Sockeye,1989,400,996,Skeena
+197,Lake Sockeye,1990,60,174,Skeena
+197,Lake Sockeye,1991,300,922,Skeena
+197,Lake Sockeye,1992,500,1584,Skeena
+197,Lake Sockeye,1993,400,1048,Skeena
+197,Lake Sockeye,1994,,,Skeena
+197,Lake Sockeye,1995,,,Skeena
+197,Lake Sockeye,1996,100,337,Skeena
+197,Lake Sockeye,1997,220,745,Skeena
+197,Lake Sockeye,1998,500,1068,Skeena
+197,Lake Sockeye,1999,666,919,Skeena
+197,Lake Sockeye,2000,726,1855,Skeena
+197,Lake Sockeye,2001,457,1026,Skeena
+197,Lake Sockeye,2002,171,351,Skeena
+197,Lake Sockeye,2003,2059,3345,Skeena
+197,Lake Sockeye,2004,498,904,Skeena
+197,Lake Sockeye,2005,269,410,Skeena
+197,Lake Sockeye,2006,143,245,Skeena
+197,Lake Sockeye,2007,296,729,Skeena
+197,Lake Sockeye,2008,69,143,Skeena
+197,Lake Sockeye,2009,275,365,Skeena
+197,Lake Sockeye,2010,549,752,Skeena
+197,Lake Sockeye,2011,911,1592,Skeena
+197,Lake Sockeye,2012,,,Skeena
+197,Lake Sockeye,2013,,,Skeena
+197,Lake Sockeye,2014,609,1018,Skeena
+197,Lake Sockeye,2015,278,408,Skeena
+197,Lake Sockeye,2016,538,983,Skeena
+197,Lake Sockeye,2017,6,7,Skeena
+197,Lake Sockeye,2018,301,394,Skeena
+197,Lake Sockeye,2019,1047,1764,Skeena
+197,Lake Sockeye,2020,100,133,Skeena
+197,Lake Sockeye,2021,280,572,Skeena
+197,Lake Sockeye,2022,284,439,Skeena
+197,Lake Sockeye,2023,22,33,Skeena
+198,Lake Sockeye,1950,NA,NA,Skeena
+198,Lake Sockeye,1951,NA,NA,Skeena
+198,Lake Sockeye,1952,NA,NA,Skeena
+198,Lake Sockeye,1953,NA,NA,Skeena
+198,Lake Sockeye,1954,NA,NA,Skeena
+198,Lake Sockeye,1955,NA,NA,Skeena
+198,Lake Sockeye,1956,NA,NA,Skeena
+198,Lake Sockeye,1957,NA,NA,Skeena
+198,Lake Sockeye,1958,NA,NA,Skeena
+198,Lake Sockeye,1959,NA,NA,Skeena
+198,Lake Sockeye,1960,NA,NA,Skeena
+198,Lake Sockeye,1961,NA,NA,Skeena
+198,Lake Sockeye,1962,NA,NA,Skeena
+198,Lake Sockeye,1963,NA,NA,Skeena
+198,Lake Sockeye,1964,NA,NA,Skeena
+198,Lake Sockeye,1965,NA,NA,Skeena
+198,Lake Sockeye,1966,NA,NA,Skeena
+198,Lake Sockeye,1967,NA,NA,Skeena
+198,Lake Sockeye,1968,NA,NA,Skeena
+198,Lake Sockeye,1969,NA,NA,Skeena
+198,Lake Sockeye,1970,NA,NA,Skeena
+198,Lake Sockeye,1971,NA,NA,Skeena
+198,Lake Sockeye,1972,NA,NA,Skeena
+198,Lake Sockeye,1973,NA,NA,Skeena
+198,Lake Sockeye,1974,NA,NA,Skeena
+198,Lake Sockeye,1975,NA,NA,Skeena
+198,Lake Sockeye,1976,NA,NA,Skeena
+198,Lake Sockeye,1977,NA,NA,Skeena
+198,Lake Sockeye,1978,NA,NA,Skeena
+198,Lake Sockeye,1979,NA,NA,Skeena
+198,Lake Sockeye,1980,NA,NA,Skeena
+198,Lake Sockeye,1981,NA,NA,Skeena
+198,Lake Sockeye,1982,NA,NA,Skeena
+198,Lake Sockeye,1983,NA,NA,Skeena
+198,Lake Sockeye,1984,NA,NA,Skeena
+198,Lake Sockeye,1985,NA,NA,Skeena
+198,Lake Sockeye,1986,NA,NA,Skeena
+198,Lake Sockeye,1987,NA,NA,Skeena
+198,Lake Sockeye,1988,NA,NA,Skeena
+198,Lake Sockeye,1989,NA,NA,Skeena
+198,Lake Sockeye,1990,NA,NA,Skeena
+198,Lake Sockeye,1991,NA,NA,Skeena
+198,Lake Sockeye,1992,NA,NA,Skeena
+198,Lake Sockeye,1993,NA,NA,Skeena
+198,Lake Sockeye,1994,NA,NA,Skeena
+198,Lake Sockeye,1995,NA,NA,Skeena
+198,Lake Sockeye,1996,NA,NA,Skeena
+198,Lake Sockeye,1997,NA,NA,Skeena
+198,Lake Sockeye,1998,NA,NA,Skeena
+198,Lake Sockeye,1999,NA,NA,Skeena
+198,Lake Sockeye,2000,NA,NA,Skeena
+198,Lake Sockeye,2001,NA,NA,Skeena
+198,Lake Sockeye,2002,NA,NA,Skeena
+198,Lake Sockeye,2003,NA,NA,Skeena
+198,Lake Sockeye,2004,NA,NA,Skeena
+198,Lake Sockeye,2005,NA,NA,Skeena
+198,Lake Sockeye,2006,NA,NA,Skeena
+198,Lake Sockeye,2007,NA,NA,Skeena
+198,Lake Sockeye,2008,NA,NA,Skeena
+198,Lake Sockeye,2009,NA,NA,Skeena
+198,Lake Sockeye,2010,NA,NA,Skeena
+198,Lake Sockeye,2011,NA,NA,Skeena
+198,Lake Sockeye,2012,NA,NA,Skeena
+198,Lake Sockeye,2013,NA,NA,Skeena
+198,Lake Sockeye,2014,NA,NA,Skeena
+198,Lake Sockeye,2015,NA,NA,Skeena
+198,Lake Sockeye,2016,NA,NA,Skeena
+198,Lake Sockeye,2017,NA,NA,Skeena
+198,Lake Sockeye,2018,NA,NA,Skeena
+198,Lake Sockeye,2019,NA,NA,Skeena
+198,Lake Sockeye,2020,NA,NA,Skeena
+199,Lake Sockeye,1950,NA,NA,Skeena
+199,Lake Sockeye,1951,NA,NA,Skeena
+199,Lake Sockeye,1952,NA,NA,Skeena
+199,Lake Sockeye,1953,NA,NA,Skeena
+199,Lake Sockeye,1954,NA,NA,Skeena
+199,Lake Sockeye,1955,NA,NA,Skeena
+199,Lake Sockeye,1956,NA,NA,Skeena
+199,Lake Sockeye,1957,NA,NA,Skeena
+199,Lake Sockeye,1958,NA,NA,Skeena
+199,Lake Sockeye,1959,NA,NA,Skeena
+199,Lake Sockeye,1960,NA,NA,Skeena
+199,Lake Sockeye,1961,NA,NA,Skeena
+199,Lake Sockeye,1962,NA,NA,Skeena
+199,Lake Sockeye,1963,NA,NA,Skeena
+199,Lake Sockeye,1964,NA,NA,Skeena
+199,Lake Sockeye,1965,NA,NA,Skeena
+199,Lake Sockeye,1966,NA,NA,Skeena
+199,Lake Sockeye,1967,NA,NA,Skeena
+199,Lake Sockeye,1968,NA,NA,Skeena
+199,Lake Sockeye,1969,NA,NA,Skeena
+199,Lake Sockeye,1970,NA,NA,Skeena
+199,Lake Sockeye,1971,NA,NA,Skeena
+199,Lake Sockeye,1972,NA,NA,Skeena
+199,Lake Sockeye,1973,NA,NA,Skeena
+199,Lake Sockeye,1974,NA,NA,Skeena
+199,Lake Sockeye,1975,NA,NA,Skeena
+199,Lake Sockeye,1976,NA,NA,Skeena
+199,Lake Sockeye,1977,NA,NA,Skeena
+199,Lake Sockeye,1978,NA,NA,Skeena
+199,Lake Sockeye,1979,NA,NA,Skeena
+199,Lake Sockeye,1980,NA,NA,Skeena
+199,Lake Sockeye,1981,NA,NA,Skeena
+199,Lake Sockeye,1982,NA,NA,Skeena
+199,Lake Sockeye,1983,NA,NA,Skeena
+199,Lake Sockeye,1984,NA,NA,Skeena
+199,Lake Sockeye,1985,NA,NA,Skeena
+199,Lake Sockeye,1986,NA,NA,Skeena
+199,Lake Sockeye,1987,NA,NA,Skeena
+199,Lake Sockeye,1988,NA,NA,Skeena
+199,Lake Sockeye,1989,NA,NA,Skeena
+199,Lake Sockeye,1990,NA,NA,Skeena
+199,Lake Sockeye,1991,NA,NA,Skeena
+199,Lake Sockeye,1992,NA,NA,Skeena
+199,Lake Sockeye,1993,NA,NA,Skeena
+199,Lake Sockeye,1994,NA,NA,Skeena
+199,Lake Sockeye,1995,NA,NA,Skeena
+199,Lake Sockeye,1996,NA,NA,Skeena
+199,Lake Sockeye,1997,NA,NA,Skeena
+199,Lake Sockeye,1998,NA,NA,Skeena
+199,Lake Sockeye,1999,NA,NA,Skeena
+199,Lake Sockeye,2000,NA,NA,Skeena
+199,Lake Sockeye,2001,NA,NA,Skeena
+199,Lake Sockeye,2002,NA,NA,Skeena
+199,Lake Sockeye,2003,NA,NA,Skeena
+199,Lake Sockeye,2004,NA,NA,Skeena
+199,Lake Sockeye,2005,NA,NA,Skeena
+199,Lake Sockeye,2006,NA,NA,Skeena
+199,Lake Sockeye,2007,NA,NA,Skeena
+199,Lake Sockeye,2008,NA,NA,Skeena
+199,Lake Sockeye,2009,NA,NA,Skeena
+199,Lake Sockeye,2010,NA,NA,Skeena
+199,Lake Sockeye,2011,NA,NA,Skeena
+199,Lake Sockeye,2012,NA,NA,Skeena
+199,Lake Sockeye,2013,NA,NA,Skeena
+199,Lake Sockeye,2014,NA,NA,Skeena
+199,Lake Sockeye,2015,NA,NA,Skeena
+199,Lake Sockeye,2016,NA,NA,Skeena
+199,Lake Sockeye,2017,NA,NA,Skeena
+199,Lake Sockeye,2018,NA,NA,Skeena
+199,Lake Sockeye,2019,NA,NA,Skeena
+199,Lake Sockeye,2020,NA,NA,Skeena
+200,Lake Sockeye,1950,NA,NA,Skeena
+200,Lake Sockeye,1951,NA,NA,Skeena
+200,Lake Sockeye,1952,NA,NA,Skeena
+200,Lake Sockeye,1953,NA,NA,Skeena
+200,Lake Sockeye,1954,NA,NA,Skeena
+200,Lake Sockeye,1955,NA,NA,Skeena
+200,Lake Sockeye,1956,NA,NA,Skeena
+200,Lake Sockeye,1957,NA,NA,Skeena
+200,Lake Sockeye,1958,NA,NA,Skeena
+200,Lake Sockeye,1959,NA,NA,Skeena
+200,Lake Sockeye,1960,NA,NA,Skeena
+200,Lake Sockeye,1961,NA,NA,Skeena
+200,Lake Sockeye,1962,NA,NA,Skeena
+200,Lake Sockeye,1963,NA,NA,Skeena
+200,Lake Sockeye,1964,NA,NA,Skeena
+200,Lake Sockeye,1965,NA,NA,Skeena
+200,Lake Sockeye,1966,NA,NA,Skeena
+200,Lake Sockeye,1967,NA,NA,Skeena
+200,Lake Sockeye,1968,NA,NA,Skeena
+200,Lake Sockeye,1969,NA,NA,Skeena
+200,Lake Sockeye,1970,NA,NA,Skeena
+200,Lake Sockeye,1971,NA,NA,Skeena
+200,Lake Sockeye,1972,NA,NA,Skeena
+200,Lake Sockeye,1973,NA,NA,Skeena
+200,Lake Sockeye,1974,NA,NA,Skeena
+200,Lake Sockeye,1975,NA,NA,Skeena
+200,Lake Sockeye,1976,NA,NA,Skeena
+200,Lake Sockeye,1977,NA,NA,Skeena
+200,Lake Sockeye,1978,NA,NA,Skeena
+200,Lake Sockeye,1979,NA,NA,Skeena
+200,Lake Sockeye,1980,NA,NA,Skeena
+200,Lake Sockeye,1981,NA,NA,Skeena
+200,Lake Sockeye,1982,NA,NA,Skeena
+200,Lake Sockeye,1983,NA,NA,Skeena
+200,Lake Sockeye,1984,NA,NA,Skeena
+200,Lake Sockeye,1985,NA,NA,Skeena
+200,Lake Sockeye,1986,NA,NA,Skeena
+200,Lake Sockeye,1987,NA,NA,Skeena
+200,Lake Sockeye,1988,NA,NA,Skeena
+200,Lake Sockeye,1989,NA,NA,Skeena
+200,Lake Sockeye,1990,NA,NA,Skeena
+200,Lake Sockeye,1991,NA,NA,Skeena
+200,Lake Sockeye,1992,NA,NA,Skeena
+200,Lake Sockeye,1993,NA,NA,Skeena
+200,Lake Sockeye,1994,NA,NA,Skeena
+200,Lake Sockeye,1995,NA,NA,Skeena
+200,Lake Sockeye,1996,NA,NA,Skeena
+200,Lake Sockeye,1997,NA,NA,Skeena
+200,Lake Sockeye,1998,NA,NA,Skeena
+200,Lake Sockeye,1999,NA,NA,Skeena
+200,Lake Sockeye,2000,NA,NA,Skeena
+200,Lake Sockeye,2001,NA,NA,Skeena
+200,Lake Sockeye,2002,NA,NA,Skeena
+200,Lake Sockeye,2003,NA,NA,Skeena
+200,Lake Sockeye,2004,NA,NA,Skeena
+200,Lake Sockeye,2005,NA,NA,Skeena
+200,Lake Sockeye,2006,NA,NA,Skeena
+200,Lake Sockeye,2007,NA,NA,Skeena
+200,Lake Sockeye,2008,NA,NA,Skeena
+200,Lake Sockeye,2009,NA,NA,Skeena
+200,Lake Sockeye,2010,NA,NA,Skeena
+200,Lake Sockeye,2011,NA,NA,Skeena
+200,Lake Sockeye,2012,NA,NA,Skeena
+200,Lake Sockeye,2013,NA,NA,Skeena
+200,Lake Sockeye,2014,NA,NA,Skeena
+200,Lake Sockeye,2015,NA,NA,Skeena
+200,Lake Sockeye,2016,NA,NA,Skeena
+200,Lake Sockeye,2017,NA,NA,Skeena
+200,Lake Sockeye,2018,NA,NA,Skeena
+200,Lake Sockeye,2019,NA,NA,Skeena
+200,Lake Sockeye,2020,NA,NA,Skeena
+201,Lake Sockeye,1950,NA,NA,Skeena
+201,Lake Sockeye,1951,NA,NA,Skeena
+201,Lake Sockeye,1952,NA,NA,Skeena
+201,Lake Sockeye,1953,NA,NA,Skeena
+201,Lake Sockeye,1954,NA,NA,Skeena
+201,Lake Sockeye,1955,NA,NA,Skeena
+201,Lake Sockeye,1956,NA,NA,Skeena
+201,Lake Sockeye,1957,NA,NA,Skeena
+201,Lake Sockeye,1958,NA,NA,Skeena
+201,Lake Sockeye,1959,NA,NA,Skeena
+201,Lake Sockeye,1960,75,167,Skeena
+201,Lake Sockeye,1961,250,521,Skeena
+201,Lake Sockeye,1962,250,580,Skeena
+201,Lake Sockeye,1963,200,307,Skeena
+201,Lake Sockeye,1964,200,445,Skeena
+201,Lake Sockeye,1965,2000,3755,Skeena
+201,Lake Sockeye,1966,50,142,Skeena
+201,Lake Sockeye,1967,50,173,Skeena
+201,Lake Sockeye,1968,500,1351,Skeena
+201,Lake Sockeye,1969,1500,3109,Skeena
+201,Lake Sockeye,1970,2000,4179,Skeena
+201,Lake Sockeye,1971,500,1150,Skeena
+201,Lake Sockeye,1972,400,951,Skeena
+201,Lake Sockeye,1973,3000,8471,Skeena
+201,Lake Sockeye,1974,25,83,Skeena
+201,Lake Sockeye,1975,12,21,Skeena
+201,Lake Sockeye,1976,,,Skeena
+201,Lake Sockeye,1977,,,Skeena
+201,Lake Sockeye,1978,,,Skeena
+201,Lake Sockeye,1979,100,238,Skeena
+201,Lake Sockeye,1980,500,1290,Skeena
+201,Lake Sockeye,1981,300,736,Skeena
+201,Lake Sockeye,1982,,,Skeena
+201,Lake Sockeye,1983,,,Skeena
+201,Lake Sockeye,1984,,,Skeena
+201,Lake Sockeye,1985,,,Skeena
+201,Lake Sockeye,1986,,,Skeena
+201,Lake Sockeye,1987,500,844,Skeena
+201,Lake Sockeye,1988,500,1373,Skeena
+201,Lake Sockeye,1989,,,Skeena
+201,Lake Sockeye,1990,100,248,Skeena
+201,Lake Sockeye,1991,,,Skeena
+201,Lake Sockeye,1992,2600,7029,Skeena
+201,Lake Sockeye,1993,2169,5486,Skeena
+201,Lake Sockeye,1994,2308,7418,Skeena
+201,Lake Sockeye,1995,802,2449,Skeena
+201,Lake Sockeye,1996,,,Skeena
+201,Lake Sockeye,1997,,,Skeena
+201,Lake Sockeye,1998,,,Skeena
+201,Lake Sockeye,1999,,,Skeena
+201,Lake Sockeye,2000,,,Skeena
+201,Lake Sockeye,2001,1031,3043,Skeena
+201,Lake Sockeye,2002,810,3188,Skeena
+201,Lake Sockeye,2003,4093,8988,Skeena
+201,Lake Sockeye,2004,1315,2900,Skeena
+201,Lake Sockeye,2005,963,2789,Skeena
+201,Lake Sockeye,2006,662,2350,Skeena
+201,Lake Sockeye,2007,2024,4444,Skeena
+201,Lake Sockeye,2008,174,1023,Skeena
+201,Lake Sockeye,2009,414,1387,Skeena
+201,Lake Sockeye,2010,349,1281,Skeena
+201,Lake Sockeye,2011,1545,3288,Skeena
+201,Lake Sockeye,2012,1229,2497,Skeena
+201,Lake Sockeye,2013,1120,2005,Skeena
+201,Lake Sockeye,2014,749,1281,Skeena
+201,Lake Sockeye,2015,1200,2515,Skeena
+201,Lake Sockeye,2016,1036,2603,Skeena
+201,Lake Sockeye,2017,2447,3530,Skeena
+201,Lake Sockeye,2018,1529,2655,Skeena
+201,Lake Sockeye,2019,2149,3803,Skeena
+201,Lake Sockeye,2020,,,Skeena
+201,Lake Sockeye,2021,574,1823,Skeena
+201,Lake Sockeye,2022,1934,2909,Skeena
+201,Lake Sockeye,2023,1951,3483,Skeena
+202,Coho,1950,NA,NA,Skeena
+202,Coho,1951,NA,NA,Skeena
+202,Coho,1952,NA,NA,Skeena
+202,Coho,1953,NA,NA,Skeena
+202,Coho,1954,231607,514682,Skeena
+202,Coho,1955,193387,429749,Skeena
+202,Coho,1956,383388,851974,Skeena
+202,Coho,1957,261359,580797,Skeena
+202,Coho,1958,620978,1379952,Skeena
+202,Coho,1959,NA,NA,Skeena
+202,Coho,1960,496932,1104293,Skeena
+202,Coho,1961,291312,647360,Skeena
+202,Coho,1962,108945,242101,Skeena
+202,Coho,1963,526504,1053009,Skeena
+202,Coho,1964,264025,713581,Skeena
+202,Coho,1965,756017,1453878,Skeena
+202,Coho,1966,317662,774786,Skeena
+202,Coho,1967,153276,289199,Skeena
+202,Coho,1968,319857,780139,Skeena
+202,Coho,1969,162823,325647,Skeena
+202,Coho,1970,227220,528419,Skeena
+202,Coho,1971,185274,430869,Skeena
+202,Coho,1972,116623,343009,Skeena
+202,Coho,1973,72940,148857,Skeena
+202,Coho,1974,77480,176091,Skeena
+202,Coho,1975,42220,78186,Skeena
+202,Coho,1976,92007,170384,Skeena
+202,Coho,1977,56924,138838,Skeena
+202,Coho,1978,79132,255264,Skeena
+202,Coho,1979,47984,165463,Skeena
+202,Coho,1980,85180,327614,Skeena
+202,Coho,1981,85195,258165,Skeena
+202,Coho,1982,46639,111045,Skeena
+202,Coho,1983,54479,286730,Skeena
+202,Coho,1984,133513,476833,Skeena
+202,Coho,1985,48857,195427,Skeena
+202,Coho,1986,144410,849468,Skeena
+202,Coho,1987,149344,414844,Skeena
+202,Coho,1988,35318,95454,Skeena
+202,Coho,1989,124207,322527,Skeena
+202,Coho,1990,186603,616663,Skeena
+202,Coho,1991,139204,370442,Skeena
+202,Coho,1992,129820,373874,Skeena
+202,Coho,1993,61342,141610,Skeena
+202,Coho,1994,152386,442125,Skeena
+202,Coho,1995,59276,96016,Skeena
+202,Coho,1996,47928,182863,Skeena
+202,Coho,1997,25919,51866,Skeena
+202,Coho,1998,115767,143860,Skeena
+202,Coho,1999,149768,192016,Skeena
+202,Coho,2000,62736,76154,Skeena
+202,Coho,2001,107616,149485,Skeena
+202,Coho,2002,104596,136416,Skeena
+202,Coho,2003,116284,158680,Skeena
+202,Coho,2004,77815,129469,Skeena
+202,Coho,2005,85553,117618,Skeena
+202,Coho,2006,59133,76598,Skeena
+202,Coho,2007,53504,92967,Skeena
+202,Coho,2008,41281,62489,Skeena
+202,Coho,2009,108724,173483,Skeena
+202,Coho,2010,135006,193866,Skeena
+202,Coho,2011,63601,111428,Skeena
+202,Coho,2012,67480,102484,Skeena
+202,Coho,2013,158310,250128,Skeena
+202,Coho,2014,124904,164930,Skeena
+202,Coho,2015,36992,61689,Skeena
+202,Coho,2016,123388,210686,Skeena
+202,Coho,2017,65139,65139,Skeena
+202,Coho,2018,NA,NA,Skeena
+202,Coho,2019,NA,NA,Skeena
+202,Coho,2020,NA,NA,Skeena
+203,Lake Sockeye,1950,NA,NA,Skeena
+203,Lake Sockeye,1951,NA,NA,Skeena
+203,Lake Sockeye,1952,NA,NA,Skeena
+203,Lake Sockeye,1953,NA,NA,Skeena
+203,Lake Sockeye,1954,NA,NA,Skeena
+203,Lake Sockeye,1955,NA,NA,Skeena
+203,Lake Sockeye,1956,NA,NA,Skeena
+203,Lake Sockeye,1957,NA,NA,Skeena
+203,Lake Sockeye,1958,NA,NA,Skeena
+203,Lake Sockeye,1959,NA,NA,Skeena
+203,Lake Sockeye,1960,NA,NA,Skeena
+203,Lake Sockeye,1961,NA,NA,Skeena
+203,Lake Sockeye,1962,NA,NA,Skeena
+203,Lake Sockeye,1963,NA,NA,Skeena
+203,Lake Sockeye,1964,NA,NA,Skeena
+203,Lake Sockeye,1965,NA,NA,Skeena
+203,Lake Sockeye,1966,NA,NA,Skeena
+203,Lake Sockeye,1967,NA,NA,Skeena
+203,Lake Sockeye,1968,NA,NA,Skeena
+203,Lake Sockeye,1969,NA,NA,Skeena
+203,Lake Sockeye,1970,NA,NA,Skeena
+203,Lake Sockeye,1971,NA,NA,Skeena
+203,Lake Sockeye,1972,NA,NA,Skeena
+203,Lake Sockeye,1973,NA,NA,Skeena
+203,Lake Sockeye,1974,NA,NA,Skeena
+203,Lake Sockeye,1975,NA,NA,Skeena
+203,Lake Sockeye,1976,NA,NA,Skeena
+203,Lake Sockeye,1977,NA,NA,Skeena
+203,Lake Sockeye,1978,NA,NA,Skeena
+203,Lake Sockeye,1979,NA,NA,Skeena
+203,Lake Sockeye,1980,NA,NA,Skeena
+203,Lake Sockeye,1981,NA,NA,Skeena
+203,Lake Sockeye,1982,NA,NA,Skeena
+203,Lake Sockeye,1983,NA,NA,Skeena
+203,Lake Sockeye,1984,NA,NA,Skeena
+203,Lake Sockeye,1985,NA,NA,Skeena
+203,Lake Sockeye,1986,NA,NA,Skeena
+203,Lake Sockeye,1987,NA,NA,Skeena
+203,Lake Sockeye,1988,NA,NA,Skeena
+203,Lake Sockeye,1989,NA,NA,Skeena
+203,Lake Sockeye,1990,NA,NA,Skeena
+203,Lake Sockeye,1991,NA,NA,Skeena
+203,Lake Sockeye,1992,NA,NA,Skeena
+203,Lake Sockeye,1993,NA,NA,Skeena
+203,Lake Sockeye,1994,NA,NA,Skeena
+203,Lake Sockeye,1995,NA,NA,Skeena
+203,Lake Sockeye,1996,NA,NA,Skeena
+203,Lake Sockeye,1997,NA,NA,Skeena
+203,Lake Sockeye,1998,NA,NA,Skeena
+203,Lake Sockeye,1999,NA,NA,Skeena
+203,Lake Sockeye,2000,NA,NA,Skeena
+203,Lake Sockeye,2001,NA,NA,Skeena
+203,Lake Sockeye,2002,NA,NA,Skeena
+203,Lake Sockeye,2003,NA,NA,Skeena
+203,Lake Sockeye,2004,NA,NA,Skeena
+203,Lake Sockeye,2005,NA,NA,Skeena
+203,Lake Sockeye,2006,NA,NA,Skeena
+203,Lake Sockeye,2007,NA,NA,Skeena
+203,Lake Sockeye,2008,NA,NA,Skeena
+203,Lake Sockeye,2009,NA,NA,Skeena
+203,Lake Sockeye,2010,NA,NA,Skeena
+203,Lake Sockeye,2011,NA,NA,Skeena
+203,Lake Sockeye,2012,NA,NA,Skeena
+203,Lake Sockeye,2013,NA,NA,Skeena
+203,Lake Sockeye,2014,NA,NA,Skeena
+203,Lake Sockeye,2015,NA,NA,Skeena
+203,Lake Sockeye,2016,NA,NA,Skeena
+203,Lake Sockeye,2017,NA,NA,Skeena
+203,Lake Sockeye,2018,NA,NA,Skeena
+203,Lake Sockeye,2019,NA,NA,Skeena
+203,Lake Sockeye,2020,NA,NA,Skeena
+204,Lake Sockeye,1950,NA,NA,Skeena
+204,Lake Sockeye,1951,NA,NA,Skeena
+204,Lake Sockeye,1952,NA,NA,Skeena
+204,Lake Sockeye,1953,NA,NA,Skeena
+204,Lake Sockeye,1954,NA,NA,Skeena
+204,Lake Sockeye,1955,NA,NA,Skeena
+204,Lake Sockeye,1956,NA,NA,Skeena
+204,Lake Sockeye,1957,NA,NA,Skeena
+204,Lake Sockeye,1958,NA,NA,Skeena
+204,Lake Sockeye,1959,NA,NA,Skeena
+204,Lake Sockeye,1960,NA,NA,Skeena
+204,Lake Sockeye,1961,NA,NA,Skeena
+204,Lake Sockeye,1962,NA,NA,Skeena
+204,Lake Sockeye,1963,NA,NA,Skeena
+204,Lake Sockeye,1964,NA,NA,Skeena
+204,Lake Sockeye,1965,NA,NA,Skeena
+204,Lake Sockeye,1966,NA,NA,Skeena
+204,Lake Sockeye,1967,NA,NA,Skeena
+204,Lake Sockeye,1968,NA,NA,Skeena
+204,Lake Sockeye,1969,NA,NA,Skeena
+204,Lake Sockeye,1970,NA,NA,Skeena
+204,Lake Sockeye,1971,NA,NA,Skeena
+204,Lake Sockeye,1972,NA,NA,Skeena
+204,Lake Sockeye,1973,NA,NA,Skeena
+204,Lake Sockeye,1974,NA,NA,Skeena
+204,Lake Sockeye,1975,NA,NA,Skeena
+204,Lake Sockeye,1976,NA,NA,Skeena
+204,Lake Sockeye,1977,NA,NA,Skeena
+204,Lake Sockeye,1978,NA,NA,Skeena
+204,Lake Sockeye,1979,NA,NA,Skeena
+204,Lake Sockeye,1980,NA,NA,Skeena
+204,Lake Sockeye,1981,NA,NA,Skeena
+204,Lake Sockeye,1982,NA,NA,Skeena
+204,Lake Sockeye,1983,NA,NA,Skeena
+204,Lake Sockeye,1984,NA,NA,Skeena
+204,Lake Sockeye,1985,NA,NA,Skeena
+204,Lake Sockeye,1986,NA,NA,Skeena
+204,Lake Sockeye,1987,NA,NA,Skeena
+204,Lake Sockeye,1988,NA,NA,Skeena
+204,Lake Sockeye,1989,NA,NA,Skeena
+204,Lake Sockeye,1990,NA,NA,Skeena
+204,Lake Sockeye,1991,NA,NA,Skeena
+204,Lake Sockeye,1992,NA,NA,Skeena
+204,Lake Sockeye,1993,NA,NA,Skeena
+204,Lake Sockeye,1994,NA,NA,Skeena
+204,Lake Sockeye,1995,NA,NA,Skeena
+204,Lake Sockeye,1996,NA,NA,Skeena
+204,Lake Sockeye,1997,NA,NA,Skeena
+204,Lake Sockeye,1998,NA,NA,Skeena
+204,Lake Sockeye,1999,NA,NA,Skeena
+204,Lake Sockeye,2000,NA,NA,Skeena
+204,Lake Sockeye,2001,NA,NA,Skeena
+204,Lake Sockeye,2002,NA,NA,Skeena
+204,Lake Sockeye,2003,NA,NA,Skeena
+204,Lake Sockeye,2004,NA,NA,Skeena
+204,Lake Sockeye,2005,NA,NA,Skeena
+204,Lake Sockeye,2006,NA,NA,Skeena
+204,Lake Sockeye,2007,NA,NA,Skeena
+204,Lake Sockeye,2008,NA,NA,Skeena
+204,Lake Sockeye,2009,NA,NA,Skeena
+204,Lake Sockeye,2010,NA,NA,Skeena
+204,Lake Sockeye,2011,NA,NA,Skeena
+204,Lake Sockeye,2012,NA,NA,Skeena
+204,Lake Sockeye,2013,NA,NA,Skeena
+204,Lake Sockeye,2014,NA,NA,Skeena
+204,Lake Sockeye,2015,NA,NA,Skeena
+204,Lake Sockeye,2016,NA,NA,Skeena
+204,Lake Sockeye,2017,NA,NA,Skeena
+204,Lake Sockeye,2018,NA,NA,Skeena
+204,Lake Sockeye,2019,NA,NA,Skeena
+204,Lake Sockeye,2020,NA,NA,Skeena
+205,Chinook,1950,NA,NA,Skeena
+205,Chinook,1951,NA,NA,Skeena
+205,Chinook,1952,NA,NA,Skeena
+205,Chinook,1953,NA,NA,Skeena
+205,Chinook,1954,NA,NA,Skeena
+205,Chinook,1955,NA,NA,Skeena
+205,Chinook,1956,NA,NA,Skeena
+205,Chinook,1957,NA,NA,Skeena
+205,Chinook,1958,NA,NA,Skeena
+205,Chinook,1959,NA,NA,Skeena
+205,Chinook,1960,NA,NA,Skeena
+205,Chinook,1961,NA,NA,Skeena
+205,Chinook,1962,NA,NA,Skeena
+205,Chinook,1963,NA,NA,Skeena
+205,Chinook,1964,NA,NA,Skeena
+205,Chinook,1965,NA,NA,Skeena
+205,Chinook,1966,NA,NA,Skeena
+205,Chinook,1967,NA,NA,Skeena
+205,Chinook,1968,NA,NA,Skeena
+205,Chinook,1969,NA,NA,Skeena
+205,Chinook,1970,NA,NA,Skeena
+205,Chinook,1971,NA,NA,Skeena
+205,Chinook,1972,NA,NA,Skeena
+205,Chinook,1973,NA,NA,Skeena
+205,Chinook,1974,NA,NA,Skeena
+205,Chinook,1975,NA,NA,Skeena
+205,Chinook,1976,NA,NA,Skeena
+205,Chinook,1977,NA,NA,Skeena
+205,Chinook,1978,NA,NA,Skeena
+205,Chinook,1979,NA,NA,Skeena
+205,Chinook,1980,3495,NA,Skeena
+205,Chinook,1981,1748,NA,Skeena
+205,Chinook,1982,1748,NA,Skeena
+205,Chinook,1983,1748,NA,Skeena
+205,Chinook,1984,874,1911,Skeena
+205,Chinook,1985,5243,12803,Skeena
+205,Chinook,1986,5243,12031,Skeena
+205,Chinook,1987,1748,2924,Skeena
+205,Chinook,1988,6990,20061,Skeena
+205,Chinook,1989,2184,4372,Skeena
+205,Chinook,1990,2621,5199,Skeena
+205,Chinook,1991,1311,4020,Skeena
+205,Chinook,1992,NA,NA,Skeena
+205,Chinook,1993,437,903,Skeena
+205,Chinook,1994,437,838,Skeena
+205,Chinook,1995,NA,NA,Skeena
+205,Chinook,1996,NA,NA,Skeena
+205,Chinook,1997,NA,NA,Skeena
+205,Chinook,1998,NA,NA,Skeena
+205,Chinook,1999,NA,NA,Skeena
+205,Chinook,2000,1748,3060,Skeena
+205,Chinook,2001,1311,2311,Skeena
+205,Chinook,2002,NA,NA,Skeena
+205,Chinook,2003,NA,NA,Skeena
+205,Chinook,2004,NA,NA,Skeena
+205,Chinook,2005,NA,NA,Skeena
+205,Chinook,2006,NA,NA,Skeena
+205,Chinook,2007,NA,NA,Skeena
+205,Chinook,2008,NA,NA,Skeena
+205,Chinook,2009,NA,NA,Skeena
+205,Chinook,2010,NA,NA,Skeena
+205,Chinook,2011,NA,NA,Skeena
+205,Chinook,2012,NA,NA,Skeena
+205,Chinook,2013,NA,NA,Skeena
+205,Chinook,2014,NA,NA,Skeena
+205,Chinook,2015,NA,NA,Skeena
+205,Chinook,2016,NA,NA,Skeena
+205,Chinook,2017,NA,NA,Skeena
+205,Chinook,2018,NA,NA,Skeena
+205,Chinook,2019,NA,NA,Skeena
+205,Chinook,2020,NA,NA,Skeena
+206,Chinook,1950,NA,NA,Skeena
+206,Chinook,1951,NA,NA,Skeena
+206,Chinook,1952,NA,NA,Skeena
+206,Chinook,1953,NA,NA,Skeena
+206,Chinook,1954,NA,NA,Skeena
+206,Chinook,1955,NA,NA,Skeena
+206,Chinook,1956,NA,NA,Skeena
+206,Chinook,1957,NA,NA,Skeena
+206,Chinook,1958,NA,NA,Skeena
+206,Chinook,1959,NA,NA,Skeena
+206,Chinook,1960,NA,NA,Skeena
+206,Chinook,1961,NA,NA,Skeena
+206,Chinook,1962,NA,NA,Skeena
+206,Chinook,1963,NA,NA,Skeena
+206,Chinook,1964,NA,NA,Skeena
+206,Chinook,1965,NA,NA,Skeena
+206,Chinook,1966,NA,NA,Skeena
+206,Chinook,1967,NA,NA,Skeena
+206,Chinook,1968,NA,NA,Skeena
+206,Chinook,1969,NA,NA,Skeena
+206,Chinook,1970,NA,NA,Skeena
+206,Chinook,1971,NA,NA,Skeena
+206,Chinook,1972,NA,NA,Skeena
+206,Chinook,1973,NA,NA,Skeena
+206,Chinook,1974,NA,NA,Skeena
+206,Chinook,1975,NA,NA,Skeena
+206,Chinook,1976,NA,NA,Skeena
+206,Chinook,1977,NA,NA,Skeena
+206,Chinook,1978,NA,NA,Skeena
+206,Chinook,1979,NA,NA,Skeena
+206,Chinook,1980,966,NA,Skeena
+206,Chinook,1981,966,NA,Skeena
+206,Chinook,1982,1208,NA,Skeena
+206,Chinook,1983,966,NA,Skeena
+206,Chinook,1984,403,426,Skeena
+206,Chinook,1985,1449,1540,Skeena
+206,Chinook,1986,1288,1365,Skeena
+206,Chinook,1987,3221,3356,Skeena
+206,Chinook,1988,1932,2067,Skeena
+206,Chinook,1989,1932,2034,Skeena
+206,Chinook,1990,1550,1631,Skeena
+206,Chinook,1991,271,291,Skeena
+206,Chinook,1992,986,1033,Skeena
+206,Chinook,1993,1008,1063,Skeena
+206,Chinook,1994,698,733,Skeena
+206,Chinook,1995,698,744,Skeena
+206,Chinook,1996,814,849,Skeena
+206,Chinook,1997,1163,1216,Skeena
+206,Chinook,1998,1085,1117,Skeena
+206,Chinook,1999,465,489,Skeena
+206,Chinook,2000,1916,2001,Skeena
+206,Chinook,2001,2837,2966,Skeena
+206,Chinook,2002,2160,2253,Skeena
+206,Chinook,2003,2025,2103,Skeena
+206,Chinook,2004,1655,1714,Skeena
+206,Chinook,2005,1138,1190,Skeena
+206,Chinook,2006,1216,1272,Skeena
+206,Chinook,2007,1224,1268,Skeena
+206,Chinook,2008,1080,1143,Skeena
+206,Chinook,2009,504,523,Skeena
+206,Chinook,2010,NA,NA,Skeena
+206,Chinook,2011,507,530,Skeena
+206,Chinook,2012,NA,NA,Skeena
+206,Chinook,2013,NA,NA,Skeena
+206,Chinook,2014,NA,NA,Skeena
+206,Chinook,2015,NA,NA,Skeena
+206,Chinook,2016,NA,NA,Skeena
+206,Chinook,2017,NA,NA,Skeena
+206,Chinook,2018,NA,NA,Skeena
+206,Chinook,2019,NA,NA,Skeena
+206,Chinook,2020,NA,NA,Skeena
+207,Chinook,1950,NA,NA,Skeena
+207,Chinook,1951,NA,NA,Skeena
+207,Chinook,1952,NA,NA,Skeena
+207,Chinook,1953,NA,NA,Skeena
+207,Chinook,1954,NA,NA,Skeena
+207,Chinook,1955,NA,NA,Skeena
+207,Chinook,1956,NA,NA,Skeena
+207,Chinook,1957,NA,NA,Skeena
+207,Chinook,1958,NA,NA,Skeena
+207,Chinook,1959,NA,NA,Skeena
+207,Chinook,1960,NA,NA,Skeena
+207,Chinook,1961,NA,NA,Skeena
+207,Chinook,1962,NA,NA,Skeena
+207,Chinook,1963,NA,NA,Skeena
+207,Chinook,1964,NA,NA,Skeena
+207,Chinook,1965,NA,NA,Skeena
+207,Chinook,1966,NA,NA,Skeena
+207,Chinook,1967,NA,NA,Skeena
+207,Chinook,1968,NA,NA,Skeena
+207,Chinook,1969,NA,NA,Skeena
+207,Chinook,1970,NA,NA,Skeena
+207,Chinook,1971,NA,NA,Skeena
+207,Chinook,1972,NA,NA,Skeena
+207,Chinook,1973,NA,NA,Skeena
+207,Chinook,1974,NA,NA,Skeena
+207,Chinook,1975,NA,NA,Skeena
+207,Chinook,1976,NA,NA,Skeena
+207,Chinook,1977,NA,NA,Skeena
+207,Chinook,1978,NA,NA,Skeena
+207,Chinook,1979,NA,NA,Skeena
+207,Chinook,1980,4445,NA,Skeena
+207,Chinook,1981,9842,NA,Skeena
+207,Chinook,1982,5821,NA,Skeena
+207,Chinook,1983,11313,NA,Skeena
+207,Chinook,1984,12514,27365,Skeena
+207,Chinook,1985,8792,21472,Skeena
+207,Chinook,1986,10743,24653,Skeena
+207,Chinook,1987,25937,43390,Skeena
+207,Chinook,1988,24082,69110,Skeena
+207,Chinook,1989,21060,42148,Skeena
+207,Chinook,1990,21166,41979,Skeena
+207,Chinook,1991,9736,29860,Skeena
+207,Chinook,1992,14816,27365,Skeena
+207,Chinook,1993,15874,32826,Skeena
+207,Chinook,1994,14816,28432,Skeena
+207,Chinook,1995,6680,18025,Skeena
+207,Chinook,1996,12540,21411,Skeena
+207,Chinook,1997,5653,10122,Skeena
+207,Chinook,1998,10076,14149,Skeena
+207,Chinook,1999,10583,20600,Skeena
+207,Chinook,2000,15380,26932,Skeena
+207,Chinook,2001,25480,44931,Skeena
+207,Chinook,2002,25239,42948,Skeena
+207,Chinook,2003,24984,39781,Skeena
+207,Chinook,2004,27269,41656,Skeena
+207,Chinook,2005,15923,28387,Skeena
+207,Chinook,2006,13089,23393,Skeena
+207,Chinook,2007,17213,26380,Skeena
+207,Chinook,2008,10979,24316,Skeena
+207,Chinook,2009,11327,17574,Skeena
+207,Chinook,2010,14511,21649,Skeena
+207,Chinook,2011,12811,22334,Skeena
+207,Chinook,2012,9909,16331,Skeena
+207,Chinook,2013,NA,NA,Skeena
+207,Chinook,2014,NA,NA,Skeena
+207,Chinook,2015,7609,13663,Skeena
+207,Chinook,2016,11049,19373,Skeena
+207,Chinook,2017,5231,9452,Skeena
+207,Chinook,2018,NA,NA,Skeena
+207,Chinook,2019,NA,NA,Skeena
+207,Chinook,2020,NA,NA,Skeena
+209,Pink (Odd),1950,NA,NA,Skeena
+209,Pink (Odd),1951,NA,NA,Skeena
+209,Pink (Odd),1952,NA,NA,Skeena
+209,Pink (Odd),1953,NA,NA,Skeena
+209,Pink (Odd),1954,NA,NA,Skeena
+209,Pink (Odd),1955,392423,767229,Skeena
+209,Pink (Odd),1956,NA,NA,Skeena
+209,Pink (Odd),1957,502052,1102562,Skeena
+209,Pink (Odd),1958,NA,NA,Skeena
+209,Pink (Odd),1959,479628,896385,Skeena
+209,Pink (Odd),1960,NA,NA,Skeena
+209,Pink (Odd),1961,784550,1530934,Skeena
+209,Pink (Odd),1962,NA,NA,Skeena
+209,Pink (Odd),1963,1271795,2048541,Skeena
+209,Pink (Odd),1964,NA,NA,Skeena
+209,Pink (Odd),1965,2129359,3854161,Skeena
+209,Pink (Odd),1966,NA,NA,Skeena
+209,Pink (Odd),1967,584508,1362203,Skeena
+209,Pink (Odd),1968,NA,NA,Skeena
+209,Pink (Odd),1969,914331,1673782,Skeena
+209,Pink (Odd),1970,NA,NA,Skeena
+209,Pink (Odd),1971,627796,1162873,Skeena
+209,Pink (Odd),1972,NA,NA,Skeena
+209,Pink (Odd),1973,1243294,2239902,Skeena
+209,Pink (Odd),1974,NA,NA,Skeena
+209,Pink (Odd),1975,1855152,3223188,Skeena
+209,Pink (Odd),1976,NA,NA,Skeena
+209,Pink (Odd),1977,746178,1729503,Skeena
+209,Pink (Odd),1978,NA,NA,Skeena
+209,Pink (Odd),1979,624075,1194558,Skeena
+209,Pink (Odd),1980,NA,NA,Skeena
+209,Pink (Odd),1981,1764135,3893035,Skeena
+209,Pink (Odd),1982,NA,NA,Skeena
+209,Pink (Odd),1983,3092371,7689871,Skeena
+209,Pink (Odd),1984,NA,NA,Skeena
+209,Pink (Odd),1985,1515564,3387744,Skeena
+209,Pink (Odd),1986,NA,NA,Skeena
+209,Pink (Odd),1987,2599726,5641959,Skeena
+209,Pink (Odd),1988,NA,NA,Skeena
+209,Pink (Odd),1989,3813648,7507015,Skeena
+209,Pink (Odd),1990,NA,NA,Skeena
+209,Pink (Odd),1991,4912632,17517738,Skeena
+209,Pink (Odd),1992,NA,NA,Skeena
+209,Pink (Odd),1993,707193,1905704,Skeena
+209,Pink (Odd),1994,NA,NA,Skeena
+209,Pink (Odd),1995,2618665,7482026,Skeena
+209,Pink (Odd),1996,NA,NA,Skeena
+209,Pink (Odd),1997,517296,990827,Skeena
+209,Pink (Odd),1998,NA,NA,Skeena
+209,Pink (Odd),1999,810005,1677586,Skeena
+209,Pink (Odd),2000,NA,NA,Skeena
+209,Pink (Odd),2001,1613261,2799101,Skeena
+209,Pink (Odd),2002,NA,NA,Skeena
+209,Pink (Odd),2003,1860769,2749879,Skeena
+209,Pink (Odd),2004,NA,NA,Skeena
+209,Pink (Odd),2005,1076104,1499395,Skeena
+209,Pink (Odd),2006,NA,NA,Skeena
+209,Pink (Odd),2007,437453,713615,Skeena
+209,Pink (Odd),2008,NA,NA,Skeena
+209,Pink (Odd),2009,3204768,4088005,Skeena
+209,Pink (Odd),2010,NA,NA,Skeena
+209,Pink (Odd),2011,297974,376234,Skeena
+209,Pink (Odd),2012,NA,NA,Skeena
+209,Pink (Odd),2013,1886525,2334641,Skeena
+209,Pink (Odd),2014,NA,NA,Skeena
+209,Pink (Odd),2015,206841,266267,Skeena
+209,Pink (Odd),2016,NA,NA,Skeena
+209,Pink (Odd),2017,176055,201829,Skeena
+209,Pink (Odd),2018,NA,NA,Skeena
+209,Pink (Odd),2019,NA,NA,Skeena
+209,Pink (Odd),2020,NA,NA,Skeena
+210,Chinook,1950,NA,NA,Skeena
+210,Chinook,1951,NA,NA,Skeena
+210,Chinook,1952,NA,NA,Skeena
+210,Chinook,1953,NA,NA,Skeena
+210,Chinook,1954,NA,NA,Skeena
+210,Chinook,1955,NA,NA,Skeena
+210,Chinook,1956,NA,NA,Skeena
+210,Chinook,1957,NA,NA,Skeena
+210,Chinook,1958,NA,NA,Skeena
+210,Chinook,1959,NA,NA,Skeena
+210,Chinook,1960,NA,NA,Skeena
+210,Chinook,1961,NA,NA,Skeena
+210,Chinook,1962,NA,NA,Skeena
+210,Chinook,1963,NA,NA,Skeena
+210,Chinook,1964,NA,NA,Skeena
+210,Chinook,1965,NA,NA,Skeena
+210,Chinook,1966,NA,NA,Skeena
+210,Chinook,1967,NA,NA,Skeena
+210,Chinook,1968,NA,NA,Skeena
+210,Chinook,1969,NA,NA,Skeena
+210,Chinook,1970,NA,NA,Skeena
+210,Chinook,1971,NA,NA,Skeena
+210,Chinook,1972,NA,NA,Skeena
+210,Chinook,1973,NA,NA,Skeena
+210,Chinook,1974,NA,NA,Skeena
+210,Chinook,1975,NA,NA,Skeena
+210,Chinook,1976,NA,NA,Skeena
+210,Chinook,1977,NA,NA,Skeena
+210,Chinook,1978,NA,NA,Skeena
+210,Chinook,1979,NA,NA,Skeena
+210,Chinook,1980,892,NA,Skeena
+210,Chinook,1981,1416,NA,Skeena
+210,Chinook,1982,1511,NA,Skeena
+210,Chinook,1983,511,NA,Skeena
+210,Chinook,1984,639,1397,Skeena
+210,Chinook,1985,1674,4087,Skeena
+210,Chinook,1986,2899,6653,Skeena
+210,Chinook,1987,1256,2102,Skeena
+210,Chinook,1988,612,1757,Skeena
+210,Chinook,1989,2094,4191,Skeena
+210,Chinook,1990,1346,2670,Skeena
+210,Chinook,1991,1256,3853,Skeena
+210,Chinook,1992,2292,4232,Skeena
+210,Chinook,1993,2722,5629,Skeena
+210,Chinook,1994,688,1320,Skeena
+210,Chinook,1995,1645,4440,Skeena
+210,Chinook,1996,1496,2554,Skeena
+210,Chinook,1997,1418,2539,Skeena
+210,Chinook,1998,5235,7351,Skeena
+210,Chinook,1999,1765,3436,Skeena
+210,Chinook,2000,1328,2326,Skeena
+210,Chinook,2001,1999,3525,Skeena
+210,Chinook,2002,1261,2146,Skeena
+210,Chinook,2003,1878,2991,Skeena
+210,Chinook,2004,1664,2541,Skeena
+210,Chinook,2005,1003,1787,Skeena
+210,Chinook,2006,1745,3119,Skeena
+210,Chinook,2007,1852,2838,Skeena
+210,Chinook,2008,NA,NA,Skeena
+210,Chinook,2009,1087,1686,Skeena
+210,Chinook,2010,522,778,Skeena
+210,Chinook,2011,313,546,Skeena
+210,Chinook,2012,433,713,Skeena
+210,Chinook,2013,606,976,Skeena
+210,Chinook,2014,NA,NA,Skeena
+210,Chinook,2015,NA,NA,Skeena
+210,Chinook,2016,NA,NA,Skeena
+210,Chinook,2017,NA,NA,Skeena
+210,Chinook,2018,NA,NA,Skeena
+210,Chinook,2019,NA,NA,Skeena
+210,Chinook,2020,NA,NA,Skeena
+211,Chum,1950,NA,NA,Skeena
+211,Chum,1951,NA,NA,Skeena
+211,Chum,1952,NA,NA,Skeena
+211,Chum,1953,NA,NA,Skeena
+211,Chum,1954,34152,76771,Skeena
+211,Chum,1955,514,1004,Skeena
+211,Chum,1956,6213,14004,Skeena
+211,Chum,1957,3455,7588,Skeena
+211,Chum,1958,6867,13865,Skeena
+211,Chum,1959,NA,NA,Skeena
+211,Chum,1960,NA,NA,Skeena
+211,Chum,1961,78561,153300,Skeena
+211,Chum,1962,17293,29674,Skeena
+211,Chum,1963,8901,14337,Skeena
+211,Chum,1964,8776,15669,Skeena
+211,Chum,1965,8754,15845,Skeena
+211,Chum,1966,32639,61450,Skeena
+211,Chum,1967,26686,62191,Skeena
+211,Chum,1968,18712,36290,Skeena
+211,Chum,1969,18270,33446,Skeena
+211,Chum,1970,19463,33190,Skeena
+211,Chum,1971,6878,12741,Skeena
+211,Chum,1972,55601,102589,Skeena
+211,Chum,1973,37907,68294,Skeena
+211,Chum,1974,16353,34904,Skeena
+211,Chum,1975,13243,23010,Skeena
+211,Chum,1976,14852,22618,Skeena
+211,Chum,1977,14906,34548,Skeena
+211,Chum,1978,10241,18735,Skeena
+211,Chum,1979,7796,14922,Skeena
+211,Chum,1980,39361,70216,Skeena
+211,Chum,1981,17968,39651,Skeena
+211,Chum,1982,9390,13808,Skeena
+211,Chum,1983,2330,4743,Skeena
+211,Chum,1984,55531,95268,Skeena
+211,Chum,1985,23000,41143,Skeena
+211,Chum,1986,16266,31304,Skeena
+211,Chum,1987,8511,13959,Skeena
+211,Chum,1988,169087,328529,Skeena
+211,Chum,1989,33936,60721,Skeena
+211,Chum,1990,6265,11485,Skeena
+211,Chum,1991,4394,9985,Skeena
+211,Chum,1992,7047,16079,Skeena
+211,Chum,1993,18257,35077,Skeena
+211,Chum,1994,15065,25939,Skeena
+211,Chum,1995,14942,26347,Skeena
+211,Chum,1996,16017,27672,Skeena
+211,Chum,1997,45041,60778,Skeena
+211,Chum,1998,29239,35074,Skeena
+211,Chum,1999,6168,7224,Skeena
+211,Chum,2000,10271,13910,Skeena
+211,Chum,2001,18996,25405,Skeena
+211,Chum,2002,7292,9362,Skeena
+211,Chum,2003,9786,12124,Skeena
+211,Chum,2004,25371,32333,Skeena
+211,Chum,2005,24758,28599,Skeena
+211,Chum,2006,NA,NA,Skeena
+211,Chum,2007,8102,10118,Skeena
+211,Chum,2008,4051,4967,Skeena
+211,Chum,2009,4645,5342,Skeena
+211,Chum,2010,2466,2828,Skeena
+211,Chum,2011,6973,8325,Skeena
+211,Chum,2012,5078,5920,Skeena
+211,Chum,2013,1152,1317,Skeena
+211,Chum,2014,1902,2289,Skeena
+211,Chum,2015,2012,2297,Skeena
+211,Chum,2016,2182,2578,Skeena
+211,Chum,2017,1327,1408,Skeena
+211,Chum,2018,NA,NA,Skeena
+211,Chum,2019,NA,NA,Skeena
+211,Chum,2020,NA,NA,Skeena
+212,Chinook,1950,NA,NA,Skeena
+212,Chinook,1951,NA,NA,Skeena
+212,Chinook,1952,NA,NA,Skeena
+212,Chinook,1953,NA,NA,Skeena
+212,Chinook,1954,NA,NA,Skeena
+212,Chinook,1955,NA,NA,Skeena
+212,Chinook,1956,NA,NA,Skeena
+212,Chinook,1957,NA,NA,Skeena
+212,Chinook,1958,NA,NA,Skeena
+212,Chinook,1959,NA,NA,Skeena
+212,Chinook,1960,NA,NA,Skeena
+212,Chinook,1961,NA,NA,Skeena
+212,Chinook,1962,NA,NA,Skeena
+212,Chinook,1963,NA,NA,Skeena
+212,Chinook,1964,NA,NA,Skeena
+212,Chinook,1965,NA,NA,Skeena
+212,Chinook,1966,NA,NA,Skeena
+212,Chinook,1967,NA,NA,Skeena
+212,Chinook,1968,NA,NA,Skeena
+212,Chinook,1969,NA,NA,Skeena
+212,Chinook,1970,NA,NA,Skeena
+212,Chinook,1971,NA,NA,Skeena
+212,Chinook,1972,NA,NA,Skeena
+212,Chinook,1973,NA,NA,Skeena
+212,Chinook,1974,NA,NA,Skeena
+212,Chinook,1975,NA,NA,Skeena
+212,Chinook,1976,NA,NA,Skeena
+212,Chinook,1977,NA,NA,Skeena
+212,Chinook,1978,NA,NA,Skeena
+212,Chinook,1979,NA,NA,Skeena
+212,Chinook,1980,NA,NA,Skeena
+212,Chinook,1981,NA,NA,Skeena
+212,Chinook,1982,NA,NA,Skeena
+212,Chinook,1983,NA,NA,Skeena
+212,Chinook,1984,NA,NA,Skeena
+212,Chinook,1985,NA,NA,Skeena
+212,Chinook,1986,NA,NA,Skeena
+212,Chinook,1987,NA,NA,Skeena
+212,Chinook,1988,NA,NA,Skeena
+212,Chinook,1989,NA,NA,Skeena
+212,Chinook,1990,NA,NA,Skeena
+212,Chinook,1991,NA,NA,Skeena
+212,Chinook,1992,NA,NA,Skeena
+212,Chinook,1993,NA,NA,Skeena
+212,Chinook,1994,NA,NA,Skeena
+212,Chinook,1995,NA,NA,Skeena
+212,Chinook,1996,NA,NA,Skeena
+212,Chinook,1997,NA,NA,Skeena
+212,Chinook,1998,NA,NA,Skeena
+212,Chinook,1999,NA,NA,Skeena
+212,Chinook,2000,NA,NA,Skeena
+212,Chinook,2001,NA,NA,Skeena
+212,Chinook,2002,NA,NA,Skeena
+212,Chinook,2003,NA,NA,Skeena
+212,Chinook,2004,NA,NA,Skeena
+212,Chinook,2005,NA,NA,Skeena
+212,Chinook,2006,NA,NA,Skeena
+212,Chinook,2007,NA,NA,Skeena
+212,Chinook,2008,NA,NA,Skeena
+212,Chinook,2009,NA,NA,Skeena
+212,Chinook,2010,NA,NA,Skeena
+212,Chinook,2011,NA,NA,Skeena
+212,Chinook,2012,NA,NA,Skeena
+212,Chinook,2013,NA,NA,Skeena
+212,Chinook,2014,NA,NA,Skeena
+212,Chinook,2015,NA,NA,Skeena
+212,Chinook,2016,NA,NA,Skeena
+212,Chinook,2017,NA,NA,Skeena
+212,Chinook,2018,NA,NA,Skeena
+212,Chinook,2019,NA,NA,Skeena
+212,Chinook,2020,NA,NA,Skeena
+213,Pink (Odd),1950,NA,NA,Skeena
+213,Pink (Odd),1951,NA,NA,Skeena
+213,Pink (Odd),1952,NA,NA,Skeena
+213,Pink (Odd),1953,NA,NA,Skeena
+213,Pink (Odd),1954,NA,NA,Skeena
+213,Pink (Odd),1955,302225,590883,Skeena
+213,Pink (Odd),1956,NA,NA,Skeena
+213,Pink (Odd),1957,657126,1443123,Skeena
+213,Pink (Odd),1958,NA,NA,Skeena
+213,Pink (Odd),1959,881942,1648279,Skeena
+213,Pink (Odd),1960,NA,NA,Skeena
+213,Pink (Odd),1961,516878,1008612,Skeena
+213,Pink (Odd),1962,NA,NA,Skeena
+213,Pink (Odd),1963,743669,1197863,Skeena
+213,Pink (Odd),1964,NA,NA,Skeena
+213,Pink (Odd),1965,292400,529246,Skeena
+213,Pink (Odd),1966,NA,NA,Skeena
+213,Pink (Odd),1967,409357,954011,Skeena
+213,Pink (Odd),1968,NA,NA,Skeena
+213,Pink (Odd),1969,720035,1318101,Skeena
+213,Pink (Odd),1970,NA,NA,Skeena
+213,Pink (Odd),1971,947238,1754581,Skeena
+213,Pink (Odd),1972,NA,NA,Skeena
+213,Pink (Odd),1973,750747,1352535,Skeena
+213,Pink (Odd),1974,NA,NA,Skeena
+213,Pink (Odd),1975,1270862,2208028,Skeena
+213,Pink (Odd),1976,NA,NA,Skeena
+213,Pink (Odd),1977,831133,1926412,Skeena
+213,Pink (Odd),1978,NA,NA,Skeena
+213,Pink (Odd),1979,217762,416824,Skeena
+213,Pink (Odd),1980,NA,NA,Skeena
+213,Pink (Odd),1981,676790,1493518,Skeena
+213,Pink (Odd),1982,NA,NA,Skeena
+213,Pink (Odd),1983,1904812,4736740,Skeena
+213,Pink (Odd),1984,NA,NA,Skeena
+213,Pink (Odd),1985,1663714,3718905,Skeena
+213,Pink (Odd),1986,NA,NA,Skeena
+213,Pink (Odd),1987,1934815,4198959,Skeena
+213,Pink (Odd),1988,NA,NA,Skeena
+213,Pink (Odd),1989,2533955,4987990,Skeena
+213,Pink (Odd),1990,NA,NA,Skeena
+213,Pink (Odd),1991,3668050,13079738,Skeena
+213,Pink (Odd),1992,NA,NA,Skeena
+213,Pink (Odd),1993,608450,1639619,Skeena
+213,Pink (Odd),1994,NA,NA,Skeena
+213,Pink (Odd),1995,948514,2710085,Skeena
+213,Pink (Odd),1996,NA,NA,Skeena
+213,Pink (Odd),1997,283070,542191,Skeena
+213,Pink (Odd),1998,NA,NA,Skeena
+213,Pink (Odd),1999,980444,2030579,Skeena
+213,Pink (Odd),2000,NA,NA,Skeena
+213,Pink (Odd),2001,583558,1012507,Skeena
+213,Pink (Odd),2002,NA,NA,Skeena
+213,Pink (Odd),2003,1643221,2428382,Skeena
+213,Pink (Odd),2004,NA,NA,Skeena
+213,Pink (Odd),2005,1932477,2692626,Skeena
+213,Pink (Odd),2006,NA,NA,Skeena
+213,Pink (Odd),2007,1068141,1742457,Skeena
+213,Pink (Odd),2008,NA,NA,Skeena
+213,Pink (Odd),2009,3283065,4187880,Skeena
+213,Pink (Odd),2010,NA,NA,Skeena
+213,Pink (Odd),2011,416506,525898,Skeena
+213,Pink (Odd),2012,NA,NA,Skeena
+213,Pink (Odd),2013,572472,708454,Skeena
+213,Pink (Odd),2014,NA,NA,Skeena
+213,Pink (Odd),2015,453039,583198,Skeena
+213,Pink (Odd),2016,NA,NA,Skeena
+213,Pink (Odd),2017,853053,977934,Skeena
+213,Pink (Odd),2018,NA,NA,Skeena
+213,Pink (Odd),2019,NA,NA,Skeena
+213,Pink (Odd),2020,NA,NA,Skeena
+214,Chum,1950,NA,NA,Skeena
+214,Chum,1951,NA,NA,Skeena
+214,Chum,1952,NA,NA,Skeena
+214,Chum,1953,NA,NA,Skeena
+214,Chum,1954,51186,115060,Skeena
+214,Chum,1955,21937,42889,Skeena
+214,Chum,1956,51186,115372,Skeena
+214,Chum,1957,5850,12847,Skeena
+214,Chum,1958,5850,11810,Skeena
+214,Chum,1959,10968,20499,Skeena
+214,Chum,1960,266,478,Skeena
+214,Chum,1961,366,713,Skeena
+214,Chum,1962,133,229,Skeena
+214,Chum,1963,NA,NA,Skeena
+214,Chum,1964,1532,2735,Skeena
+214,Chum,1965,1132,2049,Skeena
+214,Chum,1966,599,1128,Skeena
+214,Chum,1967,489,1139,Skeena
+214,Chum,1968,1097,2127,Skeena
+214,Chum,1969,266,488,Skeena
+214,Chum,1970,286,488,Skeena
+214,Chum,1971,286,530,Skeena
+214,Chum,1972,2531,4669,Skeena
+214,Chum,1973,1265,2280,Skeena
+214,Chum,1974,1598,3411,Skeena
+214,Chum,1975,1066,1851,Skeena
+214,Chum,1976,400,609,Skeena
+214,Chum,1977,599,1389,Skeena
+214,Chum,1978,599,1097,Skeena
+214,Chum,1979,NA,NA,Skeena
+214,Chum,1980,NA,NA,Skeena
+214,Chum,1981,5939,13107,Skeena
+214,Chum,1982,2376,3494,Skeena
+214,Chum,1983,2376,4835,Skeena
+214,Chum,1984,5408,9278,Skeena
+214,Chum,1985,8315,14875,Skeena
+214,Chum,1986,2021,3889,Skeena
+214,Chum,1987,1212,1988,Skeena
+214,Chum,1988,13471,26173,Skeena
+214,Chum,1989,4041,7231,Skeena
+214,Chum,1990,4262,7813,Skeena
+214,Chum,1991,4196,9534,Skeena
+214,Chum,1992,3330,7598,Skeena
+214,Chum,1993,1630,3132,Skeena
+214,Chum,1994,1440,2480,Skeena
+214,Chum,1995,1008,1778,Skeena
+214,Chum,1996,864,1493,Skeena
+214,Chum,1997,576,777,Skeena
+214,Chum,1998,1152,1382,Skeena
+214,Chum,1999,NA,NA,Skeena
+214,Chum,2000,NA,NA,Skeena
+214,Chum,2001,NA,NA,Skeena
+214,Chum,2002,NA,NA,Skeena
+214,Chum,2003,3371,4176,Skeena
+214,Chum,2004,3745,4773,Skeena
+214,Chum,2005,3576,4131,Skeena
+214,Chum,2006,1316,1634,Skeena
+214,Chum,2007,680,849,Skeena
+214,Chum,2008,288,353,Skeena
+214,Chum,2009,1592,1831,Skeena
+214,Chum,2010,707,810,Skeena
+214,Chum,2011,905,1081,Skeena
+214,Chum,2012,838,978,Skeena
+214,Chum,2013,1116,1275,Skeena
+214,Chum,2014,833,1002,Skeena
+214,Chum,2015,614,701,Skeena
+214,Chum,2016,1614,1907,Skeena
+214,Chum,2017,665,706,Skeena
+214,Chum,2018,NA,NA,Skeena
+214,Chum,2019,NA,NA,Skeena
+214,Chum,2020,NA,NA,Skeena
+215,Coho,1950,NA,NA,Skeena
+215,Coho,1951,NA,NA,Skeena
+215,Coho,1952,NA,NA,Skeena
+215,Coho,1953,NA,NA,Skeena
+215,Coho,1954,179410,398689,Skeena
+215,Coho,1955,144682,321515,Skeena
+215,Coho,1956,210753,468339,Skeena
+215,Coho,1957,50649,112554,Skeena
+215,Coho,1958,84084,186852,Skeena
+215,Coho,1959,81728,181617,Skeena
+215,Coho,1960,183008,406686,Skeena
+215,Coho,1961,72839,161865,Skeena
+215,Coho,1962,123096,273547,Skeena
+215,Coho,1963,45016,90031,Skeena
+215,Coho,1964,55847,150938,Skeena
+215,Coho,1965,68618,131958,Skeena
+215,Coho,1966,65007,158554,Skeena
+215,Coho,1967,50106,94540,Skeena
+215,Coho,1968,119879,292387,Skeena
+215,Coho,1969,74631,149263,Skeena
+215,Coho,1970,66673,155053,Skeena
+215,Coho,1971,86505,201176,Skeena
+215,Coho,1972,105419,310054,Skeena
+215,Coho,1973,84222,171882,Skeena
+215,Coho,1974,52996,120446,Skeena
+215,Coho,1975,23367,43272,Skeena
+215,Coho,1976,40769,75498,Skeena
+215,Coho,1977,67002,163420,Skeena
+215,Coho,1978,85372,275393,Skeena
+215,Coho,1979,13847,47749,Skeena
+215,Coho,1980,58527,225103,Skeena
+215,Coho,1981,24117,73082,Skeena
+215,Coho,1982,47537,113184,Skeena
+215,Coho,1983,59021,310639,Skeena
+215,Coho,1984,37794,134979,Skeena
+215,Coho,1985,33805,135221,Skeena
+215,Coho,1986,52572,309247,Skeena
+215,Coho,1987,44195,122765,Skeena
+215,Coho,1988,8552,23113,Skeena
+215,Coho,1989,72892,189277,Skeena
+215,Coho,1990,85000,280898,Skeena
+215,Coho,1991,58033,154434,Skeena
+215,Coho,1992,44713,128771,Skeena
+215,Coho,1993,34996,80790,Skeena
+215,Coho,1994,63498,184229,Skeena
+215,Coho,1995,17136,27757,Skeena
+215,Coho,1996,27447,104722,Skeena
+215,Coho,1997,9060,18130,Skeena
+215,Coho,1998,59828,74347,Skeena
+215,Coho,1999,188448,241607,Skeena
+215,Coho,2000,136304,165458,Skeena
+215,Coho,2001,333828,463706,Skeena
+215,Coho,2002,245261,319873,Skeena
+215,Coho,2003,222614,303777,Skeena
+215,Coho,2004,169283,281653,Skeena
+215,Coho,2005,398685,548109,Skeena
+215,Coho,2006,225266,291799,Skeena
+215,Coho,2007,163456,284014,Skeena
+215,Coho,2008,144141,218195,Skeena
+215,Coho,2009,350118,558660,Skeena
+215,Coho,2010,188635,270876,Skeena
+215,Coho,2011,73965,129584,Skeena
+215,Coho,2012,137341,208583,Skeena
+215,Coho,2013,235092,371444,Skeena
+215,Coho,2014,271287,358219,Skeena
+215,Coho,2015,105821,176471,Skeena
+215,Coho,2016,211500,361138,Skeena
+215,Coho,2017,209016,209016,Skeena
+215,Coho,2018,NA,NA,Skeena
+215,Coho,2019,NA,NA,Skeena
+215,Coho,2020,NA,NA,Skeena
+216,River Sockeye,1950,NA,NA,Skeena
+216,River Sockeye,1951,NA,NA,Skeena
+216,River Sockeye,1952,NA,NA,Skeena
+216,River Sockeye,1953,NA,NA,Skeena
+216,River Sockeye,1954,NA,NA,Skeena
+216,River Sockeye,1955,NA,NA,Skeena
+216,River Sockeye,1956,NA,NA,Skeena
+216,River Sockeye,1957,NA,NA,Skeena
+216,River Sockeye,1958,NA,NA,Skeena
+216,River Sockeye,1959,NA,NA,Skeena
+216,River Sockeye,1960,NA,NA,Skeena
+216,River Sockeye,1961,NA,NA,Skeena
+216,River Sockeye,1962,NA,NA,Skeena
+216,River Sockeye,1963,NA,NA,Skeena
+216,River Sockeye,1964,NA,NA,Skeena
+216,River Sockeye,1965,NA,NA,Skeena
+216,River Sockeye,1966,NA,NA,Skeena
+216,River Sockeye,1967,NA,NA,Skeena
+216,River Sockeye,1968,NA,NA,Skeena
+216,River Sockeye,1969,NA,NA,Skeena
+216,River Sockeye,1970,NA,NA,Skeena
+216,River Sockeye,1971,NA,NA,Skeena
+216,River Sockeye,1972,NA,NA,Skeena
+216,River Sockeye,1973,NA,NA,Skeena
+216,River Sockeye,1974,NA,NA,Skeena
+216,River Sockeye,1975,NA,NA,Skeena
+216,River Sockeye,1976,NA,NA,Skeena
+216,River Sockeye,1977,NA,NA,Skeena
+216,River Sockeye,1978,NA,NA,Skeena
+216,River Sockeye,1979,NA,NA,Skeena
+216,River Sockeye,1980,NA,NA,Skeena
+216,River Sockeye,1981,NA,NA,Skeena
+216,River Sockeye,1982,NA,NA,Skeena
+216,River Sockeye,1983,NA,NA,Skeena
+216,River Sockeye,1984,NA,NA,Skeena
+216,River Sockeye,1985,NA,NA,Skeena
+216,River Sockeye,1986,NA,NA,Skeena
+216,River Sockeye,1987,NA,NA,Skeena
+216,River Sockeye,1988,NA,NA,Skeena
+216,River Sockeye,1989,NA,NA,Skeena
+216,River Sockeye,1990,NA,NA,Skeena
+216,River Sockeye,1991,NA,NA,Skeena
+216,River Sockeye,1992,NA,NA,Skeena
+216,River Sockeye,1993,NA,NA,Skeena
+216,River Sockeye,1994,NA,NA,Skeena
+216,River Sockeye,1995,NA,NA,Skeena
+216,River Sockeye,1996,NA,NA,Skeena
+216,River Sockeye,1997,NA,NA,Skeena
+216,River Sockeye,1998,NA,NA,Skeena
+216,River Sockeye,1999,NA,NA,Skeena
+216,River Sockeye,2000,NA,NA,Skeena
+216,River Sockeye,2001,139,241,Skeena
+216,River Sockeye,2002,10,19,Skeena
+216,River Sockeye,2003,130,188,Skeena
+216,River Sockeye,2004,208,303,Skeena
+216,River Sockeye,2005,41,54,Skeena
+216,River Sockeye,2006,,,Skeena
+216,River Sockeye,2007,20,34,Skeena
+216,River Sockeye,2008,105,164,Skeena
+216,River Sockeye,2009,83,98,Skeena
+216,River Sockeye,2010,4,5,Skeena
+216,River Sockeye,2011,160,234,Skeena
+216,River Sockeye,2012,90,126,Skeena
+216,River Sockeye,2013,,,Skeena
+216,River Sockeye,2014,,,Skeena
+216,River Sockeye,2015,170,212,Skeena
+216,River Sockeye,2016,285,435,Skeena
+216,River Sockeye,2017,91,98,Skeena
+216,River Sockeye,2018,,,Skeena
+216,River Sockeye,2019,335,431,Skeena
+216,River Sockeye,2020,,,Skeena
+216,River Sockeye,2021,,,Skeena
+216,River Sockeye,2022,,,Skeena
+216,River Sockeye,2023,,,Skeena
+217,Chinook,1950,NA,NA,Skeena
+217,Chinook,1951,NA,NA,Skeena
+217,Chinook,1952,NA,NA,Skeena
+217,Chinook,1953,NA,NA,Skeena
+217,Chinook,1954,NA,NA,Skeena
+217,Chinook,1955,NA,NA,Skeena
+217,Chinook,1956,NA,NA,Skeena
+217,Chinook,1957,NA,NA,Skeena
+217,Chinook,1958,NA,NA,Skeena
+217,Chinook,1959,NA,NA,Skeena
+217,Chinook,1960,NA,NA,Skeena
+217,Chinook,1961,NA,NA,Skeena
+217,Chinook,1962,NA,NA,Skeena
+217,Chinook,1963,NA,NA,Skeena
+217,Chinook,1964,NA,NA,Skeena
+217,Chinook,1965,NA,NA,Skeena
+217,Chinook,1966,NA,NA,Skeena
+217,Chinook,1967,NA,NA,Skeena
+217,Chinook,1968,NA,NA,Skeena
+217,Chinook,1969,NA,NA,Skeena
+217,Chinook,1970,NA,NA,Skeena
+217,Chinook,1971,NA,NA,Skeena
+217,Chinook,1972,NA,NA,Skeena
+217,Chinook,1973,NA,NA,Skeena
+217,Chinook,1974,NA,NA,Skeena
+217,Chinook,1975,NA,NA,Skeena
+217,Chinook,1976,NA,NA,Skeena
+217,Chinook,1977,NA,NA,Skeena
+217,Chinook,1978,NA,NA,Skeena
+217,Chinook,1979,NA,NA,Skeena
+217,Chinook,1980,566,NA,Skeena
+217,Chinook,1981,1639,NA,Skeena
+217,Chinook,1982,NA,NA,Skeena
+217,Chinook,1983,1130,NA,Skeena
+217,Chinook,1984,1942,4248,Skeena
+217,Chinook,1985,5226,12763,Skeena
+217,Chinook,1986,8711,19989,Skeena
+217,Chinook,1987,8711,14572,Skeena
+217,Chinook,1988,10453,29998,Skeena
+217,Chinook,1989,7840,15690,Skeena
+217,Chinook,1990,11324,22459,Skeena
+217,Chinook,1991,8188,25112,Skeena
+217,Chinook,1992,28745,53091,Skeena
+217,Chinook,1993,7622,15761,Skeena
+217,Chinook,1994,9582,18387,Skeena
+217,Chinook,1995,5052,13633,Skeena
+217,Chinook,1996,10975,18740,Skeena
+217,Chinook,1997,9233,16531,Skeena
+217,Chinook,1998,13927,19556,Skeena
+217,Chinook,1999,12195,23738,Skeena
+217,Chinook,2000,15409,26983,Skeena
+217,Chinook,2001,18263,32205,Skeena
+217,Chinook,2002,8281,14091,Skeena
+217,Chinook,2003,14225,22650,Skeena
+217,Chinook,2004,10299,15732,Skeena
+217,Chinook,2005,15970,28470,Skeena
+217,Chinook,2006,20022,35783,Skeena
+217,Chinook,2007,22916,35120,Skeena
+217,Chinook,2008,9616,21298,Skeena
+217,Chinook,2009,5465,8479,Skeena
+217,Chinook,2010,7325,10927,Skeena
+217,Chinook,2011,5604,9770,Skeena
+217,Chinook,2012,5624,9269,Skeena
+217,Chinook,2013,5027,8097,Skeena
+217,Chinook,2014,6413,10396,Skeena
+217,Chinook,2015,5949,10682,Skeena
+217,Chinook,2016,4344,7617,Skeena
+217,Chinook,2017,3886,7022,Skeena
+217,Chinook,2018,NA,NA,Skeena
+217,Chinook,2019,NA,NA,Skeena
+217,Chinook,2020,NA,NA,Skeena
+218,Pink (Even),1950,NA,NA,Skeena
+218,Pink (Even),1951,NA,NA,Skeena
+218,Pink (Even),1952,NA,NA,Skeena
+218,Pink (Even),1953,NA,NA,Skeena
+218,Pink (Even),1954,171035,384467,Skeena
+218,Pink (Even),1955,NA,NA,Skeena
+218,Pink (Even),1956,80375,181164,Skeena
+218,Pink (Even),1957,NA,NA,Skeena
+218,Pink (Even),1958,226250,456768,Skeena
+218,Pink (Even),1959,NA,NA,Skeena
+218,Pink (Even),1960,63674,114252,Skeena
+218,Pink (Even),1961,NA,NA,Skeena
+218,Pink (Even),1962,245097,420587,Skeena
+218,Pink (Even),1963,NA,NA,Skeena
+218,Pink (Even),1964,154731,276268,Skeena
+218,Pink (Even),1965,NA,NA,Skeena
+218,Pink (Even),1966,247204,465407,Skeena
+218,Pink (Even),1967,NA,NA,Skeena
+218,Pink (Even),1968,497653,965118,Skeena
+218,Pink (Even),1969,NA,NA,Skeena
+218,Pink (Even),1970,777840,1326454,Skeena
+218,Pink (Even),1971,NA,NA,Skeena
+218,Pink (Even),1972,441711,814994,Skeena
+218,Pink (Even),1973,NA,NA,Skeena
+218,Pink (Even),1974,80451,171711,Skeena
+218,Pink (Even),1975,NA,NA,Skeena
+218,Pink (Even),1976,623261,949164,Skeena
+218,Pink (Even),1977,NA,NA,Skeena
+218,Pink (Even),1978,1012011,1851409,Skeena
+218,Pink (Even),1979,NA,NA,Skeena
+218,Pink (Even),1980,607592,1083877,Skeena
+218,Pink (Even),1981,NA,NA,Skeena
+218,Pink (Even),1982,972486,1425974,Skeena
+218,Pink (Even),1983,NA,NA,Skeena
+218,Pink (Even),1984,359935,942472,Skeena
+218,Pink (Even),1985,NA,NA,Skeena
+218,Pink (Even),1986,878763,2109935,Skeena
+218,Pink (Even),1987,NA,NA,Skeena
+218,Pink (Even),1988,285865,792639,Skeena
+218,Pink (Even),1989,NA,NA,Skeena
+218,Pink (Even),1990,1593105,3231191,Skeena
+218,Pink (Even),1991,NA,NA,Skeena
+218,Pink (Even),1992,1193579,3920847,Skeena
+218,Pink (Even),1993,NA,NA,Skeena
+218,Pink (Even),1994,238892,555590,Skeena
+218,Pink (Even),1995,NA,NA,Skeena
+218,Pink (Even),1996,1355995,3366598,Skeena
+218,Pink (Even),1997,NA,NA,Skeena
+218,Pink (Even),1998,212595,292662,Skeena
+218,Pink (Even),1999,NA,NA,Skeena
+218,Pink (Even),2000,267430,540583,Skeena
+218,Pink (Even),2001,NA,NA,Skeena
+218,Pink (Even),2002,128178,199499,Skeena
+218,Pink (Even),2003,NA,NA,Skeena
+218,Pink (Even),2004,258507,434237,Skeena
+218,Pink (Even),2005,NA,NA,Skeena
+218,Pink (Even),2006,128291,231411,Skeena
+218,Pink (Even),2007,NA,NA,Skeena
+218,Pink (Even),2008,82519,114039,Skeena
+218,Pink (Even),2009,NA,NA,Skeena
+218,Pink (Even),2010,183372,213704,Skeena
+218,Pink (Even),2011,NA,NA,Skeena
+218,Pink (Even),2012,154537,202274,Skeena
+218,Pink (Even),2013,NA,NA,Skeena
+218,Pink (Even),2014,485780,692478,Skeena
+218,Pink (Even),2015,NA,NA,Skeena
+218,Pink (Even),2016,160195,208696,Skeena
+218,Pink (Even),2017,NA,NA,Skeena
+218,Pink (Even),2018,NA,NA,Skeena
+218,Pink (Even),2019,NA,NA,Skeena
+218,Pink (Even),2020,NA,NA,Skeena
+219,Pink (Even),1950,NA,NA,Skeena
+219,Pink (Even),1951,NA,NA,Skeena
+219,Pink (Even),1952,NA,NA,Skeena
+219,Pink (Even),1953,NA,NA,Skeena
+219,Pink (Even),1954,843146,1522547,Skeena
+219,Pink (Even),1955,NA,NA,Skeena
+219,Pink (Even),1956,493389,1247491,Skeena
+219,Pink (Even),1957,NA,NA,Skeena
+219,Pink (Even),1958,530174,997927,Skeena
+219,Pink (Even),1959,NA,NA,Skeena
+219,Pink (Even),1960,380814,642308,Skeena
+219,Pink (Even),1961,NA,NA,Skeena
+219,Pink (Even),1962,1892597,2722172,Skeena
+219,Pink (Even),1963,NA,NA,Skeena
+219,Pink (Even),1964,3132561,4711853,Skeena
+219,Pink (Even),1965,NA,NA,Skeena
+219,Pink (Even),1966,1577170,2488165,Skeena
+219,Pink (Even),1967,NA,NA,Skeena
+219,Pink (Even),1968,2807509,4972719,Skeena
+219,Pink (Even),1969,NA,NA,Skeena
+219,Pink (Even),1970,1521990,2404378,Skeena
+219,Pink (Even),1971,NA,NA,Skeena
+219,Pink (Even),1972,2527505,3985183,Skeena
+219,Pink (Even),1973,NA,NA,Skeena
+219,Pink (Even),1974,766905,1308909,Skeena
+219,Pink (Even),1975,NA,NA,Skeena
+219,Pink (Even),1976,992919,1338511,Skeena
+219,Pink (Even),1977,NA,NA,Skeena
+219,Pink (Even),1978,1145818,2137121,Skeena
+219,Pink (Even),1979,NA,NA,Skeena
+219,Pink (Even),1980,1018335,1823475,Skeena
+219,Pink (Even),1981,NA,NA,Skeena
+219,Pink (Even),1982,1238837,2224594,Skeena
+219,Pink (Even),1983,NA,NA,Skeena
+219,Pink (Even),1984,2468996,5497689,Skeena
+219,Pink (Even),1985,NA,NA,Skeena
+219,Pink (Even),1986,2943006,6670315,Skeena
+219,Pink (Even),1987,NA,NA,Skeena
+219,Pink (Even),1988,1442672,3057099,Skeena
+219,Pink (Even),1989,NA,NA,Skeena
+219,Pink (Even),1990,3431780,6149956,Skeena
+219,Pink (Even),1991,NA,NA,Skeena
+219,Pink (Even),1992,597072,1126338,Skeena
+219,Pink (Even),1993,NA,NA,Skeena
+219,Pink (Even),1994,419130,636786,Skeena
+219,Pink (Even),1995,NA,NA,Skeena
+219,Pink (Even),1996,2797784,5388525,Skeena
+219,Pink (Even),1997,NA,NA,Skeena
+219,Pink (Even),1998,522623,732549,Skeena
+219,Pink (Even),1999,NA,NA,Skeena
+219,Pink (Even),2000,1094709,1704339,Skeena
+219,Pink (Even),2001,NA,NA,Skeena
+219,Pink (Even),2002,2281210,3229840,Skeena
+219,Pink (Even),2003,NA,NA,Skeena
+219,Pink (Even),2004,2220776,3706813,Skeena
+219,Pink (Even),2005,NA,NA,Skeena
+219,Pink (Even),2006,394700,482321,Skeena
+219,Pink (Even),2007,NA,NA,Skeena
+219,Pink (Even),2008,213534,251549,Skeena
+219,Pink (Even),2009,NA,NA,Skeena
+219,Pink (Even),2010,1009340,1186567,Skeena
+219,Pink (Even),2011,NA,NA,Skeena
+219,Pink (Even),2012,1033670,1298582,Skeena
+219,Pink (Even),2013,NA,NA,Skeena
+219,Pink (Even),2014,3624384,4700646,Skeena
+219,Pink (Even),2015,NA,NA,Skeena
+219,Pink (Even),2016,824510,1075600,Skeena
+219,Pink (Even),2017,NA,NA,Skeena
+219,Pink (Even),2018,NA,NA,Skeena
+219,Pink (Even),2019,NA,NA,Skeena
+219,Pink (Even),2020,NA,NA,Skeena
+220,Chum,1950,NA,NA,Skeena
+220,Chum,1951,NA,NA,Skeena
+220,Chum,1952,NA,NA,Skeena
+220,Chum,1953,NA,NA,Skeena
+220,Chum,1954,15112,33969,Skeena
+220,Chum,1955,1559,3048,Skeena
+220,Chum,1956,1371,3091,Skeena
+220,Chum,1957,13367,29355,Skeena
+220,Chum,1958,2099,4237,Skeena
+220,Chum,1959,1539,2877,Skeena
+220,Chum,1960,1871,3356,Skeena
+220,Chum,1961,2938,5734,Skeena
+220,Chum,1962,1539,2641,Skeena
+220,Chum,1963,2650,4268,Skeena
+220,Chum,1964,3897,6958,Skeena
+220,Chum,1965,4095,7413,Skeena
+220,Chum,1966,1871,3522,Skeena
+220,Chum,1967,1119,2609,Skeena
+220,Chum,1968,2299,4459,Skeena
+220,Chum,1969,330,604,Skeena
+220,Chum,1970,NA,NA,Skeena
+220,Chum,1971,NA,NA,Skeena
+220,Chum,1972,1093,2018,Skeena
+220,Chum,1973,1093,1970,Skeena
+220,Chum,1974,NA,NA,Skeena
+220,Chum,1975,NA,NA,Skeena
+220,Chum,1976,1093,1665,Skeena
+220,Chum,1977,NA,NA,Skeena
+220,Chum,1978,797,1459,Skeena
+220,Chum,1979,NA,NA,Skeena
+220,Chum,1980,NA,NA,Skeena
+220,Chum,1981,NA,NA,Skeena
+220,Chum,1982,273,402,Skeena
+220,Chum,1983,46,93,Skeena
+220,Chum,1984,456,782,Skeena
+220,Chum,1985,NA,NA,Skeena
+220,Chum,1986,617,1188,Skeena
+220,Chum,1987,NA,NA,Skeena
+220,Chum,1988,319,620,Skeena
+220,Chum,1989,198,353,Skeena
+220,Chum,1990,NA,NA,Skeena
+220,Chum,1991,NA,NA,Skeena
+220,Chum,1992,55,125,Skeena
+220,Chum,1993,228,438,Skeena
+220,Chum,1994,NA,NA,Skeena
+220,Chum,1995,456,803,Skeena
+220,Chum,1996,NA,NA,Skeena
+220,Chum,1997,NA,NA,Skeena
+220,Chum,1998,638,765,Skeena
+220,Chum,1999,NA,NA,Skeena
+220,Chum,2000,205,277,Skeena
+220,Chum,2001,NA,NA,Skeena
+220,Chum,2002,273,351,Skeena
+220,Chum,2003,NA,NA,Skeena
+220,Chum,2004,182,232,Skeena
+220,Chum,2005,1367,1579,Skeena
+220,Chum,2006,3189,3961,Skeena
+220,Chum,2007,NA,NA,Skeena
+220,Chum,2008,NA,NA,Skeena
+220,Chum,2009,1822,2096,Skeena
+220,Chum,2010,957,1097,Skeena
+220,Chum,2011,NA,NA,Skeena
+220,Chum,2012,NA,NA,Skeena
+220,Chum,2013,185,212,Skeena
+220,Chum,2014,NA,NA,Skeena
+220,Chum,2015,NA,NA,Skeena
+220,Chum,2016,364,431,Skeena
+220,Chum,2017,456,483,Skeena
+220,Chum,2018,NA,NA,Skeena
+220,Chum,2019,NA,NA,Skeena
+220,Chum,2020,NA,NA,Skeena
+221,Chinook,1950,NA,NA,Skeena
+221,Chinook,1951,NA,NA,Skeena
+221,Chinook,1952,NA,NA,Skeena
+221,Chinook,1953,NA,NA,Skeena
+221,Chinook,1954,NA,NA,Skeena
+221,Chinook,1955,NA,NA,Skeena
+221,Chinook,1956,NA,NA,Skeena
+221,Chinook,1957,NA,NA,Skeena
+221,Chinook,1958,NA,NA,Skeena
+221,Chinook,1959,NA,NA,Skeena
+221,Chinook,1960,NA,NA,Skeena
+221,Chinook,1961,NA,NA,Skeena
+221,Chinook,1962,NA,NA,Skeena
+221,Chinook,1963,NA,NA,Skeena
+221,Chinook,1964,NA,NA,Skeena
+221,Chinook,1965,NA,NA,Skeena
+221,Chinook,1966,NA,NA,Skeena
+221,Chinook,1967,NA,NA,Skeena
+221,Chinook,1968,NA,NA,Skeena
+221,Chinook,1969,NA,NA,Skeena
+221,Chinook,1970,NA,NA,Skeena
+221,Chinook,1971,NA,NA,Skeena
+221,Chinook,1972,NA,NA,Skeena
+221,Chinook,1973,NA,NA,Skeena
+221,Chinook,1974,NA,NA,Skeena
+221,Chinook,1975,NA,NA,Skeena
+221,Chinook,1976,NA,NA,Skeena
+221,Chinook,1977,NA,NA,Skeena
+221,Chinook,1978,NA,NA,Skeena
+221,Chinook,1979,NA,NA,Skeena
+221,Chinook,1980,739,NA,Skeena
+221,Chinook,1981,369,NA,Skeena
+221,Chinook,1982,148,NA,Skeena
+221,Chinook,1983,591,NA,Skeena
+221,Chinook,1984,296,313,Skeena
+221,Chinook,1985,517,550,Skeena
+221,Chinook,1986,665,705,Skeena
+221,Chinook,1987,369,385,Skeena
+221,Chinook,1988,1478,1581,Skeena
+221,Chinook,1989,739,778,Skeena
+221,Chinook,1990,443,467,Skeena
+221,Chinook,1991,1774,1902,Skeena
+221,Chinook,1992,2069,2169,Skeena
+221,Chinook,1993,1626,1714,Skeena
+221,Chinook,1994,591,621,Skeena
+221,Chinook,1995,517,552,Skeena
+221,Chinook,1996,1518,1583,Skeena
+221,Chinook,1997,1129,1181,Skeena
+221,Chinook,1998,1626,1674,Skeena
+221,Chinook,1999,1020,1072,Skeena
+221,Chinook,2000,3784,3953,Skeena
+221,Chinook,2001,8277,8651,Skeena
+221,Chinook,2002,1626,1696,Skeena
+221,Chinook,2003,1892,1965,Skeena
+221,Chinook,2004,NA,NA,Skeena
+221,Chinook,2005,916,958,Skeena
+221,Chinook,2006,1138,1190,Skeena
+221,Chinook,2007,NA,NA,Skeena
+221,Chinook,2008,NA,NA,Skeena
+221,Chinook,2009,NA,NA,Skeena
+221,Chinook,2010,NA,NA,Skeena
+221,Chinook,2011,NA,NA,Skeena
+221,Chinook,2012,NA,NA,Skeena
+221,Chinook,2013,NA,NA,Skeena
+221,Chinook,2014,NA,NA,Skeena
+221,Chinook,2015,NA,NA,Skeena
+221,Chinook,2016,NA,NA,Skeena
+221,Chinook,2017,NA,NA,Skeena
+221,Chinook,2018,NA,NA,Skeena
+221,Chinook,2019,NA,NA,Skeena
+221,Chinook,2020,NA,NA,Skeena
+222,Chinook,1950,NA,NA,Skeena
+222,Chinook,1951,NA,NA,Skeena
+222,Chinook,1952,NA,NA,Skeena
+222,Chinook,1953,NA,NA,Skeena
+222,Chinook,1954,NA,NA,Skeena
+222,Chinook,1955,NA,NA,Skeena
+222,Chinook,1956,NA,NA,Skeena
+222,Chinook,1957,NA,NA,Skeena
+222,Chinook,1958,NA,NA,Skeena
+222,Chinook,1959,NA,NA,Skeena
+222,Chinook,1960,NA,NA,Skeena
+222,Chinook,1961,NA,NA,Skeena
+222,Chinook,1962,NA,NA,Skeena
+222,Chinook,1963,NA,NA,Skeena
+222,Chinook,1964,NA,NA,Skeena
+222,Chinook,1965,NA,NA,Skeena
+222,Chinook,1966,NA,NA,Skeena
+222,Chinook,1967,NA,NA,Skeena
+222,Chinook,1968,NA,NA,Skeena
+222,Chinook,1969,NA,NA,Skeena
+222,Chinook,1970,NA,NA,Skeena
+222,Chinook,1971,NA,NA,Skeena
+222,Chinook,1972,NA,NA,Skeena
+222,Chinook,1973,NA,NA,Skeena
+222,Chinook,1974,NA,NA,Skeena
+222,Chinook,1975,NA,NA,Skeena
+222,Chinook,1976,NA,NA,Skeena
+222,Chinook,1977,NA,NA,Skeena
+222,Chinook,1978,NA,NA,Skeena
+222,Chinook,1979,NA,NA,Skeena
+222,Chinook,1980,19258,NA,Skeena
+222,Chinook,1981,12284,NA,Skeena
+222,Chinook,1982,8990,NA,Skeena
+222,Chinook,1983,11803,NA,Skeena
+222,Chinook,1984,23872,52201,Skeena
+222,Chinook,1985,43990,107429,Skeena
+222,Chinook,1986,42367,97226,Skeena
+222,Chinook,1987,23828,39862,Skeena
+222,Chinook,1988,36655,105194,Skeena
+222,Chinook,1989,33085,66214,Skeena
+222,Chinook,1990,31484,62442,Skeena
+222,Chinook,1991,43189,132456,Skeena
+222,Chinook,1992,38329,70793,Skeena
+222,Chinook,1993,56921,117706,Skeena
+222,Chinook,1994,9631,18481,Skeena
+222,Chinook,1995,27463,74104,Skeena
+222,Chinook,1996,69182,118126,Skeena
+222,Chinook,1997,38271,68520,Skeena
+222,Chinook,1998,33670,47280,Skeena
+222,Chinook,1999,32545,63349,Skeena
+222,Chinook,2000,41118,72001,Skeena
+222,Chinook,2001,47410,83602,Skeena
+222,Chinook,2002,17529,29828,Skeena
+222,Chinook,2003,27466,43731,Skeena
+222,Chinook,2004,13426,20509,Skeena
+222,Chinook,2005,14970,26687,Skeena
+222,Chinook,2006,26682,47686,Skeena
+222,Chinook,2007,21448,32870,Skeena
+222,Chinook,2008,27892,61776,Skeena
+222,Chinook,2009,31046,48168,Skeena
+222,Chinook,2010,30700,45800,Skeena
+222,Chinook,2011,26808,46736,Skeena
+222,Chinook,2012,29780,49081,Skeena
+222,Chinook,2013,18830,30329,Skeena
+222,Chinook,2014,19709,31950,Skeena
+222,Chinook,2015,32318,58029,Skeena
+222,Chinook,2016,29446,51629,Skeena
+222,Chinook,2017,7673,13863,Skeena
+222,Chinook,2018,NA,NA,Skeena
+222,Chinook,2019,NA,NA,Skeena
+222,Chinook,2020,NA,NA,Skeena
+223,Pink (Odd),1950,NA,NA,Skeena
+223,Pink (Odd),1951,NA,NA,Skeena
+223,Pink (Odd),1952,NA,NA,Skeena
+223,Pink (Odd),1953,NA,NA,Skeena
+223,Pink (Odd),1954,NA,NA,Skeena
+223,Pink (Odd),1955,129860,231634,Skeena
+223,Pink (Odd),1956,NA,NA,Skeena
+223,Pink (Odd),1957,61794,130340,Skeena
+223,Pink (Odd),1958,NA,NA,Skeena
+223,Pink (Odd),1959,114362,200981,Skeena
+223,Pink (Odd),1960,NA,NA,Skeena
+223,Pink (Odd),1961,177792,297665,Skeena
+223,Pink (Odd),1962,NA,NA,Skeena
+223,Pink (Odd),1963,114450,147227,Skeena
+223,Pink (Odd),1964,NA,NA,Skeena
+223,Pink (Odd),1965,90133,162740,Skeena
+223,Pink (Odd),1966,NA,NA,Skeena
+223,Pink (Odd),1967,23547,53841,Skeena
+223,Pink (Odd),1968,NA,NA,Skeena
+223,Pink (Odd),1969,37824,64939,Skeena
+223,Pink (Odd),1970,NA,NA,Skeena
+223,Pink (Odd),1971,138826,213934,Skeena
+223,Pink (Odd),1972,NA,NA,Skeena
+223,Pink (Odd),1973,45482,65631,Skeena
+223,Pink (Odd),1974,NA,NA,Skeena
+223,Pink (Odd),1975,71896,100539,Skeena
+223,Pink (Odd),1976,NA,NA,Skeena
+223,Pink (Odd),1977,62050,141690,Skeena
+223,Pink (Odd),1978,NA,NA,Skeena
+223,Pink (Odd),1979,41245,68539,Skeena
+223,Pink (Odd),1980,NA,NA,Skeena
+223,Pink (Odd),1981,92749,166773,Skeena
+223,Pink (Odd),1982,NA,NA,Skeena
+223,Pink (Odd),1983,217066,718803,Skeena
+223,Pink (Odd),1984,NA,NA,Skeena
+223,Pink (Odd),1985,260981,535401,Skeena
+223,Pink (Odd),1986,NA,NA,Skeena
+223,Pink (Odd),1987,94112,211099,Skeena
+223,Pink (Odd),1988,NA,NA,Skeena
+223,Pink (Odd),1989,509230,1218639,Skeena
+223,Pink (Odd),1990,NA,NA,Skeena
+223,Pink (Odd),1991,222482,1155050,Skeena
+223,Pink (Odd),1992,NA,NA,Skeena
+223,Pink (Odd),1993,81182,262444,Skeena
+223,Pink (Odd),1994,NA,NA,Skeena
+223,Pink (Odd),1995,199110,498484,Skeena
+223,Pink (Odd),1996,NA,NA,Skeena
+223,Pink (Odd),1997,88662,153279,Skeena
+223,Pink (Odd),1998,NA,NA,Skeena
+223,Pink (Odd),1999,378999,991154,Skeena
+223,Pink (Odd),2000,NA,NA,Skeena
+223,Pink (Odd),2001,500485,709341,Skeena
+223,Pink (Odd),2002,NA,NA,Skeena
+223,Pink (Odd),2003,621163,865928,Skeena
+223,Pink (Odd),2004,NA,NA,Skeena
+223,Pink (Odd),2005,847286,1218081,Skeena
+223,Pink (Odd),2006,NA,NA,Skeena
+223,Pink (Odd),2007,512660,824310,Skeena
+223,Pink (Odd),2008,NA,NA,Skeena
+223,Pink (Odd),2009,415208,528925,Skeena
+223,Pink (Odd),2010,NA,NA,Skeena
+223,Pink (Odd),2011,108919,128620,Skeena
+223,Pink (Odd),2012,NA,NA,Skeena
+223,Pink (Odd),2013,550908,693378,Skeena
+223,Pink (Odd),2014,NA,NA,Skeena
+223,Pink (Odd),2015,103423,134587,Skeena
+223,Pink (Odd),2016,NA,NA,Skeena
+223,Pink (Odd),2017,104406,121566,Skeena
+223,Pink (Odd),2018,NA,NA,Skeena
+223,Pink (Odd),2019,NA,NA,Skeena
+223,Pink (Odd),2020,NA,NA,Skeena
+224,Chinook,1950,NA,NA,Skeena
+224,Chinook,1951,NA,NA,Skeena
+224,Chinook,1952,NA,NA,Skeena
+224,Chinook,1953,NA,NA,Skeena
+224,Chinook,1954,NA,NA,Skeena
+224,Chinook,1955,NA,NA,Skeena
+224,Chinook,1956,NA,NA,Skeena
+224,Chinook,1957,NA,NA,Skeena
+224,Chinook,1958,NA,NA,Skeena
+224,Chinook,1959,NA,NA,Skeena
+224,Chinook,1960,NA,NA,Skeena
+224,Chinook,1961,NA,NA,Skeena
+224,Chinook,1962,NA,NA,Skeena
+224,Chinook,1963,NA,NA,Skeena
+224,Chinook,1964,NA,NA,Skeena
+224,Chinook,1965,NA,NA,Skeena
+224,Chinook,1966,NA,NA,Skeena
+224,Chinook,1967,NA,NA,Skeena
+224,Chinook,1968,NA,NA,Skeena
+224,Chinook,1969,NA,NA,Skeena
+224,Chinook,1970,NA,NA,Skeena
+224,Chinook,1971,NA,NA,Skeena
+224,Chinook,1972,NA,NA,Skeena
+224,Chinook,1973,NA,NA,Skeena
+224,Chinook,1974,NA,NA,Skeena
+224,Chinook,1975,NA,NA,Skeena
+224,Chinook,1976,NA,NA,Skeena
+224,Chinook,1977,NA,NA,Skeena
+224,Chinook,1978,NA,NA,Skeena
+224,Chinook,1979,NA,NA,Skeena
+224,Chinook,1980,NA,NA,Skeena
+224,Chinook,1981,NA,NA,Skeena
+224,Chinook,1982,NA,NA,Skeena
+224,Chinook,1983,NA,NA,Skeena
+224,Chinook,1984,NA,NA,Skeena
+224,Chinook,1985,NA,NA,Skeena
+224,Chinook,1986,NA,NA,Skeena
+224,Chinook,1987,NA,NA,Skeena
+224,Chinook,1988,NA,NA,Skeena
+224,Chinook,1989,NA,NA,Skeena
+224,Chinook,1990,NA,NA,Skeena
+224,Chinook,1991,NA,NA,Skeena
+224,Chinook,1992,NA,NA,Skeena
+224,Chinook,1993,NA,NA,Skeena
+224,Chinook,1994,NA,NA,Skeena
+224,Chinook,1995,NA,NA,Skeena
+224,Chinook,1996,NA,NA,Skeena
+224,Chinook,1997,NA,NA,Skeena
+224,Chinook,1998,NA,NA,Skeena
+224,Chinook,1999,NA,NA,Skeena
+224,Chinook,2000,NA,NA,Skeena
+224,Chinook,2001,NA,NA,Skeena
+224,Chinook,2002,NA,NA,Skeena
+224,Chinook,2003,NA,NA,Skeena
+224,Chinook,2004,NA,NA,Skeena
+224,Chinook,2005,NA,NA,Skeena
+224,Chinook,2006,NA,NA,Skeena
+224,Chinook,2007,NA,NA,Skeena
+224,Chinook,2008,NA,NA,Skeena
+224,Chinook,2009,NA,NA,Skeena
+224,Chinook,2010,NA,NA,Skeena
+224,Chinook,2011,NA,NA,Skeena
+224,Chinook,2012,NA,NA,Skeena
+224,Chinook,2013,NA,NA,Skeena
+224,Chinook,2014,NA,NA,Skeena
+224,Chinook,2015,NA,NA,Skeena
+224,Chinook,2016,NA,NA,Skeena
+224,Chinook,2017,NA,NA,Skeena
+224,Chinook,2018,NA,NA,Skeena
+224,Chinook,2019,NA,NA,Skeena
+224,Chinook,2020,NA,NA,Skeena
+225,Coho,1950,NA,NA,Skeena
+225,Coho,1951,NA,NA,Skeena
+225,Coho,1952,NA,NA,Skeena
+225,Coho,1953,NA,NA,Skeena
+225,Coho,1954,28551,58420,Skeena
+225,Coho,1955,NA,NA,Skeena
+225,Coho,1956,66618,136313,Skeena
+225,Coho,1957,66618,136313,Skeena
+225,Coho,1958,14405,29475,Skeena
+225,Coho,1959,7613,15579,Skeena
+225,Coho,1960,7613,15579,Skeena
+225,Coho,1961,28551,58420,Skeena
+225,Coho,1962,66618,136313,Skeena
+225,Coho,1963,14275,26673,Skeena
+225,Coho,1964,14275,34453,Skeena
+225,Coho,1965,10863,19615,Skeena
+225,Coho,1966,47229,104598,Skeena
+225,Coho,1967,10863,19291,Skeena
+225,Coho,1968,21253,47069,Skeena
+225,Coho,1969,21253,39711,Skeena
+225,Coho,1970,17947,38175,Skeena
+225,Coho,1971,6140,13060,Skeena
+225,Coho,1972,8029,20776,Skeena
+225,Coho,1973,3750,7131,Skeena
+225,Coho,1974,5626,11734,Skeena
+225,Coho,1975,3750,6552,Skeena
+225,Coho,1976,3750,6552,Skeena
+225,Coho,1977,5626,12459,Skeena
+225,Coho,1978,3807,10617,Skeena
+225,Coho,1979,3778,11114,Skeena
+225,Coho,1980,7433,23818,Skeena
+225,Coho,1981,3732,9896,Skeena
+225,Coho,1982,7613,16521,Skeena
+225,Coho,1983,4758,19264,Skeena
+225,Coho,1984,6140,18567,Skeena
+225,Coho,1985,6612,21837,Skeena
+225,Coho,1986,7553,33065,Skeena
+225,Coho,1987,NA,NA,Skeena
+225,Coho,1988,3807,9187,Skeena
+225,Coho,1989,1142,2666,Skeena
+225,Coho,1990,61476,174796,Skeena
+225,Coho,1991,5219,15302,Skeena
+225,Coho,1992,5796,16200,Skeena
+225,Coho,1993,16006,43952,Skeena
+225,Coho,1994,NA,NA,Skeena
+225,Coho,1995,NA,NA,Skeena
+225,Coho,1996,NA,NA,Skeena
+225,Coho,1997,3952,8741,Skeena
+225,Coho,1998,NA,NA,Skeena
+225,Coho,1999,12395,24881,Skeena
+225,Coho,2000,5884,12526,Skeena
+225,Coho,2001,7684,16534,Skeena
+225,Coho,2002,12471,16070,Skeena
+225,Coho,2003,10100,18671,Skeena
+225,Coho,2004,7377,16536,Skeena
+225,Coho,2005,7693,18006,Skeena
+225,Coho,2006,4874,9289,Skeena
+225,Coho,2007,2986,5926,Skeena
+225,Coho,2008,2407,4036,Skeena
+225,Coho,2009,NA,NA,Skeena
+225,Coho,2010,4361,8121,Skeena
+225,Coho,2011,NA,NA,Skeena
+225,Coho,2012,NA,NA,Skeena
+225,Coho,2013,4814,14057,Skeena
+225,Coho,2014,4127,7155,Skeena
+225,Coho,2015,NA,NA,Skeena
+225,Coho,2016,NA,NA,Skeena
+225,Coho,2017,NA,NA,Skeena
+225,Coho,2018,NA,NA,Skeena
+225,Coho,2019,NA,NA,Skeena
+225,Coho,2020,NA,NA,Skeena
+226,River Sockeye,1950,NA,NA,Skeena
+226,River Sockeye,1951,NA,NA,Skeena
+226,River Sockeye,1952,NA,NA,Skeena
+226,River Sockeye,1953,NA,NA,Skeena
+226,River Sockeye,1954,NA,NA,Skeena
+226,River Sockeye,1955,NA,NA,Skeena
+226,River Sockeye,1956,NA,NA,Skeena
+226,River Sockeye,1957,NA,NA,Skeena
+226,River Sockeye,1958,NA,NA,Skeena
+226,River Sockeye,1959,NA,NA,Skeena
+226,River Sockeye,1960,NA,NA,Skeena
+226,River Sockeye,1961,NA,NA,Skeena
+226,River Sockeye,1962,NA,NA,Skeena
+226,River Sockeye,1963,NA,NA,Skeena
+226,River Sockeye,1964,NA,NA,Skeena
+226,River Sockeye,1965,NA,NA,Skeena
+226,River Sockeye,1966,NA,NA,Skeena
+226,River Sockeye,1967,NA,NA,Skeena
+226,River Sockeye,1968,NA,NA,Skeena
+226,River Sockeye,1969,NA,NA,Skeena
+226,River Sockeye,1970,NA,NA,Skeena
+226,River Sockeye,1971,NA,NA,Skeena
+226,River Sockeye,1972,NA,NA,Skeena
+226,River Sockeye,1973,NA,NA,Skeena
+226,River Sockeye,1974,NA,NA,Skeena
+226,River Sockeye,1975,NA,NA,Skeena
+226,River Sockeye,1976,NA,NA,Skeena
+226,River Sockeye,1977,NA,NA,Skeena
+226,River Sockeye,1978,NA,NA,Skeena
+226,River Sockeye,1979,NA,NA,Skeena
+226,River Sockeye,1980,NA,NA,Skeena
+226,River Sockeye,1981,NA,NA,Skeena
+226,River Sockeye,1982,NA,NA,Skeena
+226,River Sockeye,1983,NA,NA,Skeena
+226,River Sockeye,1984,NA,NA,Skeena
+226,River Sockeye,1985,NA,NA,Skeena
+226,River Sockeye,1986,NA,NA,Skeena
+226,River Sockeye,1987,NA,NA,Skeena
+226,River Sockeye,1988,NA,NA,Skeena
+226,River Sockeye,1989,NA,NA,Skeena
+226,River Sockeye,1990,NA,NA,Skeena
+226,River Sockeye,1991,NA,NA,Skeena
+226,River Sockeye,1992,NA,NA,Skeena
+226,River Sockeye,1993,NA,NA,Skeena
+226,River Sockeye,1994,NA,NA,Skeena
+226,River Sockeye,1995,NA,NA,Skeena
+226,River Sockeye,1996,NA,NA,Skeena
+226,River Sockeye,1997,NA,NA,Skeena
+226,River Sockeye,1998,NA,NA,Skeena
+226,River Sockeye,1999,NA,NA,Skeena
+226,River Sockeye,2000,NA,NA,Skeena
+226,River Sockeye,2001,NA,NA,Skeena
+226,River Sockeye,2002,NA,NA,Skeena
+226,River Sockeye,2003,NA,NA,Skeena
+226,River Sockeye,2004,NA,NA,Skeena
+226,River Sockeye,2005,NA,NA,Skeena
+226,River Sockeye,2006,NA,NA,Skeena
+226,River Sockeye,2007,NA,NA,Skeena
+226,River Sockeye,2008,NA,NA,Skeena
+226,River Sockeye,2009,NA,NA,Skeena
+226,River Sockeye,2010,NA,NA,Skeena
+226,River Sockeye,2011,NA,NA,Skeena
+226,River Sockeye,2012,NA,NA,Skeena
+226,River Sockeye,2013,NA,NA,Skeena
+226,River Sockeye,2014,NA,NA,Skeena
+226,River Sockeye,2015,NA,NA,Skeena
+226,River Sockeye,2016,NA,NA,Skeena
+226,River Sockeye,2017,NA,NA,Skeena
+226,River Sockeye,2018,NA,NA,Skeena
+226,River Sockeye,2019,NA,NA,Skeena
+226,River Sockeye,2020,NA,NA,Skeena
+227,Chinook,1950,NA,NA,Skeena
+227,Chinook,1951,NA,NA,Skeena
+227,Chinook,1952,NA,NA,Skeena
+227,Chinook,1953,NA,NA,Skeena
+227,Chinook,1954,NA,NA,Skeena
+227,Chinook,1955,NA,NA,Skeena
+227,Chinook,1956,NA,NA,Skeena
+227,Chinook,1957,NA,NA,Skeena
+227,Chinook,1958,NA,NA,Skeena
+227,Chinook,1959,NA,NA,Skeena
+227,Chinook,1960,NA,NA,Skeena
+227,Chinook,1961,NA,NA,Skeena
+227,Chinook,1962,NA,NA,Skeena
+227,Chinook,1963,NA,NA,Skeena
+227,Chinook,1964,NA,NA,Skeena
+227,Chinook,1965,NA,NA,Skeena
+227,Chinook,1966,NA,NA,Skeena
+227,Chinook,1967,NA,NA,Skeena
+227,Chinook,1968,NA,NA,Skeena
+227,Chinook,1969,NA,NA,Skeena
+227,Chinook,1970,NA,NA,Skeena
+227,Chinook,1971,NA,NA,Skeena
+227,Chinook,1972,NA,NA,Skeena
+227,Chinook,1973,NA,NA,Skeena
+227,Chinook,1974,NA,NA,Skeena
+227,Chinook,1975,NA,NA,Skeena
+227,Chinook,1976,NA,NA,Skeena
+227,Chinook,1977,NA,NA,Skeena
+227,Chinook,1978,NA,NA,Skeena
+227,Chinook,1979,NA,NA,Skeena
+227,Chinook,1980,NA,NA,Skeena
+227,Chinook,1981,NA,NA,Skeena
+227,Chinook,1982,NA,NA,Skeena
+227,Chinook,1983,NA,NA,Skeena
+227,Chinook,1984,NA,NA,Skeena
+227,Chinook,1985,NA,NA,Skeena
+227,Chinook,1986,NA,NA,Skeena
+227,Chinook,1987,NA,NA,Skeena
+227,Chinook,1988,NA,NA,Skeena
+227,Chinook,1989,NA,NA,Skeena
+227,Chinook,1990,NA,NA,Skeena
+227,Chinook,1991,NA,NA,Skeena
+227,Chinook,1992,NA,NA,Skeena
+227,Chinook,1993,NA,NA,Skeena
+227,Chinook,1994,NA,NA,Skeena
+227,Chinook,1995,NA,NA,Skeena
+227,Chinook,1996,NA,NA,Skeena
+227,Chinook,1997,NA,NA,Skeena
+227,Chinook,1998,NA,NA,Skeena
+227,Chinook,1999,NA,NA,Skeena
+227,Chinook,2000,NA,NA,Skeena
+227,Chinook,2001,NA,NA,Skeena
+227,Chinook,2002,NA,NA,Skeena
+227,Chinook,2003,NA,NA,Skeena
+227,Chinook,2004,NA,NA,Skeena
+227,Chinook,2005,NA,NA,Skeena
+227,Chinook,2006,NA,NA,Skeena
+227,Chinook,2007,NA,NA,Skeena
+227,Chinook,2008,NA,NA,Skeena
+227,Chinook,2009,NA,NA,Skeena
+227,Chinook,2010,NA,NA,Skeena
+227,Chinook,2011,NA,NA,Skeena
+227,Chinook,2012,NA,NA,Skeena
+227,Chinook,2013,NA,NA,Skeena
+227,Chinook,2014,NA,NA,Skeena
+227,Chinook,2015,NA,NA,Skeena
+227,Chinook,2016,NA,NA,Skeena
+227,Chinook,2017,NA,NA,Skeena
+227,Chinook,2018,NA,NA,Skeena
+227,Chinook,2019,NA,NA,Skeena
+227,Chinook,2020,NA,NA,Skeena
+229,Chinook,1950,NA,NA,Skeena
+229,Chinook,1951,NA,NA,Skeena
+229,Chinook,1952,NA,NA,Skeena
+229,Chinook,1953,NA,NA,Skeena
+229,Chinook,1954,NA,NA,Skeena
+229,Chinook,1955,NA,NA,Skeena
+229,Chinook,1956,NA,NA,Skeena
+229,Chinook,1957,NA,NA,Skeena
+229,Chinook,1958,NA,NA,Skeena
+229,Chinook,1959,NA,NA,Skeena
+229,Chinook,1960,NA,NA,Skeena
+229,Chinook,1961,NA,NA,Skeena
+229,Chinook,1962,NA,NA,Skeena
+229,Chinook,1963,NA,NA,Skeena
+229,Chinook,1964,NA,NA,Skeena
+229,Chinook,1965,NA,NA,Skeena
+229,Chinook,1966,NA,NA,Skeena
+229,Chinook,1967,NA,NA,Skeena
+229,Chinook,1968,NA,NA,Skeena
+229,Chinook,1969,NA,NA,Skeena
+229,Chinook,1970,NA,NA,Skeena
+229,Chinook,1971,NA,NA,Skeena
+229,Chinook,1972,NA,NA,Skeena
+229,Chinook,1973,NA,NA,Skeena
+229,Chinook,1974,NA,NA,Skeena
+229,Chinook,1975,NA,NA,Skeena
+229,Chinook,1976,NA,NA,Skeena
+229,Chinook,1977,NA,NA,Skeena
+229,Chinook,1978,NA,NA,Skeena
+229,Chinook,1979,NA,NA,Skeena
+229,Chinook,1980,NA,NA,Skeena
+229,Chinook,1981,NA,NA,Skeena
+229,Chinook,1982,NA,NA,Skeena
+229,Chinook,1983,NA,NA,Skeena
+229,Chinook,1984,NA,NA,Skeena
+229,Chinook,1985,NA,NA,Skeena
+229,Chinook,1986,NA,NA,Skeena
+229,Chinook,1987,NA,NA,Skeena
+229,Chinook,1988,NA,NA,Skeena
+229,Chinook,1989,NA,NA,Skeena
+229,Chinook,1990,NA,NA,Skeena
+229,Chinook,1991,NA,NA,Skeena
+229,Chinook,1992,NA,NA,Skeena
+229,Chinook,1993,NA,NA,Skeena
+229,Chinook,1994,NA,NA,Skeena
+229,Chinook,1995,NA,NA,Skeena
+229,Chinook,1996,NA,NA,Skeena
+229,Chinook,1997,NA,NA,Skeena
+229,Chinook,1998,NA,NA,Skeena
+229,Chinook,1999,NA,NA,Skeena
+229,Chinook,2000,NA,NA,Skeena
+229,Chinook,2001,NA,NA,Skeena
+229,Chinook,2002,NA,NA,Skeena
+229,Chinook,2003,NA,NA,Skeena
+229,Chinook,2004,NA,NA,Skeena
+229,Chinook,2005,NA,NA,Skeena
+229,Chinook,2006,NA,NA,Skeena
+229,Chinook,2007,NA,NA,Skeena
+229,Chinook,2008,NA,NA,Skeena
+229,Chinook,2009,NA,NA,Skeena
+229,Chinook,2010,NA,NA,Skeena
+229,Chinook,2011,NA,NA,Skeena
+229,Chinook,2012,NA,NA,Skeena
+229,Chinook,2013,NA,NA,Skeena
+229,Chinook,2014,NA,NA,Skeena
+229,Chinook,2015,NA,NA,Skeena
+229,Chinook,2016,NA,NA,Skeena
+229,Chinook,2017,NA,NA,Skeena
+229,Chinook,2018,NA,NA,Skeena
+229,Chinook,2019,NA,NA,Skeena
+229,Chinook,2020,NA,NA,Skeena
+230,Lake Sockeye,1950,NA,NA,Skeena
+230,Lake Sockeye,1951,NA,NA,Skeena
+230,Lake Sockeye,1952,NA,NA,Skeena
+230,Lake Sockeye,1953,NA,NA,Skeena
+230,Lake Sockeye,1954,NA,NA,Skeena
+230,Lake Sockeye,1955,NA,NA,Skeena
+230,Lake Sockeye,1956,NA,NA,Skeena
+230,Lake Sockeye,1957,NA,NA,Skeena
+230,Lake Sockeye,1958,NA,NA,Skeena
+230,Lake Sockeye,1959,NA,NA,Skeena
+230,Lake Sockeye,1960,NA,NA,Skeena
+230,Lake Sockeye,1961,NA,NA,Skeena
+230,Lake Sockeye,1962,NA,NA,Skeena
+230,Lake Sockeye,1963,NA,NA,Skeena
+230,Lake Sockeye,1964,NA,NA,Skeena
+230,Lake Sockeye,1965,NA,NA,Skeena
+230,Lake Sockeye,1966,NA,NA,Skeena
+230,Lake Sockeye,1967,NA,NA,Skeena
+230,Lake Sockeye,1968,NA,NA,Skeena
+230,Lake Sockeye,1969,NA,NA,Skeena
+230,Lake Sockeye,1970,NA,NA,Skeena
+230,Lake Sockeye,1971,NA,NA,Skeena
+230,Lake Sockeye,1972,NA,NA,Skeena
+230,Lake Sockeye,1973,NA,NA,Skeena
+230,Lake Sockeye,1974,NA,NA,Skeena
+230,Lake Sockeye,1975,NA,NA,Skeena
+230,Lake Sockeye,1976,NA,NA,Skeena
+230,Lake Sockeye,1977,NA,NA,Skeena
+230,Lake Sockeye,1978,NA,NA,Skeena
+230,Lake Sockeye,1979,NA,NA,Skeena
+230,Lake Sockeye,1980,NA,NA,Skeena
+230,Lake Sockeye,1981,NA,NA,Skeena
+230,Lake Sockeye,1982,NA,NA,Skeena
+230,Lake Sockeye,1983,NA,NA,Skeena
+230,Lake Sockeye,1984,NA,NA,Skeena
+230,Lake Sockeye,1985,NA,NA,Skeena
+230,Lake Sockeye,1986,NA,NA,Skeena
+230,Lake Sockeye,1987,NA,NA,Skeena
+230,Lake Sockeye,1988,NA,NA,Skeena
+230,Lake Sockeye,1989,NA,NA,Skeena
+230,Lake Sockeye,1990,NA,NA,Skeena
+230,Lake Sockeye,1991,NA,NA,Skeena
+230,Lake Sockeye,1992,NA,NA,Skeena
+230,Lake Sockeye,1993,NA,NA,Skeena
+230,Lake Sockeye,1994,NA,NA,Skeena
+230,Lake Sockeye,1995,NA,NA,Skeena
+230,Lake Sockeye,1996,NA,NA,Skeena
+230,Lake Sockeye,1997,NA,NA,Skeena
+230,Lake Sockeye,1998,NA,NA,Skeena
+230,Lake Sockeye,1999,NA,NA,Skeena
+230,Lake Sockeye,2000,NA,NA,Skeena
+230,Lake Sockeye,2001,NA,NA,Skeena
+230,Lake Sockeye,2002,NA,NA,Skeena
+230,Lake Sockeye,2003,NA,NA,Skeena
+230,Lake Sockeye,2004,NA,NA,Skeena
+230,Lake Sockeye,2005,NA,NA,Skeena
+230,Lake Sockeye,2006,NA,NA,Skeena
+230,Lake Sockeye,2007,NA,NA,Skeena
+230,Lake Sockeye,2008,NA,NA,Skeena
+230,Lake Sockeye,2009,NA,NA,Skeena
+230,Lake Sockeye,2010,NA,NA,Skeena
+230,Lake Sockeye,2011,NA,NA,Skeena
+230,Lake Sockeye,2012,NA,NA,Skeena
+230,Lake Sockeye,2013,NA,NA,Skeena
+230,Lake Sockeye,2014,NA,NA,Skeena
+230,Lake Sockeye,2015,NA,NA,Skeena
+230,Lake Sockeye,2016,NA,NA,Skeena
+230,Lake Sockeye,2017,NA,NA,Skeena
+230,Lake Sockeye,2018,NA,NA,Skeena
+230,Lake Sockeye,2019,NA,NA,Skeena
+230,Lake Sockeye,2020,NA,NA,Skeena
+231,Coho,1950,NA,NA,Skeena
+231,Coho,1951,NA,NA,Skeena
+231,Coho,1952,NA,NA,Skeena
+231,Coho,1953,NA,NA,Skeena
+231,Coho,1954,5848,12995,Skeena
+231,Coho,1955,NA,NA,Skeena
+231,Coho,1956,NA,NA,Skeena
+231,Coho,1957,NA,NA,Skeena
+231,Coho,1958,17543,38985,Skeena
+231,Coho,1959,4678,10396,Skeena
+231,Coho,1960,NA,NA,Skeena
+231,Coho,1961,14035,31188,Skeena
+231,Coho,1962,11696,25990,Skeena
+231,Coho,1963,23391,46783,Skeena
+231,Coho,1964,NA,NA,Skeena
+231,Coho,1965,11696,22492,Skeena
+231,Coho,1966,4678,11410,Skeena
+231,Coho,1967,5848,11034,Skeena
+231,Coho,1968,5848,14263,Skeena
+231,Coho,1969,3509,7017,Skeena
+231,Coho,1970,10247,23831,Skeena
+231,Coho,1971,NA,NA,Skeena
+231,Coho,1972,538,1582,Skeena
+231,Coho,1973,5848,11934,Skeena
+231,Coho,1974,NA,NA,Skeena
+231,Coho,1975,NA,NA,Skeena
+231,Coho,1976,NA,NA,Skeena
+231,Coho,1977,NA,NA,Skeena
+231,Coho,1978,NA,NA,Skeena
+231,Coho,1979,NA,NA,Skeena
+231,Coho,1980,NA,NA,Skeena
+231,Coho,1981,NA,NA,Skeena
+231,Coho,1982,NA,NA,Skeena
+231,Coho,1983,NA,NA,Skeena
+231,Coho,1984,NA,NA,Skeena
+231,Coho,1985,NA,NA,Skeena
+231,Coho,1986,NA,NA,Skeena
+231,Coho,1987,NA,NA,Skeena
+231,Coho,1988,NA,NA,Skeena
+231,Coho,1989,NA,NA,Skeena
+231,Coho,1990,2339,7730,Skeena
+231,Coho,1991,NA,NA,Skeena
+231,Coho,1992,NA,NA,Skeena
+231,Coho,1993,844,1949,Skeena
+231,Coho,1994,NA,NA,Skeena
+231,Coho,1995,NA,NA,Skeena
+231,Coho,1996,NA,NA,Skeena
+231,Coho,1997,NA,NA,Skeena
+231,Coho,1998,NA,NA,Skeena
+231,Coho,1999,NA,NA,Skeena
+231,Coho,2000,5049,6129,Skeena
+231,Coho,2001,7401,10280,Skeena
+231,Coho,2002,7208,9401,Skeena
+231,Coho,2003,7498,10232,Skeena
+231,Coho,2004,7446,12388,Skeena
+231,Coho,2005,15595,21440,Skeena
+231,Coho,2006,8326,10785,Skeena
+231,Coho,2007,6556,11392,Skeena
+231,Coho,2008,8830,13367,Skeena
+231,Coho,2009,21526,34348,Skeena
+231,Coho,2010,16483,23670,Skeena
+231,Coho,2011,12800,22425,Skeena
+231,Coho,2012,12638,19193,Skeena
+231,Coho,2013,16235,25652,Skeena
+231,Coho,2014,25446,33600,Skeena
+231,Coho,2015,16015,26708,Skeena
+231,Coho,2016,9177,15670,Skeena
+231,Coho,2017,14653,14653,Skeena
+231,Coho,2018,NA,NA,Skeena
+231,Coho,2019,NA,NA,Skeena
+231,Coho,2020,NA,NA,Skeena
+240,Pink (Even),1950,NA,NA,Skeena
+240,Pink (Even),1951,NA,NA,Skeena
+240,Pink (Even),1952,NA,NA,Skeena
+240,Pink (Even),1953,NA,NA,Skeena
+240,Pink (Even),1954,NA,NA,Skeena
+240,Pink (Even),1955,NA,NA,Skeena
+240,Pink (Even),1956,NA,NA,Skeena
+240,Pink (Even),1957,NA,NA,Skeena
+240,Pink (Even),1958,NA,NA,Skeena
+240,Pink (Even),1959,NA,NA,Skeena
+240,Pink (Even),1960,NA,NA,Skeena
+240,Pink (Even),1961,NA,NA,Skeena
+240,Pink (Even),1962,NA,NA,Skeena
+240,Pink (Even),1963,NA,NA,Skeena
+240,Pink (Even),1964,NA,NA,Skeena
+240,Pink (Even),1965,NA,NA,Skeena
+240,Pink (Even),1966,NA,NA,Skeena
+240,Pink (Even),1967,NA,NA,Skeena
+240,Pink (Even),1968,NA,NA,Skeena
+240,Pink (Even),1969,NA,NA,Skeena
+240,Pink (Even),1970,NA,NA,Skeena
+240,Pink (Even),1971,NA,NA,Skeena
+240,Pink (Even),1972,NA,NA,Skeena
+240,Pink (Even),1973,NA,NA,Skeena
+240,Pink (Even),1974,NA,NA,Skeena
+240,Pink (Even),1975,NA,NA,Skeena
+240,Pink (Even),1976,NA,NA,Skeena
+240,Pink (Even),1977,NA,NA,Skeena
+240,Pink (Even),1978,NA,NA,Skeena
+240,Pink (Even),1979,NA,NA,Skeena
+240,Pink (Even),1980,NA,NA,Skeena
+240,Pink (Even),1981,NA,NA,Skeena
+240,Pink (Even),1982,NA,NA,Skeena
+240,Pink (Even),1983,NA,NA,Skeena
+240,Pink (Even),1984,NA,NA,Skeena
+240,Pink (Even),1985,NA,NA,Skeena
+240,Pink (Even),1986,NA,NA,Skeena
+240,Pink (Even),1987,NA,NA,Skeena
+240,Pink (Even),1988,NA,NA,Skeena
+240,Pink (Even),1989,NA,NA,Skeena
+240,Pink (Even),1990,NA,NA,Skeena
+240,Pink (Even),1991,NA,NA,Skeena
+240,Pink (Even),1992,NA,NA,Skeena
+240,Pink (Even),1993,NA,NA,Skeena
+240,Pink (Even),1994,NA,NA,Skeena
+240,Pink (Even),1995,NA,NA,Skeena
+240,Pink (Even),1996,NA,NA,Skeena
+240,Pink (Even),1997,NA,NA,Skeena
+240,Pink (Even),1998,NA,NA,Skeena
+240,Pink (Even),1999,NA,NA,Skeena
+240,Pink (Even),2000,NA,NA,Skeena
+240,Pink (Even),2001,NA,NA,Skeena
+240,Pink (Even),2002,NA,NA,Skeena
+240,Pink (Even),2003,NA,NA,Skeena
+240,Pink (Even),2004,NA,NA,Skeena
+240,Pink (Even),2005,NA,NA,Skeena
+240,Pink (Even),2006,NA,NA,Skeena
+240,Pink (Even),2007,NA,NA,Skeena
+240,Pink (Even),2008,NA,NA,Skeena
+240,Pink (Even),2009,NA,NA,Skeena
+240,Pink (Even),2010,NA,NA,Skeena
+240,Pink (Even),2011,NA,NA,Skeena
+240,Pink (Even),2012,NA,NA,Skeena
+240,Pink (Even),2013,NA,NA,Skeena
+240,Pink (Even),2014,NA,NA,Skeena
+240,Pink (Even),2015,NA,NA,Skeena
+240,Pink (Even),2016,NA,NA,Skeena
+240,Pink (Even),2017,NA,NA,Skeena
+240,Pink (Even),2018,NA,NA,Skeena
+240,Pink (Even),2019,NA,NA,Skeena
+240,Pink (Even),2020,NA,NA,Skeena
+241,Chinook,1950,NA,NA,Skeena
+241,Chinook,1951,NA,NA,Skeena
+241,Chinook,1952,NA,NA,Skeena
+241,Chinook,1953,NA,NA,Skeena
+241,Chinook,1954,NA,NA,Skeena
+241,Chinook,1955,NA,NA,Skeena
+241,Chinook,1956,NA,NA,Skeena
+241,Chinook,1957,NA,NA,Skeena
+241,Chinook,1958,NA,NA,Skeena
+241,Chinook,1959,NA,NA,Skeena
+241,Chinook,1960,NA,NA,Skeena
+241,Chinook,1961,NA,NA,Skeena
+241,Chinook,1962,NA,NA,Skeena
+241,Chinook,1963,NA,NA,Skeena
+241,Chinook,1964,NA,NA,Skeena
+241,Chinook,1965,NA,NA,Skeena
+241,Chinook,1966,NA,NA,Skeena
+241,Chinook,1967,NA,NA,Skeena
+241,Chinook,1968,NA,NA,Skeena
+241,Chinook,1969,NA,NA,Skeena
+241,Chinook,1970,NA,NA,Skeena
+241,Chinook,1971,NA,NA,Skeena
+241,Chinook,1972,NA,NA,Skeena
+241,Chinook,1973,NA,NA,Skeena
+241,Chinook,1974,NA,NA,Skeena
+241,Chinook,1975,NA,NA,Skeena
+241,Chinook,1976,NA,NA,Skeena
+241,Chinook,1977,NA,NA,Skeena
+241,Chinook,1978,NA,NA,Skeena
+241,Chinook,1979,NA,NA,Skeena
+241,Chinook,1980,NA,NA,Skeena
+241,Chinook,1981,NA,NA,Skeena
+241,Chinook,1982,NA,NA,Skeena
+241,Chinook,1983,NA,NA,Skeena
+241,Chinook,1984,NA,NA,Skeena
+241,Chinook,1985,NA,NA,Skeena
+241,Chinook,1986,NA,NA,Skeena
+241,Chinook,1987,NA,NA,Skeena
+241,Chinook,1988,NA,NA,Skeena
+241,Chinook,1989,NA,NA,Skeena
+241,Chinook,1990,NA,NA,Skeena
+241,Chinook,1991,NA,NA,Skeena
+241,Chinook,1992,NA,NA,Skeena
+241,Chinook,1993,NA,NA,Skeena
+241,Chinook,1994,NA,NA,Skeena
+241,Chinook,1995,NA,NA,Skeena
+241,Chinook,1996,NA,NA,Skeena
+241,Chinook,1997,NA,NA,Skeena
+241,Chinook,1998,NA,NA,Skeena
+241,Chinook,1999,NA,NA,Skeena
+241,Chinook,2000,NA,NA,Skeena
+241,Chinook,2001,NA,NA,Skeena
+241,Chinook,2002,NA,NA,Skeena
+241,Chinook,2003,NA,NA,Skeena
+241,Chinook,2004,NA,NA,Skeena
+241,Chinook,2005,NA,NA,Skeena
+241,Chinook,2006,NA,NA,Skeena
+241,Chinook,2007,NA,NA,Skeena
+241,Chinook,2008,NA,NA,Skeena
+241,Chinook,2009,NA,NA,Skeena
+241,Chinook,2010,NA,NA,Skeena
+241,Chinook,2011,NA,NA,Skeena
+241,Chinook,2012,NA,NA,Skeena
+241,Chinook,2013,NA,NA,Skeena
+241,Chinook,2014,NA,NA,Skeena
+241,Chinook,2015,NA,NA,Skeena
+241,Chinook,2016,NA,NA,Skeena
+241,Chinook,2017,NA,NA,Skeena
+241,Chinook,2018,NA,NA,Skeena
+241,Chinook,2019,NA,NA,Skeena
+241,Chinook,2020,NA,NA,Skeena
+242,Chum,1950,NA,NA,Skeena
+242,Chum,1951,NA,NA,Skeena
+242,Chum,1952,NA,NA,Skeena
+242,Chum,1953,NA,NA,Skeena
+242,Chum,1954,NA,NA,Skeena
+242,Chum,1955,NA,NA,Skeena
+242,Chum,1956,NA,NA,Skeena
+242,Chum,1957,NA,NA,Skeena
+242,Chum,1958,NA,NA,Skeena
+242,Chum,1959,NA,NA,Skeena
+242,Chum,1960,NA,NA,Skeena
+242,Chum,1961,NA,NA,Skeena
+242,Chum,1962,NA,NA,Skeena
+242,Chum,1963,NA,NA,Skeena
+242,Chum,1964,NA,NA,Skeena
+242,Chum,1965,NA,NA,Skeena
+242,Chum,1966,NA,NA,Skeena
+242,Chum,1967,NA,NA,Skeena
+242,Chum,1968,NA,NA,Skeena
+242,Chum,1969,NA,NA,Skeena
+242,Chum,1970,NA,NA,Skeena
+242,Chum,1971,NA,NA,Skeena
+242,Chum,1972,NA,NA,Skeena
+242,Chum,1973,NA,NA,Skeena
+242,Chum,1974,NA,NA,Skeena
+242,Chum,1975,NA,NA,Skeena
+242,Chum,1976,NA,NA,Skeena
+242,Chum,1977,NA,NA,Skeena
+242,Chum,1978,NA,NA,Skeena
+242,Chum,1979,NA,NA,Skeena
+242,Chum,1980,NA,NA,Skeena
+242,Chum,1981,NA,NA,Skeena
+242,Chum,1982,NA,NA,Skeena
+242,Chum,1983,NA,NA,Skeena
+242,Chum,1984,NA,NA,Skeena
+242,Chum,1985,NA,NA,Skeena
+242,Chum,1986,NA,NA,Skeena
+242,Chum,1987,NA,NA,Skeena
+242,Chum,1988,NA,NA,Skeena
+242,Chum,1989,NA,NA,Skeena
+242,Chum,1990,NA,NA,Skeena
+242,Chum,1991,NA,NA,Skeena
+242,Chum,1992,NA,NA,Skeena
+242,Chum,1993,NA,NA,Skeena
+242,Chum,1994,NA,NA,Skeena
+242,Chum,1995,NA,NA,Skeena
+242,Chum,1996,NA,NA,Skeena
+242,Chum,1997,NA,NA,Skeena
+242,Chum,1998,NA,NA,Skeena
+242,Chum,1999,NA,NA,Skeena
+242,Chum,2000,NA,NA,Skeena
+242,Chum,2001,NA,NA,Skeena
+242,Chum,2002,NA,NA,Skeena
+242,Chum,2003,NA,NA,Skeena
+242,Chum,2004,NA,NA,Skeena
+242,Chum,2005,NA,NA,Skeena
+242,Chum,2006,NA,NA,Skeena
+242,Chum,2007,NA,NA,Skeena
+242,Chum,2008,NA,NA,Skeena
+242,Chum,2009,NA,NA,Skeena
+242,Chum,2010,NA,NA,Skeena
+242,Chum,2011,NA,NA,Skeena
+242,Chum,2012,NA,NA,Skeena
+242,Chum,2013,NA,NA,Skeena
+242,Chum,2014,NA,NA,Skeena
+242,Chum,2015,NA,NA,Skeena
+242,Chum,2016,NA,NA,Skeena
+242,Chum,2017,NA,NA,Skeena
+242,Chum,2018,NA,NA,Skeena
+242,Chum,2019,NA,NA,Skeena
+242,Chum,2020,NA,NA,Skeena
+243,Lake Sockeye,1950,NA,NA,Skeena
+243,Lake Sockeye,1951,NA,NA,Skeena
+243,Lake Sockeye,1952,NA,NA,Skeena
+243,Lake Sockeye,1953,NA,NA,Skeena
+243,Lake Sockeye,1954,NA,NA,Skeena
+243,Lake Sockeye,1955,NA,NA,Skeena
+243,Lake Sockeye,1956,NA,NA,Skeena
+243,Lake Sockeye,1957,NA,NA,Skeena
+243,Lake Sockeye,1958,NA,NA,Skeena
+243,Lake Sockeye,1959,NA,NA,Skeena
+243,Lake Sockeye,1960,NA,NA,Skeena
+243,Lake Sockeye,1961,NA,NA,Skeena
+243,Lake Sockeye,1962,NA,NA,Skeena
+243,Lake Sockeye,1963,NA,NA,Skeena
+243,Lake Sockeye,1964,NA,NA,Skeena
+243,Lake Sockeye,1965,NA,NA,Skeena
+243,Lake Sockeye,1966,NA,NA,Skeena
+243,Lake Sockeye,1967,NA,NA,Skeena
+243,Lake Sockeye,1968,NA,NA,Skeena
+243,Lake Sockeye,1969,NA,NA,Skeena
+243,Lake Sockeye,1970,NA,NA,Skeena
+243,Lake Sockeye,1971,NA,NA,Skeena
+243,Lake Sockeye,1972,NA,NA,Skeena
+243,Lake Sockeye,1973,NA,NA,Skeena
+243,Lake Sockeye,1974,NA,NA,Skeena
+243,Lake Sockeye,1975,NA,NA,Skeena
+243,Lake Sockeye,1976,NA,NA,Skeena
+243,Lake Sockeye,1977,NA,NA,Skeena
+243,Lake Sockeye,1978,NA,NA,Skeena
+243,Lake Sockeye,1979,NA,NA,Skeena
+243,Lake Sockeye,1980,NA,NA,Skeena
+243,Lake Sockeye,1981,NA,NA,Skeena
+243,Lake Sockeye,1982,NA,NA,Skeena
+243,Lake Sockeye,1983,NA,NA,Skeena
+243,Lake Sockeye,1984,NA,NA,Skeena
+243,Lake Sockeye,1985,NA,NA,Skeena
+243,Lake Sockeye,1986,NA,NA,Skeena
+243,Lake Sockeye,1987,NA,NA,Skeena
+243,Lake Sockeye,1988,NA,NA,Skeena
+243,Lake Sockeye,1989,NA,NA,Skeena
+243,Lake Sockeye,1990,NA,NA,Skeena
+243,Lake Sockeye,1991,NA,NA,Skeena
+243,Lake Sockeye,1992,NA,NA,Skeena
+243,Lake Sockeye,1993,NA,NA,Skeena
+243,Lake Sockeye,1994,NA,NA,Skeena
+243,Lake Sockeye,1995,NA,NA,Skeena
+243,Lake Sockeye,1996,NA,NA,Skeena
+243,Lake Sockeye,1997,NA,NA,Skeena
+243,Lake Sockeye,1998,NA,NA,Skeena
+243,Lake Sockeye,1999,NA,NA,Skeena
+243,Lake Sockeye,2000,NA,NA,Skeena
+243,Lake Sockeye,2001,NA,NA,Skeena
+243,Lake Sockeye,2002,NA,NA,Skeena
+243,Lake Sockeye,2003,NA,NA,Skeena
+243,Lake Sockeye,2004,NA,NA,Skeena
+243,Lake Sockeye,2005,NA,NA,Skeena
+243,Lake Sockeye,2006,NA,NA,Skeena
+243,Lake Sockeye,2007,NA,NA,Skeena
+243,Lake Sockeye,2008,NA,NA,Skeena
+243,Lake Sockeye,2009,NA,NA,Skeena
+243,Lake Sockeye,2010,NA,NA,Skeena
+243,Lake Sockeye,2011,NA,NA,Skeena
+243,Lake Sockeye,2012,NA,NA,Skeena
+243,Lake Sockeye,2013,NA,NA,Skeena
+243,Lake Sockeye,2014,NA,NA,Skeena
+243,Lake Sockeye,2015,NA,NA,Skeena
+243,Lake Sockeye,2016,NA,NA,Skeena
+243,Lake Sockeye,2017,NA,NA,Skeena
+243,Lake Sockeye,2018,NA,NA,Skeena
+243,Lake Sockeye,2019,NA,NA,Skeena
+243,Lake Sockeye,2020,NA,NA,Skeena
+416,Lake Sockeye,1960,9416,12030,Skeena
+416,Lake Sockeye,1961,20178,25391,Skeena
+416,Lake Sockeye,1962,9416,12140,Skeena
+416,Lake Sockeye,1963,20178,23400,Skeena
+416,Lake Sockeye,1964,9416,12026,Skeena
+416,Lake Sockeye,1965,9416,11545,Skeena
+416,Lake Sockeye,1966,4036,5422,Skeena
+416,Lake Sockeye,1967,12107,16832,Skeena
+416,Lake Sockeye,1968,9416,12529,Skeena
+416,Lake Sockeye,1969,9416,11831,Skeena
+416,Lake Sockeye,1970,9416,11854,Skeena
+416,Lake Sockeye,1971,5381,6925,Skeena
+416,Lake Sockeye,1972,2690,3487,Skeena
+416,Lake Sockeye,1973,2690,3610,Skeena
+416,Lake Sockeye,1974,1345,1858,Skeena
+416,Lake Sockeye,1975,2690,3248,Skeena
+416,Lake Sockeye,1976,1883,2455,Skeena
+416,Lake Sockeye,1977,4036,5279,Skeena
+416,Lake Sockeye,1978,1345,1782,Skeena
+416,Lake Sockeye,1979,3228,4185,Skeena
+416,Lake Sockeye,1980,,,Skeena
+416,Lake Sockeye,1981,1400,1827,Skeena
+416,Lake Sockeye,1982,6850,8816,Skeena
+416,Lake Sockeye,1983,2000,2220,Skeena
+416,Lake Sockeye,1984,2018,2396,Skeena
+416,Lake Sockeye,1985,5000,7070,Skeena
+416,Lake Sockeye,1986,5381,7041,Skeena
+416,Lake Sockeye,1987,6726,7732,Skeena
+416,Lake Sockeye,1988,942,1479,Skeena
+416,Lake Sockeye,1989,5381,7164,Skeena
+416,Lake Sockeye,1990,12000,16435,Skeena
+416,Lake Sockeye,1991,7000,9841,Skeena
+416,Lake Sockeye,1992,9000,15156,Skeena
+416,Lake Sockeye,1993,10750,17406,Skeena
+416,Lake Sockeye,1994,10750,15094,Skeena
+416,Lake Sockeye,1995,5375,8169,Skeena
+416,Lake Sockeye,1996,2150,3561,Skeena
+416,Lake Sockeye,1997,4778,9681,Skeena
+416,Lake Sockeye,1998,5200,6889,Skeena
+416,Lake Sockeye,1999,4000,4860,Skeena
+416,Lake Sockeye,2000,2200,3233,Skeena
+416,Lake Sockeye,2001,1800,2135,Skeena
+416,Lake Sockeye,2002,4800,6393,Skeena
+416,Lake Sockeye,2003,15000,17875,Skeena
+416,Lake Sockeye,2004,5800,6859,Skeena
+416,Lake Sockeye,2005,7000,7981,Skeena
+416,Lake Sockeye,2006,4400,5564,Skeena
+416,Lake Sockeye,2007,860,1010,Skeena
+416,Lake Sockeye,2008,1262,1386,Skeena
+416,Lake Sockeye,2009,6000,6548,Skeena
+416,Lake Sockeye,2010,5800,6391,Skeena
+416,Lake Sockeye,2011,4900,5632,Skeena
+416,Lake Sockeye,2012,1694,1910,Skeena
+416,Lake Sockeye,2013,1810,1937,Skeena
+416,Lake Sockeye,2014,3726,4027,Skeena
+416,Lake Sockeye,2015,3620,3839,Skeena
+416,Lake Sockeye,2016,349,398,Skeena
+416,Lake Sockeye,2017,,,Skeena
+416,Lake Sockeye,2018,168,175,Skeena
+416,Lake Sockeye,2019,1000,1080,Skeena
+416,Lake Sockeye,2020,,,Skeena
+416,Lake Sockeye,2021,,,Skeena
+416,Lake Sockeye,2022,,,Skeena
+416,Lake Sockeye,2023,,,Skeena
+417,Lake Sockeye,1960,7000,8943,Skeena
+417,Lake Sockeye,1961,7000,8809,Skeena
+417,Lake Sockeye,1962,7000,9025,Skeena
+417,Lake Sockeye,1963,7000,8118,Skeena
+417,Lake Sockeye,1964,7000,8940,Skeena
+417,Lake Sockeye,1965,7000,8582,Skeena
+417,Lake Sockeye,1966,4000,5374,Skeena
+417,Lake Sockeye,1967,7000,9732,Skeena
+417,Lake Sockeye,1968,3000,3992,Skeena
+417,Lake Sockeye,1969,3000,3769,Skeena
+417,Lake Sockeye,1970,3000,3777,Skeena
+417,Lake Sockeye,1971,4000,5148,Skeena
+417,Lake Sockeye,1972,2000,2593,Skeena
+417,Lake Sockeye,1973,1600,2147,Skeena
+417,Lake Sockeye,1974,1200,1657,Skeena
+417,Lake Sockeye,1975,2000,2415,Skeena
+417,Lake Sockeye,1976,1400,1825,Skeena
+417,Lake Sockeye,1977,400,523,Skeena
+417,Lake Sockeye,1978,800,1060,Skeena
+417,Lake Sockeye,1979,500,648,Skeena
+417,Lake Sockeye,1980,2800,3692,Skeena
+417,Lake Sockeye,1981,1600,2088,Skeena
+417,Lake Sockeye,1982,12000,15444,Skeena
+417,Lake Sockeye,1983,550,610,Skeena
+417,Lake Sockeye,1984,6600,7837,Skeena
+417,Lake Sockeye,1985,3000,4242,Skeena
+417,Lake Sockeye,1986,6000,7851,Skeena
+417,Lake Sockeye,1987,,,Skeena
+417,Lake Sockeye,1988,8000,12565,Skeena
+417,Lake Sockeye,1989,6000,7988,Skeena
+417,Lake Sockeye,1990,6000,8218,Skeena
+417,Lake Sockeye,1991,3400,4780,Skeena
+417,Lake Sockeye,1992,4000,6736,Skeena
+417,Lake Sockeye,1993,2000,3238,Skeena
+417,Lake Sockeye,1994,,,Skeena
+417,Lake Sockeye,1995,2400,3647,Skeena
+417,Lake Sockeye,1996,1200,1987,Skeena
+417,Lake Sockeye,1997,5000,10131,Skeena
+417,Lake Sockeye,1998,1600,2120,Skeena
+417,Lake Sockeye,1999,5000,6075,Skeena
+417,Lake Sockeye,2000,2400,3527,Skeena
+417,Lake Sockeye,2001,4000,4745,Skeena
+417,Lake Sockeye,2002,4400,5860,Skeena
+417,Lake Sockeye,2003,10000,11917,Skeena
+417,Lake Sockeye,2004,9000,10643,Skeena
+417,Lake Sockeye,2005,10000,11402,Skeena
+417,Lake Sockeye,2006,4600,5816,Skeena
+417,Lake Sockeye,2007,5000,5872,Skeena
+417,Lake Sockeye,2008,,,Skeena
+417,Lake Sockeye,2009,2000,2183,Skeena
+417,Lake Sockeye,2010,,,Skeena
+417,Lake Sockeye,2011,,,Skeena
+417,Lake Sockeye,2012,,,Skeena
+417,Lake Sockeye,2013,1020,1092,Skeena
+417,Lake Sockeye,2014,,,Skeena
+417,Lake Sockeye,2015,3400,3605,Skeena
+417,Lake Sockeye,2016,,,Skeena
+417,Lake Sockeye,2017,,,Skeena
+417,Lake Sockeye,2018,,,Skeena
+417,Lake Sockeye,2019,,,Skeena
+417,Lake Sockeye,2020,,,Skeena
+417,Lake Sockeye,2021,,,Skeena
+417,Lake Sockeye,2022,,,Skeena
+417,Lake Sockeye,2023,,,Skeena

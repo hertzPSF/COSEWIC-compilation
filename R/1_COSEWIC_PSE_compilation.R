@@ -12,8 +12,8 @@ rm(list = ls(all=TRUE)); #Remove all the objects in the memory
 cc_file <- read.csv("data/dataset_1part1.Jun82023_CC.csv", header = T)
 fraser_file <- read.csv("data/dataset_1part1.Jul152024_Fraser.csv", header = T)
 vimi_file <- read.csv("data/dataset_1part1.Aug292023_VIMI.csv", header = T)
-nass_file <- read.csv("data/dataset_1part1.Apr192024_Nass.csv", header = T)
-skeena_file <- read.csv("data/dataset_1part1.May262022_Skeena.csv", header = T)
+nass_file <- read.csv("data/dataset_1part1.Nov152024_Nass.csv", header = T)
+skeena_file <- read.csv("data/dataset_1part1.Nov152024_Skeena.csv", header = T)
 hg_file <- read.csv("data/dataset_1part1.Jun82023_HG.csv", header = T)
 columbia_file <- read.csv("data/dataset_1part1.Feb122024_Columbia.csv", header = T)
 yukon_file <- read.csv("data/yukon_chinook_rr_escape.4Sep2024.csv", header = T)
@@ -52,7 +52,7 @@ write.csv(cu_dat, "Output/CU_Spawner_Abund_20240904.csv", row.names=FALSE)
 rm(cc_file, fraser_file, vimi_file, nass_file, skeena_file, hg_file, columbia_file, yukon_file)
 
 #### read in CU decoder
-cu_decoder <- read.csv("data/all_regions_cu_du_smu_decoder-Jan-2024.csv", header = T)
+cu_decoder <- read.csv("data/all_regions_cu_du_smu_decoder-Nov-2024.csv", header = T)
   #rename(cuid = ï..cuid) #fix weird special char in colname
 
 #read in other meta-data type files
@@ -72,5 +72,5 @@ cu_metadata <- left_join(cu_decoder, cu_dq, by="cuid") %>%
          catch_quality, dq_score, cu_enh_rank, Sites,RegionAbbr) %>%
   rename(Region = RegionAbbr)
 
-write.csv(cu_metadata, "Output/CU_Metadata_20240904.csv", row.names=FALSE)
+write.csv(cu_metadata, "Output/CU_Metadata_20241114.csv", row.names=FALSE)
 
